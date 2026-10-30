@@ -1,0 +1,9499 @@
+[
+  {
+    "id": "606",
+    "pokemon": "Beheeyem",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Jacoby Brissett",
+    "playerId": "00-0033119",
+    "team": "ARI",
+    "maddenOvr": 74
+  },
+  {
+    "id": "203",
+    "pokemon": "Girafarig",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Jeremiyah Love",
+    "playerId": "00-0041027",
+    "team": "ARI",
+    "maddenOvr": 82
+  },
+  {
+    "id": "156",
+    "pokemon": "Quilava",
+    "types": [
+      "Fire"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Tyler Allgeier",
+    "playerId": "00-0037263",
+    "team": "ARI",
+    "maddenOvr": 81
+  },
+  {
+    "id": "571",
+    "pokemon": "Zoroark",
+    "types": [
+      "Dark"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Michael Wilson",
+    "playerId": "00-0038559",
+    "team": "ARI",
+    "maddenOvr": 82
+  },
+  {
+    "id": "405",
+    "pokemon": "Luxray",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Kendrick Bourne",
+    "playerId": "00-0033307",
+    "team": "ARI",
+    "maddenOvr": 75
+  },
+  {
+    "id": "602",
+    "pokemon": "Tynamo",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Reggie Virgil",
+    "playerId": "00-0041070",
+    "team": "ARI",
+    "maddenOvr": 69
+  },
+  {
+    "id": "187",
+    "pokemon": "Hoppip",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Simi Fehoko",
+    "playerId": "00-0036646",
+    "team": "ARI",
+    "maddenOvr": 67
+  },
+  {
+    "id": "484",
+    "pokemon": "Palkia",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Trey McBride",
+    "playerId": "00-0037744",
+    "team": "ARI",
+    "maddenOvr": 99
+  },
+  {
+    "id": "279",
+    "pokemon": "Pelipper",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Elijah Higgins",
+    "playerId": "00-0039041",
+    "team": "ARI",
+    "maddenOvr": 69
+  },
+  {
+    "id": "252",
+    "pokemon": "Treecko",
+    "types": [
+      "Grass"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Chad Ryland",
+    "playerId": "00-0038567",
+    "team": "ARI",
+    "maddenOvr": 75
+  },
+  {
+    "id": "445",
+    "pokemon": "Garchomp",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Budda Baker",
+    "playerId": "00-0033890",
+    "team": "ARI",
+    "maddenOvr": 88
+  },
+  {
+    "id": "620",
+    "pokemon": "Mienshao",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Josh Sweat",
+    "playerId": "00-0034381",
+    "team": "ARI",
+    "maddenOvr": 85
+  },
+  {
+    "id": "709",
+    "pokemon": "Trevenant",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Mack Wilson Sr.",
+    "playerId": "00-0035144",
+    "team": "ARI",
+    "maddenOvr": 80
+  },
+  {
+    "id": "610",
+    "pokemon": "Axew",
+    "types": [
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Garrett Williams",
+    "playerId": "00-0039007",
+    "team": "ARI",
+    "maddenOvr": 78
+  },
+  {
+    "id": "328",
+    "pokemon": "Trapinch",
+    "types": [
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Walter Nolen III",
+    "playerId": "00-0040706",
+    "team": "ARI",
+    "maddenOvr": 77
+  },
+  {
+    "id": "421",
+    "pokemon": "Cherrim",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Zaven Collins",
+    "playerId": "00-0036933",
+    "team": "ARI",
+    "maddenOvr": 77
+  },
+  {
+    "id": "591",
+    "pokemon": "Amoonguss",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Andrew Wingard",
+    "playerId": "00-0035378",
+    "team": "ARI",
+    "maddenOvr": 77
+  },
+  {
+    "id": "391",
+    "pokemon": "Monferno",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Max Melton",
+    "playerId": "00-0039807",
+    "team": "ARI",
+    "maddenOvr": 74
+  },
+  {
+    "id": "107",
+    "pokemon": "Hitmonchan",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jack Gibbens",
+    "playerId": "00-0037596",
+    "team": "ARI",
+    "maddenOvr": 73
+  },
+  {
+    "id": "036",
+    "pokemon": "Clefable",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Denzel Burke",
+    "playerId": "00-0040195",
+    "team": "ARI",
+    "maddenOvr": 72
+  },
+  {
+    "id": "654",
+    "pokemon": "Braixen",
+    "types": [
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Roy Lopez",
+    "playerId": "00-0036568",
+    "team": "ARI",
+    "maddenOvr": 72
+  },
+  {
+    "id": "599",
+    "pokemon": "Klink",
+    "types": [
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Dante Stills",
+    "playerId": "00-0038623",
+    "team": "ARI",
+    "maddenOvr": 71
+  },
+  {
+    "id": "578",
+    "pokemon": "Duosion",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Michael Penix Jr.",
+    "playerId": "00-0039917",
+    "team": "ATL",
+    "maddenOvr": 75
+  },
+  {
+    "id": "493",
+    "pokemon": "Arceus",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Bijan Robinson",
+    "playerId": "00-0038542",
+    "team": "ATL",
+    "maddenOvr": 98
+  },
+  {
+    "id": "294",
+    "pokemon": "Loudred",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Brian Robinson Jr.",
+    "playerId": "00-0037746",
+    "team": "ATL",
+    "maddenOvr": 79
+  },
+  {
+    "id": "642",
+    "pokemon": "Thundurus",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Drake London",
+    "playerId": "00-0037238",
+    "team": "ATL",
+    "maddenOvr": 93
+  },
+  {
+    "id": "566",
+    "pokemon": "Archen",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jahan Dotson",
+    "playerId": "00-0037741",
+    "team": "ATL",
+    "maddenOvr": 75
+  },
+  {
+    "id": "177",
+    "pokemon": "Natu",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Olamide Zaccheaus",
+    "playerId": "00-0035208",
+    "team": "ATL",
+    "maddenOvr": 73
+  },
+  {
+    "id": "527",
+    "pokemon": "Woobat",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Zachariah Branch",
+    "playerId": "00-0041044",
+    "team": "ATL",
+    "maddenOvr": 73
+  },
+  {
+    "id": "160",
+    "pokemon": "Feraligatr",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Kyle Pitts Sr.",
+    "playerId": "00-0036970",
+    "team": "ATL",
+    "maddenOvr": 81
+  },
+  {
+    "id": "535",
+    "pokemon": "Tympole",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Charlie Woerner",
+    "playerId": "00-0036429",
+    "team": "ATL",
+    "maddenOvr": 66
+  },
+  {
+    "id": "116",
+    "pokemon": "Horsea",
+    "types": [
+      "Water"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Nick Folk",
+    "playerId": "00-0025565",
+    "team": "ATL",
+    "maddenOvr": 83
+  },
+  {
+    "id": "089",
+    "pokemon": "Muk",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Jessie Bates III",
+    "playerId": "00-0034675",
+    "team": "ATL",
+    "maddenOvr": 94
+  },
+  {
+    "id": "674",
+    "pokemon": "Pancham",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "A.J. Terrell Jr.",
+    "playerId": "00-0036285",
+    "team": "ATL",
+    "maddenOvr": 88
+  },
+  {
+    "id": "259",
+    "pokemon": "Marshtomp",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Gervon Dexter Sr.",
+    "playerId": "00-0039070",
+    "team": "ATL",
+    "maddenOvr": 81
+  },
+  {
+    "id": "611",
+    "pokemon": "Fraxure",
+    "types": [
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Divine Deablo",
+    "playerId": "00-0036990",
+    "team": "ATL",
+    "maddenOvr": 81
+  },
+  {
+    "id": "470",
+    "pokemon": "Leafeon",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Xavier Watts",
+    "playerId": "00-0040148",
+    "team": "ATL",
+    "maddenOvr": 78
+  },
+  {
+    "id": "256",
+    "pokemon": "Combusken",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Samson Ebukam",
+    "playerId": "00-0033945",
+    "team": "ATL",
+    "maddenOvr": 76
+  },
+  {
+    "id": "345",
+    "pokemon": "Lileep",
+    "types": [
+      "Rock",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Brandon Dorlus",
+    "playerId": "00-0039859",
+    "team": "ATL",
+    "maddenOvr": 76
+  },
+  {
+    "id": "262",
+    "pokemon": "Mightyena",
+    "types": [
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Cameron Thomas",
+    "playerId": "00-0037815",
+    "team": "ATL",
+    "maddenOvr": 74
+  },
+  {
+    "id": "436",
+    "pokemon": "Bronzor",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Billy Bowman Jr.",
+    "playerId": "00-0040156",
+    "team": "ATL",
+    "maddenOvr": 73
+  },
+  {
+    "id": "675",
+    "pokemon": "Pangoro",
+    "types": [
+      "Fighting",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "C.J. Henderson",
+    "playerId": "00-0036281",
+    "team": "ATL",
+    "maddenOvr": 73
+  },
+  {
+    "id": "147",
+    "pokemon": "Dratini",
+    "types": [
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Maason Smith",
+    "playerId": "00-0039889",
+    "team": "ATL",
+    "maddenOvr": 71
+  },
+  {
+    "id": "476",
+    "pokemon": "Probopass",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Kendal Daniels",
+    "playerId": "00-0041066",
+    "team": "ATL",
+    "maddenOvr": 69
+  },
+  {
+    "id": "326",
+    "pokemon": "Grumpig",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Lamar Jackson",
+    "playerId": "00-0034796",
+    "team": "BAL",
+    "maddenOvr": 95
+  },
+  {
+    "id": "115",
+    "pokemon": "Kangaskhan",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Derrick Henry",
+    "playerId": "00-0032764",
+    "team": "BAL",
+    "maddenOvr": 94
+  },
+  {
+    "id": "572",
+    "pokemon": "Minccino",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Justice Hill",
+    "playerId": "00-0034975",
+    "team": "BAL",
+    "maddenOvr": 77
+  },
+  {
+    "id": "617",
+    "pokemon": "Accelgor",
+    "types": [
+      "Bug"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Zay Flowers",
+    "playerId": "00-0039064",
+    "team": "BAL",
+    "maddenOvr": 90
+  },
+  {
+    "id": "193",
+    "pokemon": "Yanma",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Rashod Bateman",
+    "playerId": "00-0036550",
+    "team": "BAL",
+    "maddenOvr": 77
+  },
+  {
+    "id": "084",
+    "pokemon": "Doduo",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Ja'Kobi Lane",
+    "playerId": "00-0040870",
+    "team": "BAL",
+    "maddenOvr": 72
+  },
+  {
+    "id": "276",
+    "pokemon": "Taillow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Devontez Walker",
+    "playerId": "00-0039792",
+    "team": "BAL",
+    "maddenOvr": 71
+  },
+  {
+    "id": "119",
+    "pokemon": "Seaking",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Mark Andrews",
+    "playerId": "00-0034753",
+    "team": "BAL",
+    "maddenOvr": 90
+  },
+  {
+    "id": "118",
+    "pokemon": "Goldeen",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Matthew Hibner",
+    "playerId": "00-0040879",
+    "team": "BAL",
+    "maddenOvr": 65
+  },
+  {
+    "id": "653",
+    "pokemon": "Fennekin",
+    "types": [
+      "Fire"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Tyler Loop",
+    "playerId": "00-0040074",
+    "team": "BAL",
+    "maddenOvr": 79
+  },
+  {
+    "id": "076",
+    "pokemon": "Golem",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Kyle Hamilton",
+    "playerId": "00-0038038",
+    "team": "BAL",
+    "maddenOvr": 94
+  },
+  {
+    "id": "598",
+    "pokemon": "Ferrothorn",
+    "types": [
+      "Grass",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Roquan Smith",
+    "playerId": "00-0034874",
+    "team": "BAL",
+    "maddenOvr": 93
+  },
+  {
+    "id": "394",
+    "pokemon": "Prinplup",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Nnamdi Madubuike",
+    "playerId": "00-0036130",
+    "team": "BAL",
+    "maddenOvr": 90
+  },
+  {
+    "id": "153",
+    "pokemon": "Bayleef",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Trey Hendrickson",
+    "playerId": "00-0033935",
+    "team": "BAL",
+    "maddenOvr": 88
+  },
+  {
+    "id": "059",
+    "pokemon": "Arcanine",
+    "types": [
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Marlon Humphrey",
+    "playerId": "00-0033281",
+    "team": "BAL",
+    "maddenOvr": 85
+  },
+  {
+    "id": "219",
+    "pokemon": "Magcargo",
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Nate Wiggins",
+    "playerId": "00-0039232",
+    "team": "BAL",
+    "maddenOvr": 84
+  },
+  {
+    "id": "387",
+    "pokemon": "Turtwig",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Calais Campbell",
+    "playerId": "00-0026190",
+    "team": "BAL",
+    "maddenOvr": 82
+  },
+  {
+    "id": "302",
+    "pokemon": "Sableye",
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Travis Jones",
+    "playerId": "00-0037756",
+    "team": "BAL",
+    "maddenOvr": 79
+  },
+  {
+    "id": "305",
+    "pokemon": "Lairon",
+    "types": [
+      "Steel",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Trenton Simpson",
+    "playerId": "00-0038504",
+    "team": "BAL",
+    "maddenOvr": 79
+  },
+  {
+    "id": "423",
+    "pokemon": "Gastrodon",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Malaki Starks",
+    "playerId": "00-0040688",
+    "team": "BAL",
+    "maddenOvr": 78
+  },
+  {
+    "id": "332",
+    "pokemon": "Cacturne",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Jaylinn Hawkins",
+    "playerId": "00-0036302",
+    "team": "BAL",
+    "maddenOvr": 77
+  },
+  {
+    "id": "024",
+    "pokemon": "Arbok",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Mike Green",
+    "playerId": "00-0040722",
+    "team": "BAL",
+    "maddenOvr": 76
+  },
+  {
+    "id": "150",
+    "pokemon": "Mewtwo",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Josh Allen",
+    "playerId": "00-0034857",
+    "team": "BUF",
+    "maddenOvr": 99
+  },
+  {
+    "id": "128",
+    "pokemon": "Tauros",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "James Cook III",
+    "playerId": "00-0037248",
+    "team": "BUF",
+    "maddenOvr": 92
+  },
+  {
+    "id": "667",
+    "pokemon": "Litleo",
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Ty Johnson",
+    "playerId": "00-0035537",
+    "team": "BUF",
+    "maddenOvr": 76
+  },
+  {
+    "id": "637",
+    "pokemon": "Volcarona",
+    "types": [
+      "Bug",
+      "Fire"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "DJ Moore",
+    "playerId": "00-0034827",
+    "team": "BUF",
+    "maddenOvr": 84
+  },
+  {
+    "id": "596",
+    "pokemon": "Galvantula",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Khalil Shakir",
+    "playerId": "00-0037261",
+    "team": "BUF",
+    "maddenOvr": 83
+  },
+  {
+    "id": "006",
+    "pokemon": "Charizard",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Keon Coleman",
+    "playerId": "00-0039901",
+    "team": "BUF",
+    "maddenOvr": 77
+  },
+  {
+    "id": "666",
+    "pokemon": "Vivillon",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Joshua Palmer",
+    "playerId": "00-0036988",
+    "team": "BUF",
+    "maddenOvr": 75
+  },
+  {
+    "id": "113",
+    "pokemon": "Chansey",
+    "types": [
+      "Normal"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Dalton Kincaid",
+    "playerId": "00-0038933",
+    "team": "BUF",
+    "maddenOvr": 83
+  },
+  {
+    "id": "070",
+    "pokemon": "Weepinbell",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Dawson Knox",
+    "playerId": "00-0035689",
+    "team": "BUF",
+    "maddenOvr": 76
+  },
+  {
+    "id": "570",
+    "pokemon": "Zorua",
+    "types": [
+      "Dark"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Tyler Bass",
+    "playerId": "00-0036162",
+    "team": "BUF",
+    "maddenOvr": 74
+  },
+  {
+    "id": "644",
+    "pokemon": "Zekrom",
+    "types": [
+      "Dragon",
+      "Electric"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Greg Rousseau",
+    "playerId": "00-0036914",
+    "team": "BUF",
+    "maddenOvr": 90
+  },
+  {
+    "id": "028",
+    "pokemon": "Sandslash",
+    "types": [
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Terrel Bernard",
+    "playerId": "00-0037254",
+    "team": "BUF",
+    "maddenOvr": 84
+  },
+  {
+    "id": "691",
+    "pokemon": "Dragalge",
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Ed Oliver",
+    "playerId": "00-0035230",
+    "team": "BUF",
+    "maddenOvr": 82
+  },
+  {
+    "id": "584",
+    "pokemon": "Vanilluxe",
+    "types": [
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Christian Benford",
+    "playerId": "00-0037288",
+    "team": "BUF",
+    "maddenOvr": 80
+  },
+  {
+    "id": "103",
+    "pokemon": "Exeggutor",
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Cole Bishop",
+    "playerId": "00-0039872",
+    "team": "BUF",
+    "maddenOvr": 79
+  },
+  {
+    "id": "097",
+    "pokemon": "Hypno",
+    "types": [
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Bradley Chubb",
+    "playerId": "00-0034832",
+    "team": "BUF",
+    "maddenOvr": 78
+  },
+  {
+    "id": "323",
+    "pokemon": "Camerupt",
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Deone Walker",
+    "playerId": "00-0040710",
+    "team": "BUF",
+    "maddenOvr": 77
+  },
+  {
+    "id": "368",
+    "pokemon": "Gorebyss",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Dee Alford",
+    "playerId": "00-0037034",
+    "team": "BUF",
+    "maddenOvr": 76
+  },
+  {
+    "id": "034",
+    "pokemon": "Nidoking",
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "C.J. Gardner-Johnson",
+    "playerId": "00-0035253",
+    "team": "BUF",
+    "maddenOvr": 75
+  },
+  {
+    "id": "045",
+    "pokemon": "Vileplume",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Davison Igbinosun",
+    "playerId": "00-0041391",
+    "team": "BUF",
+    "maddenOvr": 74
+  },
+  {
+    "id": "446",
+    "pokemon": "Munchlax",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Dorian Williams",
+    "playerId": "00-0038557",
+    "team": "BUF",
+    "maddenOvr": 74
+  },
+  {
+    "id": "399",
+    "pokemon": "Bidoof",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "T.J. Sanders",
+    "playerId": "00-0040724",
+    "team": "BUF",
+    "maddenOvr": 73
+  },
+  {
+    "id": "064",
+    "pokemon": "Kadabra",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Bryce Young",
+    "playerId": "00-0039150",
+    "team": "CAR",
+    "maddenOvr": 82
+  },
+  {
+    "id": "217",
+    "pokemon": "Ursaring",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Chuba Hubbard",
+    "playerId": "00-0036555",
+    "team": "CAR",
+    "maddenOvr": 85
+  },
+  {
+    "id": "293",
+    "pokemon": "Whismur",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Trevor Etienne",
+    "playerId": "00-0040644",
+    "team": "CAR",
+    "maddenOvr": 71
+  },
+  {
+    "id": "658",
+    "pokemon": "Greninja",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Tetairoa McMillan",
+    "playerId": "00-0040124",
+    "team": "CAR",
+    "maddenOvr": 87
+  },
+  {
+    "id": "123",
+    "pokemon": "Scyther",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jalen Coker",
+    "playerId": "00-0039491",
+    "team": "CAR",
+    "maddenOvr": 78
+  },
+  {
+    "id": "414",
+    "pokemon": "Mothim",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "John Metchie III",
+    "playerId": "00-0037614",
+    "team": "CAR",
+    "maddenOvr": 73
+  },
+  {
+    "id": "170",
+    "pokemon": "Chinchou",
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Brycen Tremayne",
+    "playerId": "00-0038840",
+    "team": "CAR",
+    "maddenOvr": 68
+  },
+  {
+    "id": "211",
+    "pokemon": "Qwilfish",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Darren Waller",
+    "playerId": "00-0031610",
+    "team": "CAR",
+    "maddenOvr": 81
+  },
+  {
+    "id": "364",
+    "pokemon": "Sealeo",
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Tommy Tremble",
+    "playerId": "00-0037005",
+    "team": "CAR",
+    "maddenOvr": 73
+  },
+  {
+    "id": "669",
+    "pokemon": "Flabébé",
+    "types": [
+      "Fairy"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Ryan Fitzgerald",
+    "playerId": "00-0040279",
+    "team": "CAR",
+    "maddenOvr": 76
+  },
+  {
+    "id": "600",
+    "pokemon": "Klang",
+    "types": [
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Derrick Brown",
+    "playerId": "00-0036220",
+    "team": "CAR",
+    "maddenOvr": 96
+  },
+  {
+    "id": "487",
+    "pokemon": "Giratina",
+    "types": [
+      "Ghost",
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Devin Lloyd",
+    "playerId": "00-0037244",
+    "team": "CAR",
+    "maddenOvr": 88
+  },
+  {
+    "id": "483",
+    "pokemon": "Dialga",
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Bobby Okereke",
+    "playerId": "00-0035687",
+    "team": "CAR",
+    "maddenOvr": 83
+  },
+  {
+    "id": "057",
+    "pokemon": "Primeape",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jaelan Phillips",
+    "playerId": "00-0036934",
+    "team": "CAR",
+    "maddenOvr": 82
+  },
+  {
+    "id": "455",
+    "pokemon": "Carnivine",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Tre'von Moehrig",
+    "playerId": "00-0036962",
+    "team": "CAR",
+    "maddenOvr": 82
+  },
+  {
+    "id": "067",
+    "pokemon": "Machoke",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Nick Scott",
+    "playerId": "00-0035669",
+    "team": "CAR",
+    "maddenOvr": 75
+  },
+  {
+    "id": "023",
+    "pokemon": "Ekans",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Lee Hunter",
+    "playerId": "00-0041478",
+    "team": "CAR",
+    "maddenOvr": 74
+  },
+  {
+    "id": "296",
+    "pokemon": "Makuhita",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Tershawn Wharton",
+    "playerId": "00-0035890",
+    "team": "CAR",
+    "maddenOvr": 74
+  },
+  {
+    "id": "704",
+    "pokemon": "Goomy",
+    "types": [
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Chau Smith-Wade",
+    "playerId": "00-0039380",
+    "team": "CAR",
+    "maddenOvr": 73
+  },
+  {
+    "id": "608",
+    "pokemon": "Lampent",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Patrick Jones II",
+    "playerId": "00-0037007",
+    "team": "CAR",
+    "maddenOvr": 72
+  },
+  {
+    "id": "080",
+    "pokemon": "Slowbro",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Will Lee III",
+    "playerId": "00-0041063",
+    "team": "CAR",
+    "maddenOvr": 71
+  },
+  {
+    "id": "355",
+    "pokemon": "Duskull",
+    "types": [
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Akayleb Evans",
+    "playerId": "00-0038101",
+    "team": "CAR",
+    "maddenOvr": 71
+  },
+  {
+    "id": "282",
+    "pokemon": "Gardevoir",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Caleb Williams",
+    "playerId": "00-0039918",
+    "team": "CHI",
+    "maddenOvr": 91
+  },
+  {
+    "id": "508",
+    "pokemon": "Stoutland",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "D'Andre Swift",
+    "playerId": "00-0036275",
+    "team": "CHI",
+    "maddenOvr": 88
+  },
+  {
+    "id": "474",
+    "pokemon": "Porygon-Z",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Kyle Monangai",
+    "playerId": "00-0040236",
+    "team": "CHI",
+    "maddenOvr": 80
+  },
+  {
+    "id": "125",
+    "pokemon": "Electabuzz",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Rome Odunze",
+    "playerId": "00-0039919",
+    "team": "CHI",
+    "maddenOvr": 82
+  },
+  {
+    "id": "466",
+    "pokemon": "Electivire",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Luther Burden III",
+    "playerId": "00-0040735",
+    "team": "CHI",
+    "maddenOvr": 80
+  },
+  {
+    "id": "077",
+    "pokemon": "Ponyta",
+    "types": [
+      "Fire"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Kalif Raymond",
+    "playerId": "00-0032464",
+    "team": "CHI",
+    "maddenOvr": 76
+  },
+  {
+    "id": "016",
+    "pokemon": "Pidgey",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Zavion Thomas",
+    "playerId": "00-0041051",
+    "team": "CHI",
+    "maddenOvr": 72
+  },
+  {
+    "id": "040",
+    "pokemon": "Wigglytuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Colston Loveland",
+    "playerId": "00-0040126",
+    "team": "CHI",
+    "maddenOvr": 82
+  },
+  {
+    "id": "183",
+    "pokemon": "Marill",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Sam Roush",
+    "playerId": "00-0041558",
+    "team": "CHI",
+    "maddenOvr": 65
+  },
+  {
+    "id": "255",
+    "pokemon": "Torchic",
+    "types": [
+      "Fire"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Cairo Santos",
+    "playerId": "00-0031203",
+    "team": "CHI",
+    "maddenOvr": 78
+  },
+  {
+    "id": "033",
+    "pokemon": "Nidorino",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Jaylon Johnson",
+    "playerId": "00-0036292",
+    "team": "CHI",
+    "maddenOvr": 87
+  },
+  {
+    "id": "480",
+    "pokemon": "Uxie",
+    "types": [
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Devin Bush",
+    "playerId": "00-0035525",
+    "team": "CHI",
+    "maddenOvr": 86
+  },
+  {
+    "id": "477",
+    "pokemon": "Dusknoir",
+    "types": [
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Kyler Gordon",
+    "playerId": "00-0038111",
+    "team": "CHI",
+    "maddenOvr": 83
+  },
+  {
+    "id": "048",
+    "pokemon": "Venonat",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Grady Jarrett",
+    "playerId": "00-0031583",
+    "team": "CHI",
+    "maddenOvr": 81
+  },
+  {
+    "id": "075",
+    "pokemon": "Graveler",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "T.J. Edwards",
+    "playerId": "00-0035386",
+    "team": "CHI",
+    "maddenOvr": 81
+  },
+  {
+    "id": "693",
+    "pokemon": "Clawitzer",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Montez Sweat",
+    "playerId": "00-0035647",
+    "team": "CHI",
+    "maddenOvr": 81
+  },
+  {
+    "id": "389",
+    "pokemon": "Torterra",
+    "types": [
+      "Grass",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Dillon Thieneman",
+    "playerId": "00-0041538",
+    "team": "CHI",
+    "maddenOvr": 77
+  },
+  {
+    "id": "372",
+    "pokemon": "Shelgon",
+    "types": [
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Tyrique Stevenson",
+    "playerId": "00-0039071",
+    "team": "CHI",
+    "maddenOvr": 75
+  },
+  {
+    "id": "066",
+    "pokemon": "Machop",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Cam Lewis",
+    "playerId": "00-0035357",
+    "team": "CHI",
+    "maddenOvr": 74
+  },
+  {
+    "id": "684",
+    "pokemon": "Swirlix",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "D'Marco Jackson",
+    "playerId": "00-0037271",
+    "team": "CHI",
+    "maddenOvr": 71
+  },
+  {
+    "id": "434",
+    "pokemon": "Stunky",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Kentavius Street",
+    "playerId": "00-0034320",
+    "team": "CHI",
+    "maddenOvr": 70
+  },
+  {
+    "id": "029",
+    "pokemon": "Nidoran♀",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "James Lynch",
+    "playerId": "00-0036337",
+    "team": "CHI",
+    "maddenOvr": 69
+  },
+  {
+    "id": "196",
+    "pokemon": "Espeon",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Joe Burrow",
+    "playerId": "00-0036442",
+    "team": "CIN",
+    "maddenOvr": 97
+  },
+  {
+    "id": "586",
+    "pokemon": "Sawsbuck",
+    "types": [
+      "Normal",
+      "Grass"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Chase Brown",
+    "playerId": "00-0038597",
+    "team": "CIN",
+    "maddenOvr": 84
+  },
+  {
+    "id": "216",
+    "pokemon": "Teddiursa",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Samaje Perine",
+    "playerId": "00-0033526",
+    "team": "CIN",
+    "maddenOvr": 76
+  },
+  {
+    "id": "142",
+    "pokemon": "Aerodactyl",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Ja'Marr Chase",
+    "playerId": "00-0036900",
+    "team": "CIN",
+    "maddenOvr": 99
+  },
+  {
+    "id": "101",
+    "pokemon": "Electrode",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Tee Higgins",
+    "playerId": "00-0036410",
+    "team": "CIN",
+    "maddenOvr": 88
+  },
+  {
+    "id": "522",
+    "pokemon": "Blitzle",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Mitchell Tinsley",
+    "playerId": "00-0038839",
+    "team": "CIN",
+    "maddenOvr": 69
+  },
+  {
+    "id": "100",
+    "pokemon": "Voltorb",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Dohnte Meyers",
+    "playerId": "00-0040785",
+    "team": "CIN",
+    "maddenOvr": 68
+  },
+  {
+    "id": "516",
+    "pokemon": "Simipour",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Mike Gesicki",
+    "playerId": "00-0034829",
+    "team": "CIN",
+    "maddenOvr": 79
+  },
+  {
+    "id": "158",
+    "pokemon": "Totodile",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Drew Sample",
+    "playerId": "00-0035631",
+    "team": "CIN",
+    "maddenOvr": 68
+  },
+  {
+    "id": "004",
+    "pokemon": "Charmander",
+    "types": [
+      "Fire"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Evan McPherson",
+    "playerId": "00-0036854",
+    "team": "CIN",
+    "maddenOvr": 82
+  },
+  {
+    "id": "357",
+    "pokemon": "Tropius",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Dexter Lawrence II",
+    "playerId": "00-0035683",
+    "team": "CIN",
+    "maddenOvr": 93
+  },
+  {
+    "id": "462",
+    "pokemon": "Magnezone",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Jonathan Allen",
+    "playerId": "00-0033523",
+    "team": "CIN",
+    "maddenOvr": 87
+  },
+  {
+    "id": "088",
+    "pokemon": "Grimer",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "DJ Turner II",
+    "playerId": "00-0038549",
+    "team": "CIN",
+    "maddenOvr": 84
+  },
+  {
+    "id": "467",
+    "pokemon": "Magmortar",
+    "types": [
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Bryan Cook",
+    "playerId": "00-0037193",
+    "team": "CIN",
+    "maddenOvr": 80
+  },
+  {
+    "id": "182",
+    "pokemon": "Bellossom",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Boye Mafe",
+    "playerId": "00-0038133",
+    "team": "CIN",
+    "maddenOvr": 79
+  },
+  {
+    "id": "411",
+    "pokemon": "Bastiodon",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Jordan Battle",
+    "playerId": "00-0038560",
+    "team": "CIN",
+    "maddenOvr": 78
+  },
+  {
+    "id": "563",
+    "pokemon": "Cofagrigus",
+    "types": [
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Dax Hill",
+    "playerId": "00-0037743",
+    "team": "CIN",
+    "maddenOvr": 78
+  },
+  {
+    "id": "559",
+    "pokemon": "Scraggy",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Myles Murphy",
+    "playerId": "00-0038546",
+    "team": "CIN",
+    "maddenOvr": 74
+  },
+  {
+    "id": "614",
+    "pokemon": "Beartic",
+    "types": [
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Demetrius Knight Jr.",
+    "playerId": "00-0040738",
+    "team": "CIN",
+    "maddenOvr": 74
+  },
+  {
+    "id": "447",
+    "pokemon": "Riolu",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Tacario Davis",
+    "playerId": "00-0041464",
+    "team": "CIN",
+    "maddenOvr": 71
+  },
+  {
+    "id": "245",
+    "pokemon": "Suicune",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Barrett Carter",
+    "playerId": "00-0040157",
+    "team": "CIN",
+    "maddenOvr": 69
+  },
+  {
+    "id": "607",
+    "pokemon": "Litwick",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Oren Burks",
+    "playerId": "00-0034754",
+    "team": "CIN",
+    "maddenOvr": 69
+  },
+  {
+    "id": "063",
+    "pokemon": "Abra",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Deshaun Watson",
+    "playerId": "00-0033537",
+    "team": "CLE",
+    "maddenOvr": 70
+  },
+  {
+    "id": "335",
+    "pokemon": "Zangoose",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Quinshon Judkins",
+    "playerId": "00-0040784",
+    "team": "CLE",
+    "maddenOvr": 80
+  },
+  {
+    "id": "390",
+    "pokemon": "Chimchar",
+    "types": [
+      "Fire"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Dylan Sampson",
+    "playerId": "00-0040162",
+    "team": "CLE",
+    "maddenOvr": 75
+  },
+  {
+    "id": "441",
+    "pokemon": "Chatot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jerry Jeudy",
+    "playerId": "00-0036407",
+    "team": "CLE",
+    "maddenOvr": 79
+  },
+  {
+    "id": "215",
+    "pokemon": "Sneasel",
+    "types": [
+      "Dark",
+      "Ice"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Denzel Boston",
+    "playerId": "00-0041037",
+    "team": "CLE",
+    "maddenOvr": 76
+  },
+  {
+    "id": "695",
+    "pokemon": "Heliolisk",
+    "types": [
+      "Electric",
+      "Normal"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "KC Concepcion",
+    "playerId": "00-0041547",
+    "team": "CLE",
+    "maddenOvr": 76
+  },
+  {
+    "id": "225",
+    "pokemon": "Delibird",
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Isaiah Bond",
+    "playerId": "00-0040782",
+    "team": "CLE",
+    "maddenOvr": 69
+  },
+  {
+    "id": "242",
+    "pokemon": "Blissey",
+    "types": [
+      "Normal"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Harold Fannin Jr.",
+    "playerId": "00-0040663",
+    "team": "CLE",
+    "maddenOvr": 80
+  },
+  {
+    "id": "456",
+    "pokemon": "Finneon",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Blake Whiteheart",
+    "playerId": "00-0038710",
+    "team": "CLE",
+    "maddenOvr": 62
+  },
+  {
+    "id": "582",
+    "pokemon": "Vanillite",
+    "types": [
+      "Ice"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Andre Szmyt",
+    "playerId": "00-0038428",
+    "team": "CLE",
+    "maddenOvr": 77
+  },
+  {
+    "id": "257",
+    "pokemon": "Blaziken",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Denzel Ward",
+    "playerId": "00-0034856",
+    "team": "CLE",
+    "maddenOvr": 94
+  },
+  {
+    "id": "696",
+    "pokemon": "Tyrunt",
+    "types": [
+      "Rock",
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Jared Verse",
+    "playerId": "00-0039852",
+    "team": "CLE",
+    "maddenOvr": 88
+  },
+  {
+    "id": "450",
+    "pokemon": "Hippowdon",
+    "types": [
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Carson Schwesinger",
+    "playerId": "00-0040579",
+    "team": "CLE",
+    "maddenOvr": 85
+  },
+  {
+    "id": "141",
+    "pokemon": "Kabutops",
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Grant Delpit",
+    "playerId": "00-0036282",
+    "team": "CLE",
+    "maddenOvr": 82
+  },
+  {
+    "id": "530",
+    "pokemon": "Excadrill",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Mason Graham",
+    "playerId": "00-0040685",
+    "team": "CLE",
+    "maddenOvr": 81
+  },
+  {
+    "id": "652",
+    "pokemon": "Chesnaught",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Quincy Williams",
+    "playerId": "00-0035680",
+    "team": "CLE",
+    "maddenOvr": 81
+  },
+  {
+    "id": "525",
+    "pokemon": "Boldore",
+    "types": [
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Tyson Campbell",
+    "playerId": "00-0036974",
+    "team": "CLE",
+    "maddenOvr": 79
+  },
+  {
+    "id": "139",
+    "pokemon": "Omastar",
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Maliek Collins",
+    "playerId": "00-0033131",
+    "team": "CLE",
+    "maddenOvr": 78
+  },
+  {
+    "id": "604",
+    "pokemon": "Eelektross",
+    "types": [
+      "Electric"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Ronnie Hickman",
+    "playerId": "00-0038715",
+    "team": "CLE",
+    "maddenOvr": 76
+  },
+  {
+    "id": "524",
+    "pokemon": "Roggenrola",
+    "types": [
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Isaiah McGuire",
+    "playerId": "00-0038574",
+    "team": "CLE",
+    "maddenOvr": 73
+  },
+  {
+    "id": "308",
+    "pokemon": "Medicham",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Myles Harden",
+    "playerId": "00-0039417",
+    "team": "CLE",
+    "maddenOvr": 70
+  },
+  {
+    "id": "273",
+    "pokemon": "Seedot",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Easton Mascarenas-Arnold",
+    "playerId": "00-0040261",
+    "team": "CLE",
+    "maddenOvr": 64
+  },
+  {
+    "id": "609",
+    "pokemon": "Chandelure",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Dak Prescott",
+    "playerId": "00-0033077",
+    "team": "DAL",
+    "maddenOvr": 90
+  },
+  {
+    "id": "424",
+    "pokemon": "Ambipom",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Javonte Williams",
+    "playerId": "00-0036997",
+    "team": "DAL",
+    "maddenOvr": 85
+  },
+  {
+    "id": "263",
+    "pokemon": "Zigzagoon",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Tyler Goodson",
+    "playerId": "00-0037120",
+    "team": "DAL",
+    "maddenOvr": 70
+  },
+  {
+    "id": "482",
+    "pokemon": "Azelf",
+    "types": [
+      "Psychic"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "CeeDee Lamb",
+    "playerId": "00-0036358",
+    "team": "DAL",
+    "maddenOvr": 95
+  },
+  {
+    "id": "169",
+    "pokemon": "Crobat",
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "George Pickens",
+    "playerId": "00-0037247",
+    "team": "DAL",
+    "maddenOvr": 88
+  },
+  {
+    "id": "083",
+    "pokemon": "Farfetch’d",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "KaVontae Turpin",
+    "playerId": "00-0037801",
+    "team": "DAL",
+    "maddenOvr": 76
+  },
+  {
+    "id": "429",
+    "pokemon": "Mismagius",
+    "types": [
+      "Ghost"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Ryan Flournoy",
+    "playerId": "00-0039410",
+    "team": "DAL",
+    "maddenOvr": 76
+  },
+  {
+    "id": "186",
+    "pokemon": "Politoed",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Jake Ferguson",
+    "playerId": "00-0038041",
+    "team": "DAL",
+    "maddenOvr": 78
+  },
+  {
+    "id": "690",
+    "pokemon": "Skrelp",
+    "types": [
+      "Poison",
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Brevyn Spann-Ford",
+    "playerId": "00-0039530",
+    "team": "DAL",
+    "maddenOvr": 67
+  },
+  {
+    "id": "228",
+    "pokemon": "Houndour",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Brandon Aubrey",
+    "playerId": "00-0037692",
+    "team": "DAL",
+    "maddenOvr": 86
+  },
+  {
+    "id": "136",
+    "pokemon": "Flareon",
+    "types": [
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Quinnen Williams",
+    "playerId": "00-0035718",
+    "team": "DAL",
+    "maddenOvr": 91
+  },
+  {
+    "id": "114",
+    "pokemon": "Tangela",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Joey Porter Jr.",
+    "playerId": "00-0039167",
+    "team": "DAL",
+    "maddenOvr": 86
+  },
+  {
+    "id": "324",
+    "pokemon": "Torkoal",
+    "types": [
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Caleb Downs",
+    "playerId": "00-0040865",
+    "team": "DAL",
+    "maddenOvr": 80
+  },
+  {
+    "id": "329",
+    "pokemon": "Vibrava",
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Kenny Clark",
+    "playerId": "00-0033120",
+    "team": "DAL",
+    "maddenOvr": 79
+  },
+  {
+    "id": "544",
+    "pokemon": "Whirlipede",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Rashan Gary",
+    "playerId": "00-0034967",
+    "team": "DAL",
+    "maddenOvr": 78
+  },
+  {
+    "id": "698",
+    "pokemon": "Amaura",
+    "types": [
+      "Rock",
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Malik Hooker",
+    "playerId": "00-0033877",
+    "team": "DAL",
+    "maddenOvr": 78
+  },
+  {
+    "id": "108",
+    "pokemon": "Lickitung",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Donovan Ezeiruaku",
+    "playerId": "00-0040725",
+    "team": "DAL",
+    "maddenOvr": 77
+  },
+  {
+    "id": "435",
+    "pokemon": "Skuntank",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "DaRon Bland",
+    "playerId": "00-0037275",
+    "team": "DAL",
+    "maddenOvr": 77
+  },
+  {
+    "id": "168",
+    "pokemon": "Ariados",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "DeMarvion Overshown",
+    "playerId": "00-0038556",
+    "team": "DAL",
+    "maddenOvr": 75
+  },
+  {
+    "id": "185",
+    "pokemon": "Sudowoodo",
+    "types": [
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Dee Winters",
+    "playerId": "00-0038625",
+    "team": "DAL",
+    "maddenOvr": 72
+  },
+  {
+    "id": "220",
+    "pokemon": "Swinub",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "LT Overton",
+    "playerId": "00-0040880",
+    "team": "DAL",
+    "maddenOvr": 71
+  },
+  {
+    "id": "498",
+    "pokemon": "Tepig",
+    "types": [
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Otito Ogbonnia",
+    "playerId": "00-0037270",
+    "team": "DAL",
+    "maddenOvr": 69
+  },
+  {
+    "id": "579",
+    "pokemon": "Reuniclus",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Bo Nix",
+    "playerId": "00-0039732",
+    "team": "DEN",
+    "maddenOvr": 80
+  },
+  {
+    "id": "668",
+    "pokemon": "Pyroar",
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "RJ Harvey",
+    "playerId": "00-0040730",
+    "team": "DEN",
+    "maddenOvr": 79
+  },
+  {
+    "id": "058",
+    "pokemon": "Growlithe",
+    "types": [
+      "Fire"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Jonah Coleman",
+    "playerId": "00-0041496",
+    "team": "DEN",
+    "maddenOvr": 73
+  },
+  {
+    "id": "581",
+    "pokemon": "Swanna",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Courtland Sutton",
+    "playerId": "00-0034348",
+    "team": "DEN",
+    "maddenOvr": 86
+  },
+  {
+    "id": "512",
+    "pokemon": "Simisage",
+    "types": [
+      "Grass"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jaylen Waddle",
+    "playerId": "00-0036613",
+    "team": "DEN",
+    "maddenOvr": 85
+  },
+  {
+    "id": "284",
+    "pokemon": "Masquerain",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Troy Franklin",
+    "playerId": "00-0039868",
+    "team": "DEN",
+    "maddenOvr": 78
+  },
+  {
+    "id": "050",
+    "pokemon": "Diglett",
+    "types": [
+      "Ground"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Marvin Mims Jr.",
+    "playerId": "00-0038976",
+    "team": "DEN",
+    "maddenOvr": 77
+  },
+  {
+    "id": "098",
+    "pokemon": "Krabby",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Evan Engram",
+    "playerId": "00-0033881",
+    "team": "DEN",
+    "maddenOvr": 78
+  },
+  {
+    "id": "515",
+    "pokemon": "Panpour",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Adam Trautman",
+    "playerId": "00-0036422",
+    "team": "DEN",
+    "maddenOvr": 71
+  },
+  {
+    "id": "511",
+    "pokemon": "Pansage",
+    "types": [
+      "Grass"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Wil Lutz",
+    "playerId": "00-0032569",
+    "team": "DEN",
+    "maddenOvr": 78
+  },
+  {
+    "id": "044",
+    "pokemon": "Gloom",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Pat Surtain II",
+    "playerId": "00-0036874",
+    "team": "DEN",
+    "maddenOvr": 97
+  },
+  {
+    "id": "635",
+    "pokemon": "Hydreigon",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Nik Bonitto",
+    "playerId": "00-0037249",
+    "team": "DEN",
+    "maddenOvr": 91
+  },
+  {
+    "id": "232",
+    "pokemon": "Donphan",
+    "types": [
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Talanoa Hufanga",
+    "playerId": "00-0036564",
+    "team": "DEN",
+    "maddenOvr": 89
+  },
+  {
+    "id": "244",
+    "pokemon": "Entei",
+    "types": [
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Zach Allen",
+    "playerId": "00-0035248",
+    "team": "DEN",
+    "maddenOvr": 89
+  },
+  {
+    "id": "376",
+    "pokemon": "Metagross",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Alex Singleton",
+    "playerId": "00-0031898",
+    "team": "DEN",
+    "maddenOvr": 86
+  },
+  {
+    "id": "686",
+    "pokemon": "Inkay",
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jonathon Cooper",
+    "playerId": "00-0036952",
+    "team": "DEN",
+    "maddenOvr": 84
+  },
+  {
+    "id": "385",
+    "pokemon": "Jirachi",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Brandon Jones",
+    "playerId": "00-0036221",
+    "team": "DEN",
+    "maddenOvr": 83
+  },
+  {
+    "id": "348",
+    "pokemon": "Armaldo",
+    "types": [
+      "Rock",
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Ja'Quan McMillian",
+    "playerId": "00-0037384",
+    "team": "DEN",
+    "maddenOvr": 79
+  },
+  {
+    "id": "344",
+    "pokemon": "Claydol",
+    "types": [
+      "Ground",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Riley Moss",
+    "playerId": "00-0038552",
+    "team": "DEN",
+    "maddenOvr": 78
+  },
+  {
+    "id": "180",
+    "pokemon": "Flaaffy",
+    "types": [
+      "Electric"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "D.J. Jones",
+    "playerId": "00-0033297",
+    "team": "DEN",
+    "maddenOvr": 76
+  },
+  {
+    "id": "003",
+    "pokemon": "Venusaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Justin Strnad",
+    "playerId": "00-0036428",
+    "team": "DEN",
+    "maddenOvr": 74
+  },
+  {
+    "id": "692",
+    "pokemon": "Clauncher",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Eyioma Uwazurike",
+    "playerId": "00-0038106",
+    "team": "DEN",
+    "maddenOvr": 69
+  },
+  {
+    "id": "648",
+    "pokemon": "Meloetta",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Jared Goff",
+    "playerId": "00-0033106",
+    "team": "DET",
+    "maddenOvr": 88
+  },
+  {
+    "id": "289",
+    "pokemon": "Slaking",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Jahmyr Gibbs",
+    "playerId": "00-0039139",
+    "team": "DET",
+    "maddenOvr": 97
+  },
+  {
+    "id": "659",
+    "pokemon": "Bunnelby",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Sione Vaki",
+    "playerId": "00-0039364",
+    "team": "DET",
+    "maddenOvr": 68
+  },
+  {
+    "id": "384",
+    "pokemon": "Rayquaza",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Amon-Ra St. Brown",
+    "playerId": "00-0036963",
+    "team": "DET",
+    "maddenOvr": 96
+  },
+  {
+    "id": "419",
+    "pokemon": "Floatzel",
+    "types": [
+      "Water"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jameson Williams",
+    "playerId": "00-0037240",
+    "team": "DET",
+    "maddenOvr": 85
+  },
+  {
+    "id": "417",
+    "pokemon": "Pachirisu",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Isaac TeSlaa",
+    "playerId": "00-0040669",
+    "team": "DET",
+    "maddenOvr": 74
+  },
+  {
+    "id": "163",
+    "pokemon": "Hoothoot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Tay Martin",
+    "playerId": "00-0037524",
+    "team": "DET",
+    "maddenOvr": 67
+  },
+  {
+    "id": "721",
+    "pokemon": "Volcanion",
+    "types": [
+      "Fire",
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Sam LaPorta",
+    "playerId": "00-0039065",
+    "team": "DET",
+    "maddenOvr": 88
+  },
+  {
+    "id": "271",
+    "pokemon": "Lombre",
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Brock Wright",
+    "playerId": "00-0036754",
+    "team": "DET",
+    "maddenOvr": 65
+  },
+  {
+    "id": "072",
+    "pokemon": "Tentacool",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Jake Bates",
+    "playerId": "00-0039172",
+    "team": "DET",
+    "maddenOvr": 76
+  },
+  {
+    "id": "248",
+    "pokemon": "Tyranitar",
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Aidan Hutchinson",
+    "playerId": "00-0037236",
+    "team": "DET",
+    "maddenOvr": 94
+  },
+  {
+    "id": "105",
+    "pokemon": "Marowak",
+    "types": [
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Brian Branch",
+    "playerId": "00-0039141",
+    "team": "DET",
+    "maddenOvr": 91
+  },
+  {
+    "id": "112",
+    "pokemon": "Rhydon",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jack Campbell",
+    "playerId": "00-0039018",
+    "team": "DET",
+    "maddenOvr": 87
+  },
+  {
+    "id": "229",
+    "pokemon": "Houndoom",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Alim McNeill",
+    "playerId": "00-0036624",
+    "team": "DET",
+    "maddenOvr": 86
+  },
+  {
+    "id": "681",
+    "pokemon": "Aegislash",
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "D.J. Reed",
+    "playerId": "00-0034384",
+    "team": "DET",
+    "maddenOvr": 80
+  },
+  {
+    "id": "046",
+    "pokemon": "Paras",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Tyleik Williams",
+    "playerId": "00-0040672",
+    "team": "DET",
+    "maddenOvr": 78
+  },
+  {
+    "id": "539",
+    "pokemon": "Sawk",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Chuck Clark",
+    "playerId": "00-0033294",
+    "team": "DET",
+    "maddenOvr": 78
+  },
+  {
+    "id": "068",
+    "pokemon": "Machamp",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Derrick Barnes",
+    "playerId": "00-0036964",
+    "team": "DET",
+    "maddenOvr": 75
+  },
+  {
+    "id": "491",
+    "pokemon": "Darkrai",
+    "types": [
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Roger McCreary",
+    "playerId": "00-0038125",
+    "team": "DET",
+    "maddenOvr": 75
+  },
+  {
+    "id": "551",
+    "pokemon": "Sandile",
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Malcolm Rodriguez",
+    "playerId": "00-0037289",
+    "team": "DET",
+    "maddenOvr": 74
+  },
+  {
+    "id": "274",
+    "pokemon": "Nuzleaf",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Ennis Rakestraw Jr.",
+    "playerId": "00-0039862",
+    "team": "DET",
+    "maddenOvr": 72
+  },
+  {
+    "id": "339",
+    "pokemon": "Barboach",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Tyler Lacy",
+    "playerId": "00-0038940",
+    "team": "DET",
+    "maddenOvr": 66
+  },
+  {
+    "id": "124",
+    "pokemon": "Jynx",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Jordan Love",
+    "playerId": "00-0036264",
+    "team": "GB",
+    "maddenOvr": 86
+  },
+  {
+    "id": "676",
+    "pokemon": "Furfrou",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Josh Jacobs",
+    "playerId": "00-0035700",
+    "team": "GB",
+    "maddenOvr": 89
+  },
+  {
+    "id": "585",
+    "pokemon": "Deerling",
+    "types": [
+      "Normal",
+      "Grass"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "MarShawn Lloyd",
+    "playerId": "00-0039811",
+    "team": "GB",
+    "maddenOvr": 73
+  },
+  {
+    "id": "641",
+    "pokemon": "Tornadus",
+    "types": [
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Christian Watson",
+    "playerId": "00-0038124",
+    "team": "GB",
+    "maddenOvr": 85
+  },
+  {
+    "id": "085",
+    "pokemon": "Dodrio",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Matthew Golden",
+    "playerId": "00-0040667",
+    "team": "GB",
+    "maddenOvr": 80
+  },
+  {
+    "id": "403",
+    "pokemon": "Shinx",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Bo Melton",
+    "playerId": "00-0037091",
+    "team": "GB",
+    "maddenOvr": 72
+  },
+  {
+    "id": "060",
+    "pokemon": "Poliwag",
+    "types": [
+      "Water"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Savion Williams",
+    "playerId": "00-0040009",
+    "team": "GB",
+    "maddenOvr": 70
+  },
+  {
+    "id": "131",
+    "pokemon": "Lapras",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Tucker Kraft",
+    "playerId": "00-0038996",
+    "team": "GB",
+    "maddenOvr": 85
+  },
+  {
+    "id": "090",
+    "pokemon": "Shellder",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Jonnu Smith",
+    "playerId": "00-0033858",
+    "team": "GB",
+    "maddenOvr": 75
+  },
+  {
+    "id": "546",
+    "pokemon": "Cottonee",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Trey Smack",
+    "playerId": "00-0040899",
+    "team": "GB",
+    "maddenOvr": 77
+  },
+  {
+    "id": "649",
+    "pokemon": "Genesect",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Xavier McKinney",
+    "playerId": "00-0036388",
+    "team": "GB",
+    "maddenOvr": 92
+  },
+  {
+    "id": "306",
+    "pokemon": "Aggron",
+    "types": [
+      "Steel",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Evan Williams",
+    "playerId": "00-0039813",
+    "team": "GB",
+    "maddenOvr": 83
+  },
+  {
+    "id": "338",
+    "pokemon": "Solrock",
+    "types": [
+      "Rock",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Lukas Van Ness",
+    "playerId": "00-0039112",
+    "team": "GB",
+    "maddenOvr": 82
+  },
+  {
+    "id": "303",
+    "pokemon": "Mawile",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Devonte Wyatt",
+    "playerId": "00-0037075",
+    "team": "GB",
+    "maddenOvr": 78
+  },
+  {
+    "id": "350",
+    "pokemon": "Milotic",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Javon Bullard",
+    "playerId": "00-0039867",
+    "team": "GB",
+    "maddenOvr": 78
+  },
+  {
+    "id": "626",
+    "pokemon": "Bouffalant",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Keisean Nixon",
+    "playerId": "00-0035133",
+    "team": "GB",
+    "maddenOvr": 78
+  },
+  {
+    "id": "673",
+    "pokemon": "Gogoat",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Zaire Franklin",
+    "playerId": "00-0034431",
+    "team": "GB",
+    "maddenOvr": 78
+  },
+  {
+    "id": "197",
+    "pokemon": "Umbreon",
+    "types": [
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Brandon Cisse",
+    "playerId": "00-0041470",
+    "team": "GB",
+    "maddenOvr": 72
+  },
+  {
+    "id": "665",
+    "pokemon": "Spewpa",
+    "types": [
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Chris McClellan",
+    "playerId": "00-0040869",
+    "team": "GB",
+    "maddenOvr": 72
+  },
+  {
+    "id": "343",
+    "pokemon": "Baltoy",
+    "types": [
+      "Ground",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Karl Brooks",
+    "playerId": "00-0038398",
+    "team": "GB",
+    "maddenOvr": 70
+  },
+  {
+    "id": "590",
+    "pokemon": "Foongus",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Barryn Sorrell",
+    "playerId": "00-0040010",
+    "team": "GB",
+    "maddenOvr": 70
+  },
+  {
+    "id": "152",
+    "pokemon": "Chikorita",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Ty'Ron Hopper",
+    "playerId": "00-0039812",
+    "team": "GB",
+    "maddenOvr": 66
+  },
+  {
+    "id": "121",
+    "pokemon": "Starmie",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "C.J. Stroud",
+    "playerId": "00-0039163",
+    "team": "HOU",
+    "maddenOvr": 81
+  },
+  {
+    "id": "505",
+    "pokemon": "Watchog",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "David Montgomery",
+    "playerId": "00-0035685",
+    "team": "HOU",
+    "maddenOvr": 82
+  },
+  {
+    "id": "020",
+    "pokemon": "Raticate",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Woody Marks",
+    "playerId": "00-0040583",
+    "team": "HOU",
+    "maddenOvr": 81
+  },
+  {
+    "id": "135",
+    "pokemon": "Jolteon",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Nico Collins",
+    "playerId": "00-0036554",
+    "team": "HOU",
+    "maddenOvr": 90
+  },
+  {
+    "id": "561",
+    "pokemon": "Sigilyph",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Marvin Harrison Jr.",
+    "playerId": "00-0039849",
+    "team": "HOU",
+    "maddenOvr": 77
+  },
+  {
+    "id": "178",
+    "pokemon": "Xatu",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jaylin Noel",
+    "playerId": "00-0040138",
+    "team": "HOU",
+    "maddenOvr": 74
+  },
+  {
+    "id": "198",
+    "pokemon": "Murkrow",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Xavier Hutchinson",
+    "playerId": "00-0038618",
+    "team": "HOU",
+    "maddenOvr": 73
+  },
+  {
+    "id": "230",
+    "pokemon": "Kingdra",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Dalton Schultz",
+    "playerId": "00-0034383",
+    "team": "HOU",
+    "maddenOvr": 87
+  },
+  {
+    "id": "079",
+    "pokemon": "Slowpoke",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Foster Moreau",
+    "playerId": "00-0034981",
+    "team": "HOU",
+    "maddenOvr": 72
+  },
+  {
+    "id": "315",
+    "pokemon": "Roselia",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Ka'imi Fairbairn",
+    "playerId": "00-0032726",
+    "team": "HOU",
+    "maddenOvr": 81
+  },
+  {
+    "id": "377",
+    "pokemon": "Regirock",
+    "types": [
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Will Anderson Jr.",
+    "playerId": "00-0039108",
+    "team": "HOU",
+    "maddenOvr": 95
+  },
+  {
+    "id": "095",
+    "pokemon": "Onix",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Derek Stingley Jr.",
+    "playerId": "00-0037237",
+    "team": "HOU",
+    "maddenOvr": 92
+  },
+  {
+    "id": "612",
+    "pokemon": "Haxorus",
+    "types": [
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Danielle Hunter",
+    "playerId": "00-0031565",
+    "team": "HOU",
+    "maddenOvr": 92
+  },
+  {
+    "id": "452",
+    "pokemon": "Drapion",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Jalen Pitre",
+    "playerId": "00-0037246",
+    "team": "HOU",
+    "maddenOvr": 86
+  },
+  {
+    "id": "251",
+    "pokemon": "Celebi",
+    "types": [
+      "Psychic",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Kamari Lassiter",
+    "playerId": "00-0039343",
+    "team": "HOU",
+    "maddenOvr": 85
+  },
+  {
+    "id": "205",
+    "pokemon": "Forretress",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Azeez Al-Shaair",
+    "playerId": "00-0035166",
+    "team": "HOU",
+    "maddenOvr": 83
+  },
+  {
+    "id": "416",
+    "pokemon": "Vespiquen",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Calen Bullock",
+    "playerId": "00-0039838",
+    "team": "HOU",
+    "maddenOvr": 81
+  },
+  {
+    "id": "549",
+    "pokemon": "Lilligant",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Sheldon Rankins",
+    "playerId": "00-0032759",
+    "team": "HOU",
+    "maddenOvr": 81
+  },
+  {
+    "id": "601",
+    "pokemon": "Klinklang",
+    "types": [
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Reed Blankenship",
+    "playerId": "00-0037130",
+    "team": "HOU",
+    "maddenOvr": 79
+  },
+  {
+    "id": "140",
+    "pokemon": "Kabuto",
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Tommy Togiai",
+    "playerId": "00-0036883",
+    "team": "HOU",
+    "maddenOvr": 76
+  },
+  {
+    "id": "685",
+    "pokemon": "Slurpuff",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Henry To'oTo'o",
+    "playerId": "00-0038599",
+    "team": "HOU",
+    "maddenOvr": 75
+  },
+  {
+    "id": "314",
+    "pokemon": "Illumise",
+    "types": [
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jake Hansen",
+    "playerId": "00-0037457",
+    "team": "HOU",
+    "maddenOvr": 64
+  },
+  {
+    "id": "677",
+    "pokemon": "Espurr",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Daniel Jones",
+    "playerId": "00-0035710",
+    "team": "IND",
+    "maddenOvr": 75
+  },
+  {
+    "id": "555",
+    "pokemon": "Darmanitan",
+    "types": [
+      "Fire"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Jonathan Taylor",
+    "playerId": "00-0036223",
+    "team": "IND",
+    "maddenOvr": 96
+  },
+  {
+    "id": "300",
+    "pokemon": "Skitty",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Seth McGowan",
+    "playerId": "00-0041125",
+    "team": "IND",
+    "maddenOvr": 66
+  },
+  {
+    "id": "478",
+    "pokemon": "Froslass",
+    "types": [
+      "Ice",
+      "Ghost"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Keenan Allen",
+    "playerId": "00-0030279",
+    "team": "IND",
+    "maddenOvr": 81
+  },
+  {
+    "id": "528",
+    "pokemon": "Swoobat",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Josh Downs",
+    "playerId": "00-0038997",
+    "team": "IND",
+    "maddenOvr": 81
+  },
+  {
+    "id": "396",
+    "pokemon": "Starly",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Ashton Dulin",
+    "playerId": "00-0035021",
+    "team": "IND",
+    "maddenOvr": 72
+  },
+  {
+    "id": "656",
+    "pokemon": "Froakie",
+    "types": [
+      "Water"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Laquon Treadwell",
+    "playerId": "00-0032951",
+    "team": "IND",
+    "maddenOvr": 68
+  },
+  {
+    "id": "130",
+    "pokemon": "Gyarados",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Tyler Warren",
+    "playerId": "00-0040128",
+    "team": "IND",
+    "maddenOvr": 84
+  },
+  {
+    "id": "032",
+    "pokemon": "Nidoran♂",
+    "types": [
+      "Poison"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Will Mallory",
+    "playerId": "00-0038394",
+    "team": "IND",
+    "maddenOvr": 65
+  },
+  {
+    "id": "106",
+    "pokemon": "Hitmonlee",
+    "types": [
+      "Fighting"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Spencer Shrader",
+    "playerId": "00-0039576",
+    "team": "IND",
+    "maddenOvr": 84
+  },
+  {
+    "id": "030",
+    "pokemon": "Nidorina",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Sauce Gardner",
+    "playerId": "00-0037190",
+    "team": "IND",
+    "maddenOvr": 89
+  },
+  {
+    "id": "027",
+    "pokemon": "Sandshrew",
+    "types": [
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Charvarius Ward",
+    "playerId": "00-0034573",
+    "team": "IND",
+    "maddenOvr": 88
+  },
+  {
+    "id": "352",
+    "pokemon": "Kecleon",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Cam Bynum",
+    "playerId": "00-0036629",
+    "team": "IND",
+    "maddenOvr": 84
+  },
+  {
+    "id": "529",
+    "pokemon": "Drilbur",
+    "types": [
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Grover Stewart",
+    "playerId": "00-0033952",
+    "team": "IND",
+    "maddenOvr": 83
+  },
+  {
+    "id": "700",
+    "pokemon": "Sylveon",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Laiatu Latu",
+    "playerId": "00-0039340",
+    "team": "IND",
+    "maddenOvr": 80
+  },
+  {
+    "id": "214",
+    "pokemon": "Heracross",
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Akeem Davis-Gaither",
+    "playerId": "00-0036298",
+    "team": "IND",
+    "maddenOvr": 75
+  },
+  {
+    "id": "360",
+    "pokemon": "Wynaut",
+    "types": [
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Jaylahn Tuimoloau",
+    "playerId": "00-0040744",
+    "team": "IND",
+    "maddenOvr": 74
+  },
+  {
+    "id": "629",
+    "pokemon": "Vullaby",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "A.J. Haulcy",
+    "playerId": "00-0041043",
+    "team": "IND",
+    "maddenOvr": 74
+  },
+  {
+    "id": "161",
+    "pokemon": "Sentret",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "CJ Allen",
+    "playerId": "00-0041039",
+    "team": "IND",
+    "maddenOvr": 73
+  },
+  {
+    "id": "199",
+    "pokemon": "Slowking",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Adetomiwa Adebawore",
+    "playerId": "00-0039031",
+    "team": "IND",
+    "maddenOvr": 72
+  },
+  {
+    "id": "285",
+    "pokemon": "Shroomish",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Bryce Boettcher",
+    "playerId": "00-0041518",
+    "team": "IND",
+    "maddenOvr": 70
+  },
+  {
+    "id": "699",
+    "pokemon": "Aurorus",
+    "types": [
+      "Rock",
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Justin Walley",
+    "playerId": "00-0040139",
+    "team": "IND",
+    "maddenOvr": 70
+  },
+  {
+    "id": "380",
+    "pokemon": "Latias",
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Trevor Lawrence",
+    "playerId": "00-0036971",
+    "team": "JAX",
+    "maddenOvr": 87
+  },
+  {
+    "id": "288",
+    "pokemon": "Vigoroth",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Bhayshul Tuten",
+    "playerId": "00-0040719",
+    "team": "JAX",
+    "maddenOvr": 81
+  },
+  {
+    "id": "431",
+    "pokemon": "Glameow",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Chris Rodriguez Jr.",
+    "playerId": "00-0038611",
+    "team": "JAX",
+    "maddenOvr": 73
+  },
+  {
+    "id": "243",
+    "pokemon": "Raikou",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Parker Washington",
+    "playerId": "00-0038606",
+    "team": "JAX",
+    "maddenOvr": 84
+  },
+  {
+    "id": "094",
+    "pokemon": "Gengar",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jakobi Meyers",
+    "playerId": "00-0034960",
+    "team": "JAX",
+    "maddenOvr": 82
+  },
+  {
+    "id": "049",
+    "pokemon": "Venomoth",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Brian Thomas Jr.",
+    "playerId": "00-0039893",
+    "team": "JAX",
+    "maddenOvr": 79
+  },
+  {
+    "id": "418",
+    "pokemon": "Buizel",
+    "types": [
+      "Water"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Josh Cameron",
+    "playerId": "00-0041100",
+    "team": "JAX",
+    "maddenOvr": 68
+  },
+  {
+    "id": "134",
+    "pokemon": "Vaporeon",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Brenton Strange",
+    "playerId": "00-0038935",
+    "team": "JAX",
+    "maddenOvr": 79
+  },
+  {
+    "id": "422",
+    "pokemon": "Shellos",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Nate Boerkircher",
+    "playerId": "00-0041503",
+    "team": "JAX",
+    "maddenOvr": 67
+  },
+  {
+    "id": "223",
+    "pokemon": "Remoraid",
+    "types": [
+      "Water"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Cam Little",
+    "playerId": "00-0039409",
+    "team": "JAX",
+    "maddenOvr": 80
+  },
+  {
+    "id": "711",
+    "pokemon": "Gourgeist",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Josh Hines-Allen",
+    "playerId": "00-0035642",
+    "team": "JAX",
+    "maddenOvr": 89
+  },
+  {
+    "id": "534",
+    "pokemon": "Conkeldurr",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Foyesade Oluokun",
+    "playerId": "00-0034413",
+    "team": "JAX",
+    "maddenOvr": 87
+  },
+  {
+    "id": "499",
+    "pokemon": "Pignite",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Travis Hunter",
+    "playerId": "00-0040718",
+    "team": "JAX",
+    "maddenOvr": 85
+  },
+  {
+    "id": "671",
+    "pokemon": "Florges",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Jourdan Lewis",
+    "playerId": "00-0033928",
+    "team": "JAX",
+    "maddenOvr": 82
+  },
+  {
+    "id": "202",
+    "pokemon": "Wobbuffet",
+    "types": [
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Antonio Johnson",
+    "playerId": "00-0038596",
+    "team": "JAX",
+    "maddenOvr": 81
+  },
+  {
+    "id": "192",
+    "pokemon": "Sunflora",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Travon Walker",
+    "playerId": "00-0037235",
+    "team": "JAX",
+    "maddenOvr": 80
+  },
+  {
+    "id": "616",
+    "pokemon": "Shelmet",
+    "types": [
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Arik Armstead",
+    "playerId": "00-0032164",
+    "team": "JAX",
+    "maddenOvr": 76
+  },
+  {
+    "id": "459",
+    "pokemon": "Snover",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "DaVon Hamilton",
+    "playerId": "00-0036262",
+    "team": "JAX",
+    "maddenOvr": 75
+  },
+  {
+    "id": "104",
+    "pokemon": "Cubone",
+    "types": [
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Montaric Brown",
+    "playerId": "00-0037313",
+    "team": "JAX",
+    "maddenOvr": 74
+  },
+  {
+    "id": "366",
+    "pokemon": "Clamperl",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Eric Murray",
+    "playerId": "00-0033038",
+    "team": "JAX",
+    "maddenOvr": 74
+  },
+  {
+    "id": "622",
+    "pokemon": "Golett",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Dennis Gardeck",
+    "playerId": "00-0034473",
+    "team": "JAX",
+    "maddenOvr": 74
+  },
+  {
+    "id": "461",
+    "pokemon": "Weavile",
+    "types": [
+      "Dark",
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Ventrell Miller",
+    "playerId": "00-0038570",
+    "team": "JAX",
+    "maddenOvr": 73
+  },
+  {
+    "id": "655",
+    "pokemon": "Delphox",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Patrick Mahomes",
+    "playerId": "00-0033873",
+    "team": "KC",
+    "maddenOvr": 94
+  },
+  {
+    "id": "628",
+    "pokemon": "Braviary",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Kenneth Walker III",
+    "playerId": "00-0038134",
+    "team": "KC",
+    "maddenOvr": 95
+  },
+  {
+    "id": "132",
+    "pokemon": "Ditto",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Emmett Johnson",
+    "playerId": "00-0041013",
+    "team": "KC",
+    "maddenOvr": 71
+  },
+  {
+    "id": "277",
+    "pokemon": "Swellow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Rashee Rice",
+    "playerId": "00-0039067",
+    "team": "KC",
+    "maddenOvr": 85
+  },
+  {
+    "id": "018",
+    "pokemon": "Pidgeot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Xavier Worthy",
+    "playerId": "00-0039894",
+    "team": "KC",
+    "maddenOvr": 79
+  },
+  {
+    "id": "661",
+    "pokemon": "Fletchling",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jalen Royals",
+    "playerId": "00-0040646",
+    "team": "KC",
+    "maddenOvr": 71
+  },
+  {
+    "id": "415",
+    "pokemon": "Combee",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Cyrus Allen",
+    "playerId": "00-0040890",
+    "team": "KC",
+    "maddenOvr": 70
+  },
+  {
+    "id": "321",
+    "pokemon": "Wailord",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Travis Kelce",
+    "playerId": "00-0030506",
+    "team": "KC",
+    "maddenOvr": 93
+  },
+  {
+    "id": "341",
+    "pokemon": "Corphish",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Noah Gray",
+    "playerId": "00-0036637",
+    "team": "KC",
+    "maddenOvr": 73
+  },
+  {
+    "id": "037",
+    "pokemon": "Vulpix",
+    "types": [
+      "Fire"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Harrison Butker",
+    "playerId": "00-0033303",
+    "team": "KC",
+    "maddenOvr": 80
+  },
+  {
+    "id": "148",
+    "pokemon": "Dragonair",
+    "types": [
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Chris Jones",
+    "playerId": "00-0032762",
+    "team": "KC",
+    "maddenOvr": 94
+  },
+  {
+    "id": "560",
+    "pokemon": "Scrafty",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Drue Tranquill",
+    "playerId": "00-0035262",
+    "team": "KC",
+    "maddenOvr": 89
+  },
+  {
+    "id": "638",
+    "pokemon": "Cobalion",
+    "types": [
+      "Steel",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "George Karlaftis",
+    "playerId": "00-0037192",
+    "team": "KC",
+    "maddenOvr": 83
+  },
+  {
+    "id": "553",
+    "pokemon": "Krookodile",
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Mansoor Delane",
+    "playerId": "00-0041543",
+    "team": "KC",
+    "maddenOvr": 82
+  },
+  {
+    "id": "697",
+    "pokemon": "Tyrantrum",
+    "types": [
+      "Rock",
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Nick Bolton",
+    "playerId": "00-0036621",
+    "team": "KC",
+    "maddenOvr": 82
+  },
+  {
+    "id": "109",
+    "pokemon": "Koffing",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Alohi Gilman",
+    "playerId": "00-0036380",
+    "team": "KC",
+    "maddenOvr": 80
+  },
+  {
+    "id": "110",
+    "pokemon": "Weezing",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Nohl Williams",
+    "playerId": "00-0040670",
+    "team": "KC",
+    "maddenOvr": 79
+  },
+  {
+    "id": "448",
+    "pokemon": "Lucario",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "L'Jarius Sneed",
+    "playerId": "00-0036374",
+    "team": "KC",
+    "maddenOvr": 79
+  },
+  {
+    "id": "221",
+    "pokemon": "Piloswine",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Chamarri Conner",
+    "playerId": "00-0038982",
+    "team": "KC",
+    "maddenOvr": 76
+  },
+  {
+    "id": "619",
+    "pokemon": "Mienfoo",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Felix Anudike-Uzomah",
+    "playerId": "00-0039006",
+    "team": "KC",
+    "maddenOvr": 74
+  },
+  {
+    "id": "292",
+    "pokemon": "Shedinja",
+    "types": [
+      "Bug",
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Khyiris Tonga",
+    "playerId": "00-0036909",
+    "team": "KC",
+    "maddenOvr": 73
+  },
+  {
+    "id": "167",
+    "pokemon": "Spinarak",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jeffrey Bassa",
+    "playerId": "00-0040072",
+    "team": "KC",
+    "maddenOvr": 67
+  },
+  {
+    "id": "065",
+    "pokemon": "Alakazam",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Matthew Stafford",
+    "playerId": "00-0026498",
+    "team": "LA",
+    "maddenOvr": 98
+  },
+  {
+    "id": "521",
+    "pokemon": "Unfezant",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Kyren Williams",
+    "playerId": "00-0037840",
+    "team": "LA",
+    "maddenOvr": 90
+  },
+  {
+    "id": "301",
+    "pokemon": "Delcatty",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Blake Corum",
+    "playerId": "00-0039738",
+    "team": "LA",
+    "maddenOvr": 79
+  },
+  {
+    "id": "291",
+    "pokemon": "Ninjask",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Puka Nacua",
+    "playerId": "00-0039075",
+    "team": "LA",
+    "maddenOvr": 98
+  },
+  {
+    "id": "595",
+    "pokemon": "Joltik",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Tutu Atwell",
+    "playerId": "00-0036849",
+    "team": "LA",
+    "maddenOvr": 75
+  },
+  {
+    "id": "041",
+    "pokemon": "Zubat",
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jordan Whittington",
+    "playerId": "00-0039751",
+    "team": "LA",
+    "maddenOvr": 72
+  },
+  {
+    "id": "164",
+    "pokemon": "Noctowl",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Konata Mumpfield",
+    "playerId": "00-0040590",
+    "team": "LA",
+    "maddenOvr": 71
+  },
+  {
+    "id": "171",
+    "pokemon": "Lanturn",
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Tyler Higbee",
+    "playerId": "00-0033110",
+    "team": "LA",
+    "maddenOvr": 76
+  },
+  {
+    "id": "272",
+    "pokemon": "Ludicolo",
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Colby Parkinson",
+    "playerId": "00-0036244",
+    "team": "LA",
+    "maddenOvr": 73
+  },
+  {
+    "id": "173",
+    "pokemon": "Cleffa",
+    "types": [
+      "Fairy"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Brandon McManus",
+    "playerId": "00-0029822",
+    "team": "LA",
+    "maddenOvr": 75
+  },
+  {
+    "id": "356",
+    "pokemon": "Dusclops",
+    "types": [
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Trent McDuffie",
+    "playerId": "00-0037191",
+    "team": "LA",
+    "maddenOvr": 96
+  },
+  {
+    "id": "246",
+    "pokemon": "Larvitar",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Aaron Donald",
+    "playerId": "00-0031388",
+    "team": "LA",
+    "maddenOvr": 95
+  },
+  {
+    "id": "382",
+    "pokemon": "Kyogre",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Byron Young",
+    "playerId": "00-0039137",
+    "team": "LA",
+    "maddenOvr": 85
+  },
+  {
+    "id": "488",
+    "pokemon": "Cresselia",
+    "types": [
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Nate Landman",
+    "playerId": "00-0037587",
+    "team": "LA",
+    "maddenOvr": 84
+  },
+  {
+    "id": "646",
+    "pokemon": "Kyurem",
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Quentin Lake",
+    "playerId": "00-0037841",
+    "team": "LA",
+    "maddenOvr": 84
+  },
+  {
+    "id": "518",
+    "pokemon": "Musharna",
+    "types": [
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Kam Curl",
+    "playerId": "00-0036349",
+    "team": "LA",
+    "maddenOvr": 83
+  },
+  {
+    "id": "537",
+    "pokemon": "Seismitoad",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Jaylen Watson",
+    "playerId": "00-0037195",
+    "team": "LA",
+    "maddenOvr": 80
+  },
+  {
+    "id": "181",
+    "pokemon": "Ampharos",
+    "types": [
+      "Electric"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Kamren Kinchens",
+    "playerId": "00-0039834",
+    "team": "LA",
+    "maddenOvr": 79
+  },
+  {
+    "id": "650",
+    "pokemon": "Chespin",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Braden Fiske",
+    "playerId": "00-0039734",
+    "team": "LA",
+    "maddenOvr": 79
+  },
+  {
+    "id": "471",
+    "pokemon": "Glaceon",
+    "types": [
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Omar Speights",
+    "playerId": "00-0039774",
+    "team": "LA",
+    "maddenOvr": 78
+  },
+  {
+    "id": "261",
+    "pokemon": "Poochyena",
+    "types": [
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Ty Hamilton",
+    "playerId": "00-0040585",
+    "team": "LA",
+    "maddenOvr": 70
+  },
+  {
+    "id": "495",
+    "pokemon": "Snivy",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Desjuan Johnson",
+    "playerId": "00-0039061",
+    "team": "LA",
+    "maddenOvr": 65
+  },
+  {
+    "id": "238",
+    "pokemon": "Smoochum",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Justin Herbert",
+    "playerId": "00-0036355",
+    "team": "LAC",
+    "maddenOvr": 83
+  },
+  {
+    "id": "295",
+    "pokemon": "Exploud",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Omarion Hampton",
+    "playerId": "00-0040666",
+    "team": "LAC",
+    "maddenOvr": 81
+  },
+  {
+    "id": "133",
+    "pokemon": "Eevee",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Keaton Mitchell",
+    "playerId": "00-0038454",
+    "team": "LAC",
+    "maddenOvr": 76
+  },
+  {
+    "id": "310",
+    "pokemon": "Manectric",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Ladd McConkey",
+    "playerId": "00-0039915",
+    "team": "LAC",
+    "maddenOvr": 83
+  },
+  {
+    "id": "189",
+    "pokemon": "Jumpluff",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Quentin Johnston",
+    "playerId": "00-0038544",
+    "team": "LAC",
+    "maddenOvr": 80
+  },
+  {
+    "id": "311",
+    "pokemon": "Plusle",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Tre' Harris",
+    "playerId": "00-0040727",
+    "team": "LAC",
+    "maddenOvr": 73
+  },
+  {
+    "id": "309",
+    "pokemon": "Electrike",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "KeAndre Lambert-Smith",
+    "playerId": "00-0040184",
+    "team": "LAC",
+    "maddenOvr": 70
+  },
+  {
+    "id": "457",
+    "pokemon": "Lumineon",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Oronde Gadsden",
+    "playerId": "00-0040189",
+    "team": "LAC",
+    "maddenOvr": 75
+  },
+  {
+    "id": "258",
+    "pokemon": "Mudkip",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Charlie Kolar",
+    "playerId": "00-0038046",
+    "team": "LAC",
+    "maddenOvr": 68
+  },
+  {
+    "id": "069",
+    "pokemon": "Bellsprout",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Cameron Dicker",
+    "playerId": "00-0037224",
+    "team": "LAC",
+    "maddenOvr": 80
+  },
+  {
+    "id": "233",
+    "pokemon": "Porygon2",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Derwin James Jr.",
+    "playerId": "00-0034790",
+    "team": "LAC",
+    "maddenOvr": 93
+  },
+  {
+    "id": "632",
+    "pokemon": "Durant",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Khalil Mack",
+    "playerId": "00-0031040",
+    "team": "LAC",
+    "maddenOvr": 86
+  },
+  {
+    "id": "710",
+    "pokemon": "Pumpkaboo",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Donte Jackson",
+    "playerId": "00-0034356",
+    "team": "LAC",
+    "maddenOvr": 82
+  },
+  {
+    "id": "597",
+    "pokemon": "Ferroseed",
+    "types": [
+      "Grass",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Tarheeb Still",
+    "playerId": "00-0039366",
+    "team": "LAC",
+    "maddenOvr": 81
+  },
+  {
+    "id": "625",
+    "pokemon": "Bisharp",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Daiyan Henley",
+    "playerId": "00-0038553",
+    "team": "LAC",
+    "maddenOvr": 81
+  },
+  {
+    "id": "379",
+    "pokemon": "Registeel",
+    "types": [
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Tuli Tuipulotu",
+    "playerId": "00-0039111",
+    "team": "LAC",
+    "maddenOvr": 79
+  },
+  {
+    "id": "536",
+    "pokemon": "Palpitoad",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Elijah Molden",
+    "playerId": "00-0036992",
+    "team": "LAC",
+    "maddenOvr": 79
+  },
+  {
+    "id": "035",
+    "pokemon": "Clefairy",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Teair Tart",
+    "playerId": "00-0036181",
+    "team": "LAC",
+    "maddenOvr": 77
+  },
+  {
+    "id": "430",
+    "pokemon": "Honchkrow",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Cam Hart",
+    "playerId": "00-0039369",
+    "team": "LAC",
+    "maddenOvr": 74
+  },
+  {
+    "id": "682",
+    "pokemon": "Spritzee",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Justin Eboigbe",
+    "playerId": "00-0039835",
+    "team": "LAC",
+    "maddenOvr": 73
+  },
+  {
+    "id": "007",
+    "pokemon": "Squirtle",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Jamaree Caldwell",
+    "playerId": "00-0040144",
+    "team": "LAC",
+    "maddenOvr": 71
+  },
+  {
+    "id": "209",
+    "pokemon": "Snubbull",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Del'Shawn Phillips",
+    "playerId": "00-0035202",
+    "team": "LAC",
+    "maddenOvr": 71
+  },
+  {
+    "id": "358",
+    "pokemon": "Chimecho",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Kirk Cousins",
+    "playerId": "00-0029604",
+    "team": "LV",
+    "maddenOvr": 77
+  },
+  {
+    "id": "241",
+    "pokemon": "Miltank",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Ashton Jeanty",
+    "playerId": "00-0040122",
+    "team": "LV",
+    "maddenOvr": 85
+  },
+  {
+    "id": "519",
+    "pokemon": "Pidove",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Mike Washington Jr.",
+    "playerId": "00-0040878",
+    "team": "LV",
+    "maddenOvr": 73
+  },
+  {
+    "id": "701",
+    "pokemon": "Hawlucha",
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Tre Tucker",
+    "playerId": "00-0038563",
+    "team": "LV",
+    "maddenOvr": 78
+  },
+  {
+    "id": "370",
+    "pokemon": "Luvdisc",
+    "types": [
+      "Water"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jalen Nailor",
+    "playerId": "00-0037291",
+    "team": "LV",
+    "maddenOvr": 77
+  },
+  {
+    "id": "025",
+    "pokemon": "Pikachu",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Cody White",
+    "playerId": "00-0035891",
+    "team": "LV",
+    "maddenOvr": 68
+  },
+  {
+    "id": "165",
+    "pokemon": "Ledyba",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Dont'e Thornton Jr.",
+    "playerId": "00-0040581",
+    "team": "LV",
+    "maddenOvr": 68
+  },
+  {
+    "id": "594",
+    "pokemon": "Alomomola",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Brock Bowers",
+    "playerId": "00-0039338",
+    "team": "LV",
+    "maddenOvr": 95
+  },
+  {
+    "id": "489",
+    "pokemon": "Phione",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Michael Mayer",
+    "playerId": "00-0039066",
+    "team": "LV",
+    "maddenOvr": 80
+  },
+  {
+    "id": "155",
+    "pokemon": "Cyndaquil",
+    "types": [
+      "Fire"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Matt Gay",
+    "playerId": "00-0035269",
+    "team": "LV",
+    "maddenOvr": 75
+  },
+  {
+    "id": "639",
+    "pokemon": "Terrakion",
+    "types": [
+      "Rock",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Maxx Crosby",
+    "playerId": "00-0034973",
+    "team": "LV",
+    "maddenOvr": 97
+  },
+  {
+    "id": "337",
+    "pokemon": "Lunatone",
+    "types": [
+      "Rock",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Taron Johnson",
+    "playerId": "00-0034376",
+    "team": "LV",
+    "maddenOvr": 84
+  },
+  {
+    "id": "492",
+    "pokemon": "Shaymin",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Jeremy Chinn",
+    "playerId": "00-0036293",
+    "team": "LV",
+    "maddenOvr": 82
+  },
+  {
+    "id": "465",
+    "pokemon": "Tangrowth",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Quay Walker",
+    "playerId": "00-0037074",
+    "team": "LV",
+    "maddenOvr": 80
+  },
+  {
+    "id": "250",
+    "pokemon": "Ho-Oh",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Nakobe Dean",
+    "playerId": "00-0037615",
+    "team": "LV",
+    "maddenOvr": 79
+  },
+  {
+    "id": "408",
+    "pokemon": "Cranidos",
+    "types": [
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Kwity Paye",
+    "playerId": "00-0036479",
+    "team": "LV",
+    "maddenOvr": 78
+  },
+  {
+    "id": "624",
+    "pokemon": "Pawniard",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Eric Stokes",
+    "playerId": "00-0036901",
+    "team": "LV",
+    "maddenOvr": 77
+  },
+  {
+    "id": "206",
+    "pokemon": "Dunsparce",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Treydan Stukes",
+    "playerId": "00-0040868",
+    "team": "LV",
+    "maddenOvr": 76
+  },
+  {
+    "id": "290",
+    "pokemon": "Nincada",
+    "types": [
+      "Bug",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Folorunso Fatukasi",
+    "playerId": "00-0034275",
+    "team": "LV",
+    "maddenOvr": 74
+  },
+  {
+    "id": "564",
+    "pokemon": "Tirtouga",
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Darien Porter",
+    "playerId": "00-0040641",
+    "team": "LV",
+    "maddenOvr": 74
+  },
+  {
+    "id": "588",
+    "pokemon": "Karrablast",
+    "types": [
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Adam Butler",
+    "playerId": "00-0033381",
+    "team": "LV",
+    "maddenOvr": 73
+  },
+  {
+    "id": "496",
+    "pokemon": "Servine",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Tonka Hemingway",
+    "playerId": "00-0040169",
+    "team": "LV",
+    "maddenOvr": 68
+  },
+  {
+    "id": "439",
+    "pokemon": "Mime Jr.",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Malik Willis",
+    "playerId": "00-0038128",
+    "team": "MIA",
+    "maddenOvr": 72
+  },
+  {
+    "id": "190",
+    "pokemon": "Aipom",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Ollie Gordon II",
+    "playerId": "00-0040198",
+    "team": "MIA",
+    "maddenOvr": 75
+  },
+  {
+    "id": "504",
+    "pokemon": "Patrat",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Jaylen Wright",
+    "playerId": "00-0039874",
+    "team": "MIA",
+    "maddenOvr": 73
+  },
+  {
+    "id": "615",
+    "pokemon": "Cryogonal",
+    "types": [
+      "Ice"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Malik Washington",
+    "playerId": "00-0039880",
+    "team": "MIA",
+    "maddenOvr": 73
+  },
+  {
+    "id": "547",
+    "pokemon": "Whimsicott",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Caleb Douglas",
+    "playerId": "00-0041523",
+    "team": "MIA",
+    "maddenOvr": 72
+  },
+  {
+    "id": "188",
+    "pokemon": "Skiploom",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Chris Bell",
+    "playerId": "00-0041525",
+    "team": "MIA",
+    "maddenOvr": 71
+  },
+  {
+    "id": "021",
+    "pokemon": "Spearow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Kevin Coleman Jr.",
+    "playerId": "00-0041529",
+    "team": "MIA",
+    "maddenOvr": 70
+  },
+  {
+    "id": "073",
+    "pokemon": "Tentacruel",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Greg Dulcich",
+    "playerId": "00-0037252",
+    "team": "MIA",
+    "maddenOvr": 70
+  },
+  {
+    "id": "174",
+    "pokemon": "Igglybuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Will Kacmarek",
+    "playerId": "00-0041524",
+    "team": "MIA",
+    "maddenOvr": 65
+  },
+  {
+    "id": "270",
+    "pokemon": "Lotad",
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Zane Gonzalez",
+    "playerId": "00-0033862",
+    "team": "MIA",
+    "maddenOvr": 74
+  },
+  {
+    "id": "565",
+    "pokemon": "Carracosta",
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jordyn Brooks",
+    "playerId": "00-0036409",
+    "team": "MIA",
+    "maddenOvr": 87
+  },
+  {
+    "id": "047",
+    "pokemon": "Parasect",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Zach Sieler",
+    "playerId": "00-0034285",
+    "team": "MIA",
+    "maddenOvr": 83
+  },
+  {
+    "id": "151",
+    "pokemon": "Mew",
+    "types": [
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jacob Rodriguez",
+    "playerId": "00-0041522",
+    "team": "MIA",
+    "maddenOvr": 80
+  },
+  {
+    "id": "340",
+    "pokemon": "Whiscash",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Chris Johnson",
+    "playerId": "00-0041533",
+    "team": "MIA",
+    "maddenOvr": 77
+  },
+  {
+    "id": "204",
+    "pokemon": "Pineco",
+    "types": [
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Josh Uche",
+    "playerId": "00-0036159",
+    "team": "MIA",
+    "maddenOvr": 76
+  },
+  {
+    "id": "679",
+    "pokemon": "Honedge",
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Chop Robinson",
+    "playerId": "00-0039911",
+    "team": "MIA",
+    "maddenOvr": 75
+  },
+  {
+    "id": "443",
+    "pokemon": "Gible",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "JuJu Brents",
+    "playerId": "00-0039156",
+    "team": "MIA",
+    "maddenOvr": 73
+  },
+  {
+    "id": "333",
+    "pokemon": "Swablu",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Willie Gay Jr.",
+    "playerId": "00-0036362",
+    "team": "MIA",
+    "maddenOvr": 72
+  },
+  {
+    "id": "412",
+    "pokemon": "Burmy",
+    "types": [
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Jordan Phillips",
+    "playerId": "00-0031557",
+    "team": "MIA",
+    "maddenOvr": 71
+  },
+  {
+    "id": "096",
+    "pokemon": "Drowzee",
+    "types": [
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Jason Marshall Jr.",
+    "playerId": "00-0040178",
+    "team": "MIA",
+    "maddenOvr": 69
+  },
+  {
+    "id": "438",
+    "pokemon": "Bonsly",
+    "types": [
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Dante Trader Jr.",
+    "playerId": "00-0040182",
+    "team": "MIA",
+    "maddenOvr": 68
+  },
+  {
+    "id": "043",
+    "pokemon": "Oddish",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Zayne Anderson",
+    "playerId": "00-0036677",
+    "team": "MIA",
+    "maddenOvr": 66
+  },
+  {
+    "id": "605",
+    "pokemon": "Elgyem",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Kyler Murray",
+    "playerId": "00-0035228",
+    "team": "MIN",
+    "maddenOvr": 77
+  },
+  {
+    "id": "234",
+    "pokemon": "Stantler",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Aaron Jones Sr.",
+    "playerId": "00-0033293",
+    "team": "MIN",
+    "maddenOvr": 83
+  },
+  {
+    "id": "427",
+    "pokemon": "Buneary",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Jordan Mason",
+    "playerId": "00-0037525",
+    "team": "MIN",
+    "maddenOvr": 80
+  },
+  {
+    "id": "663",
+    "pokemon": "Talonflame",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Justin Jefferson",
+    "playerId": "00-0036322",
+    "team": "MIN",
+    "maddenOvr": 97
+  },
+  {
+    "id": "587",
+    "pokemon": "Emolga",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jordan Addison",
+    "playerId": "00-0038994",
+    "team": "MIN",
+    "maddenOvr": 84
+  },
+  {
+    "id": "334",
+    "pokemon": "Altaria",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jauan Jennings",
+    "playerId": "00-0036259",
+    "team": "MIN",
+    "maddenOvr": 81
+  },
+  {
+    "id": "714",
+    "pokemon": "Noibat",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Tai Felton",
+    "playerId": "00-0040154",
+    "team": "MIN",
+    "maddenOvr": 71
+  },
+  {
+    "id": "224",
+    "pokemon": "Octillery",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "T.J. Hockenson",
+    "playerId": "00-0035229",
+    "team": "MIN",
+    "maddenOvr": 83
+  },
+  {
+    "id": "039",
+    "pokemon": "Jigglypuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Gavin Bartholomew",
+    "playerId": "00-0040215",
+    "team": "MIN",
+    "maddenOvr": 64
+  },
+  {
+    "id": "093",
+    "pokemon": "Haunter",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Will Reichard",
+    "playerId": "00-0039404",
+    "team": "MIN",
+    "maddenOvr": 84
+  },
+  {
+    "id": "500",
+    "pokemon": "Emboar",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Byron Murphy Jr.",
+    "playerId": "00-0035236",
+    "team": "MIN",
+    "maddenOvr": 88
+  },
+  {
+    "id": "038",
+    "pokemon": "Ninetales",
+    "types": [
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Harrison Smith",
+    "playerId": "00-0029606",
+    "team": "MIN",
+    "maddenOvr": 87
+  },
+  {
+    "id": "226",
+    "pokemon": "Mantine",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Isaiah Rodgers",
+    "playerId": "00-0036222",
+    "team": "MIN",
+    "maddenOvr": 86
+  },
+  {
+    "id": "383",
+    "pokemon": "Groudon",
+    "types": [
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Blake Cashman",
+    "playerId": "00-0035276",
+    "team": "MIN",
+    "maddenOvr": 84
+  },
+  {
+    "id": "631",
+    "pokemon": "Heatmor",
+    "types": [
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Jalen Redmond",
+    "playerId": "00-0038778",
+    "team": "MIN",
+    "maddenOvr": 84
+  },
+  {
+    "id": "719",
+    "pokemon": "Diancie",
+    "types": [
+      "Rock",
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Andrew Van Ginkel",
+    "playerId": "00-0035272",
+    "team": "MIN",
+    "maddenOvr": 84
+  },
+  {
+    "id": "618",
+    "pokemon": "Stunfisk",
+    "types": [
+      "Ground",
+      "Electric"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Joshua Metellus",
+    "playerId": "00-0036348",
+    "team": "MIN",
+    "maddenOvr": 83
+  },
+  {
+    "id": "143",
+    "pokemon": "Snorlax",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Dallas Turner",
+    "playerId": "00-0039924",
+    "team": "MIN",
+    "maddenOvr": 82
+  },
+  {
+    "id": "706",
+    "pokemon": "Goodra",
+    "types": [
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Eric Wilson",
+    "playerId": "00-0033336",
+    "team": "MIN",
+    "maddenOvr": 79
+  },
+  {
+    "id": "392",
+    "pokemon": "Infernape",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "James Pierre",
+    "playerId": "00-0035795",
+    "team": "MIN",
+    "maddenOvr": 77
+  },
+  {
+    "id": "307",
+    "pokemon": "Meditite",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Caleb Banks",
+    "playerId": "00-0041033",
+    "team": "MIN",
+    "maddenOvr": 76
+  },
+  {
+    "id": "374",
+    "pokemon": "Beldum",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Levi Drake Rodriguez",
+    "playerId": "00-0039421",
+    "team": "MIN",
+    "maddenOvr": 69
+  },
+  {
+    "id": "720",
+    "pokemon": "Hoopa",
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Drake Maye",
+    "playerId": "00-0039851",
+    "team": "NE",
+    "maddenOvr": 89
+  },
+  {
+    "id": "627",
+    "pokemon": "Rufflet",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "TreVeyon Henderson",
+    "playerId": "00-0040734",
+    "team": "NE",
+    "maddenOvr": 82
+  },
+  {
+    "id": "157",
+    "pokemon": "Typhlosion",
+    "types": [
+      "Fire"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Rhamondre Stevenson",
+    "playerId": "00-0036875",
+    "team": "NE",
+    "maddenOvr": 80
+  },
+  {
+    "id": "126",
+    "pokemon": "Magmar",
+    "types": [
+      "Fire"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "A.J. Brown",
+    "playerId": "00-0035676",
+    "team": "NE",
+    "maddenOvr": 87
+  },
+  {
+    "id": "469",
+    "pokemon": "Yanmega",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "DeMario Douglas",
+    "playerId": "00-0038621",
+    "team": "NE",
+    "maddenOvr": 77
+  },
+  {
+    "id": "267",
+    "pokemon": "Beautifly",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Kyle Williams",
+    "playerId": "00-0040131",
+    "team": "NE",
+    "maddenOvr": 73
+  },
+  {
+    "id": "012",
+    "pokemon": "Butterfree",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Efton Chism III",
+    "playerId": "00-0040563",
+    "team": "NE",
+    "maddenOvr": 72
+  },
+  {
+    "id": "503",
+    "pokemon": "Samurott",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Hunter Henry",
+    "playerId": "00-0033090",
+    "team": "NE",
+    "maddenOvr": 86
+  },
+  {
+    "id": "184",
+    "pokemon": "Azumarill",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Eli Raridon",
+    "playerId": "00-0041395",
+    "team": "NE",
+    "maddenOvr": 65
+  },
+  {
+    "id": "281",
+    "pokemon": "Kirlia",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Andy Borregales",
+    "playerId": "00-0040200",
+    "team": "NE",
+    "maddenOvr": 74
+  },
+  {
+    "id": "207",
+    "pokemon": "Gligar",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Christian Gonzalez",
+    "playerId": "00-0039147",
+    "team": "NE",
+    "maddenOvr": 98
+  },
+  {
+    "id": "451",
+    "pokemon": "Skorupi",
+    "types": [
+      "Poison",
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Milton Williams",
+    "playerId": "00-0036916",
+    "team": "NE",
+    "maddenOvr": 86
+  },
+  {
+    "id": "304",
+    "pokemon": "Aron",
+    "types": [
+      "Steel",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Carlton Davis III",
+    "playerId": "00-0034778",
+    "team": "NE",
+    "maddenOvr": 85
+  },
+  {
+    "id": "359",
+    "pokemon": "Absol",
+    "types": [
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Kevin Byard",
+    "playerId": "00-0033132",
+    "team": "NE",
+    "maddenOvr": 85
+  },
+  {
+    "id": "395",
+    "pokemon": "Empoleon",
+    "types": [
+      "Water",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Robert Spillane",
+    "playerId": "00-0034720",
+    "team": "NE",
+    "maddenOvr": 83
+  },
+  {
+    "id": "703",
+    "pokemon": "Carbink",
+    "types": [
+      "Rock",
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Marcus Jones",
+    "playerId": "00-0037253",
+    "team": "NE",
+    "maddenOvr": 82
+  },
+  {
+    "id": "531",
+    "pokemon": "Audino",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Craig Woodson",
+    "playerId": "00-0040716",
+    "team": "NE",
+    "maddenOvr": 81
+  },
+  {
+    "id": "074",
+    "pokemon": "Geodude",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Christian Barmore",
+    "playerId": "00-0036981",
+    "team": "NE",
+    "maddenOvr": 80
+  },
+  {
+    "id": "712",
+    "pokemon": "Bergmite",
+    "types": [
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Dre'Mont Jones",
+    "playerId": "00-0035678",
+    "team": "NE",
+    "maddenOvr": 77
+  },
+  {
+    "id": "227",
+    "pokemon": "Skarmory",
+    "types": [
+      "Steel",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Christian Elliss",
+    "playerId": "00-0036813",
+    "team": "NE",
+    "maddenOvr": 75
+  },
+  {
+    "id": "623",
+    "pokemon": "Golurk",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Elijah Ponder",
+    "playerId": "00-0040574",
+    "team": "NE",
+    "maddenOvr": 74
+  },
+  {
+    "id": "081",
+    "pokemon": "Magnemite",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Cory Durden",
+    "playerId": "00-0038653",
+    "team": "NE",
+    "maddenOvr": 68
+  },
+  {
+    "id": "576",
+    "pokemon": "Gothitelle",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Tyler Shough",
+    "playerId": "00-0040743",
+    "team": "NO",
+    "maddenOvr": 81
+  },
+  {
+    "id": "053",
+    "pokemon": "Persian",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Alvin Kamara",
+    "playerId": "00-0033906",
+    "team": "NO",
+    "maddenOvr": 79
+  },
+  {
+    "id": "052",
+    "pokemon": "Meowth",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Kendre Miller",
+    "playerId": "00-0038551",
+    "team": "NO",
+    "maddenOvr": 76
+  },
+  {
+    "id": "567",
+    "pokemon": "Archeops",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Chris Olave",
+    "playerId": "00-0037239",
+    "team": "NO",
+    "maddenOvr": 89
+  },
+  {
+    "id": "146",
+    "pokemon": "Moltres",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Devaughn Vele",
+    "playerId": "00-0039424",
+    "team": "NO",
+    "maddenOvr": 76
+  },
+  {
+    "id": "425",
+    "pokemon": "Drifloon",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Bryce Lance",
+    "playerId": "00-0041067",
+    "team": "NO",
+    "maddenOvr": 70
+  },
+  {
+    "id": "580",
+    "pokemon": "Ducklett",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Barion Brown",
+    "playerId": "00-0041099",
+    "team": "NO",
+    "maddenOvr": 70
+  },
+  {
+    "id": "365",
+    "pokemon": "Walrein",
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Juwan Johnson",
+    "playerId": "00-0036040",
+    "team": "NO",
+    "maddenOvr": 80
+  },
+  {
+    "id": "159",
+    "pokemon": "Croconaw",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Noah Fant",
+    "playerId": "00-0035644",
+    "team": "NO",
+    "maddenOvr": 74
+  },
+  {
+    "id": "420",
+    "pokemon": "Cherubi",
+    "types": [
+      "Grass"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Daniel Carlson",
+    "playerId": "00-0034161",
+    "team": "NO",
+    "maddenOvr": 77
+  },
+  {
+    "id": "213",
+    "pokemon": "Shuckle",
+    "types": [
+      "Bug",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Chase Young",
+    "playerId": "00-0036321",
+    "team": "NO",
+    "maddenOvr": 87
+  },
+  {
+    "id": "378",
+    "pokemon": "Regice",
+    "types": [
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Kaden Elliss",
+    "playerId": "00-0035316",
+    "team": "NO",
+    "maddenOvr": 83
+  },
+  {
+    "id": "222",
+    "pokemon": "Corsola",
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Justin Reid",
+    "playerId": "00-0034361",
+    "team": "NO",
+    "maddenOvr": 81
+  },
+  {
+    "id": "002",
+    "pokemon": "Ivysaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Cameron Jordan",
+    "playerId": "00-0027962",
+    "team": "NO",
+    "maddenOvr": 79
+  },
+  {
+    "id": "144",
+    "pokemon": "Articuno",
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Carl Granderson",
+    "playerId": "00-0035402",
+    "team": "NO",
+    "maddenOvr": 79
+  },
+  {
+    "id": "062",
+    "pokemon": "Poliwrath",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Martin Emerson Jr.",
+    "playerId": "00-0037250",
+    "team": "NO",
+    "maddenOvr": 77
+  },
+  {
+    "id": "071",
+    "pokemon": "Victreebel",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Kool-Aid McKinstry",
+    "playerId": "00-0039860",
+    "team": "NO",
+    "maddenOvr": 76
+  },
+  {
+    "id": "313",
+    "pokemon": "Volbeat",
+    "types": [
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Julian Blackmon",
+    "playerId": "00-0036253",
+    "team": "NO",
+    "maddenOvr": 76
+  },
+  {
+    "id": "533",
+    "pokemon": "Gurdurr",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Jonas Sanker",
+    "playerId": "00-0040643",
+    "team": "NO",
+    "maddenOvr": 76
+  },
+  {
+    "id": "472",
+    "pokemon": "Gliscor",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Pete Werner",
+    "playerId": "00-0036927",
+    "team": "NO",
+    "maddenOvr": 75
+  },
+  {
+    "id": "102",
+    "pokemon": "Exeggcute",
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Nathan Shepherd",
+    "playerId": "00-0034760",
+    "team": "NO",
+    "maddenOvr": 74
+  },
+  {
+    "id": "453",
+    "pokemon": "Croagunk",
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Vernon Broughton",
+    "playerId": "00-0040642",
+    "team": "NO",
+    "maddenOvr": 70
+  },
+  {
+    "id": "433",
+    "pokemon": "Chingling",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "J.J. McCarthy",
+    "playerId": "00-0039923",
+    "team": "NYG",
+    "maddenOvr": 72
+  },
+  {
+    "id": "514",
+    "pokemon": "Simisear",
+    "types": [
+      "Fire"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Cam Skattebo",
+    "playerId": "00-0040715",
+    "team": "NYG",
+    "maddenOvr": 83
+  },
+  {
+    "id": "520",
+    "pokemon": "Tranquill",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Devin Singletary",
+    "playerId": "00-0035250",
+    "team": "NYG",
+    "maddenOvr": 75
+  },
+  {
+    "id": "373",
+    "pokemon": "Salamence",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Malik Nabers",
+    "playerId": "00-0039337",
+    "team": "NYG",
+    "maddenOvr": 88
+  },
+  {
+    "id": "397",
+    "pokemon": "Staravia",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Darnell Mooney",
+    "playerId": "00-0036309",
+    "team": "NYG",
+    "maddenOvr": 76
+  },
+  {
+    "id": "253",
+    "pokemon": "Grovyle",
+    "types": [
+      "Grass"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Malachi Fields",
+    "playerId": "00-0041042",
+    "team": "NYG",
+    "maddenOvr": 73
+  },
+  {
+    "id": "458",
+    "pokemon": "Mantyke",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Charlie Jones",
+    "playerId": "00-0038576",
+    "team": "NYG",
+    "maddenOvr": 70
+  },
+  {
+    "id": "091",
+    "pokemon": "Cloyster",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Isaiah Likely",
+    "playerId": "00-0037838",
+    "team": "NYG",
+    "maddenOvr": 82
+  },
+  {
+    "id": "502",
+    "pokemon": "Dewott",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Theo Johnson",
+    "playerId": "00-0039847",
+    "team": "NYG",
+    "maddenOvr": 77
+  },
+  {
+    "id": "001",
+    "pokemon": "Bulbasaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Dominic Zvada",
+    "playerId": "00-0041145",
+    "team": "NYG",
+    "maddenOvr": 75
+  },
+  {
+    "id": "481",
+    "pokemon": "Mesprit",
+    "types": [
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Jevon Holland",
+    "playerId": "00-0036998",
+    "team": "NYG",
+    "maddenOvr": 85
+  },
+  {
+    "id": "562",
+    "pokemon": "Yamask",
+    "types": [
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "DJ Reader",
+    "playerId": "00-0032424",
+    "team": "NYG",
+    "maddenOvr": 84
+  },
+  {
+    "id": "375",
+    "pokemon": "Metang",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Abdul Carter",
+    "playerId": "00-0040677",
+    "team": "NYG",
+    "maddenOvr": 82
+  },
+  {
+    "id": "716",
+    "pokemon": "Xerneas",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Arvell Reese",
+    "playerId": "00-0041509",
+    "team": "NYG",
+    "maddenOvr": 82
+  },
+  {
+    "id": "454",
+    "pokemon": "Toxicroak",
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Greg Newsome II",
+    "playerId": "00-0036996",
+    "team": "NYG",
+    "maddenOvr": 79
+  },
+  {
+    "id": "647",
+    "pokemon": "Keldeo",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Dru Phillips",
+    "playerId": "00-0039821",
+    "team": "NYG",
+    "maddenOvr": 79
+  },
+  {
+    "id": "708",
+    "pokemon": "Phantump",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Kayvon Thibodeaux",
+    "playerId": "00-0037611",
+    "team": "NYG",
+    "maddenOvr": 78
+  },
+  {
+    "id": "688",
+    "pokemon": "Binacle",
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Shelby Harris",
+    "playerId": "00-0031270",
+    "team": "NYG",
+    "maddenOvr": 77
+  },
+  {
+    "id": "347",
+    "pokemon": "Anorith",
+    "types": [
+      "Rock",
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Paulson Adebo",
+    "playerId": "00-0036937",
+    "team": "NYG",
+    "maddenOvr": 76
+  },
+  {
+    "id": "592",
+    "pokemon": "Frillish",
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Micah McFadden",
+    "playerId": "00-0037259",
+    "team": "NYG",
+    "maddenOvr": 75
+  },
+  {
+    "id": "634",
+    "pokemon": "Zweilous",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Tyler Nubin",
+    "playerId": "00-0039861",
+    "team": "NYG",
+    "maddenOvr": 75
+  },
+  {
+    "id": "613",
+    "pokemon": "Cubchoo",
+    "types": [
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Darius Alexander",
+    "playerId": "00-0040694",
+    "team": "NYG",
+    "maddenOvr": 72
+  },
+  {
+    "id": "575",
+    "pokemon": "Gothorita",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Geno Smith",
+    "playerId": "00-0030565",
+    "team": "NYJ",
+    "maddenOvr": 74
+  },
+  {
+    "id": "428",
+    "pokemon": "Lopunny",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Breece Hall",
+    "playerId": "00-0038120",
+    "team": "NYJ",
+    "maddenOvr": 87
+  },
+  {
+    "id": "005",
+    "pokemon": "Charmeleon",
+    "types": [
+      "Fire"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Braelon Allen",
+    "playerId": "00-0039794",
+    "team": "NYJ",
+    "maddenOvr": 75
+  },
+  {
+    "id": "254",
+    "pokemon": "Sceptile",
+    "types": [
+      "Grass"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Garrett Wilson",
+    "playerId": "00-0037740",
+    "team": "NYJ",
+    "maddenOvr": 87
+  },
+  {
+    "id": "051",
+    "pokemon": "Dugtrio",
+    "types": [
+      "Ground"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Omar Cooper Jr.",
+    "playerId": "00-0041511",
+    "team": "NYJ",
+    "maddenOvr": 77
+  },
+  {
+    "id": "468",
+    "pokemon": "Togekiss",
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Adonai Mitchell",
+    "playerId": "00-0039890",
+    "team": "NYJ",
+    "maddenOvr": 77
+  },
+  {
+    "id": "278",
+    "pokemon": "Wingull",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Tim Patrick",
+    "playerId": "00-0033375",
+    "team": "NYJ",
+    "maddenOvr": 74
+  },
+  {
+    "id": "117",
+    "pokemon": "Seadra",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Kenyon Sadiq",
+    "playerId": "00-0041032",
+    "team": "NYJ",
+    "maddenOvr": 76
+  },
+  {
+    "id": "087",
+    "pokemon": "Dewgong",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Mason Taylor",
+    "playerId": "00-0040736",
+    "team": "NYJ",
+    "maddenOvr": 74
+  },
+  {
+    "id": "509",
+    "pokemon": "Purrloin",
+    "types": [
+      "Dark"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Jason Sanders",
+    "playerId": "00-0034794",
+    "team": "NYJ",
+    "maddenOvr": 76
+  },
+  {
+    "id": "473",
+    "pokemon": "Mamoswine",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Demario Davis",
+    "playerId": "00-0029607",
+    "team": "NYJ",
+    "maddenOvr": 90
+  },
+  {
+    "id": "494",
+    "pokemon": "Victini",
+    "types": [
+      "Psychic",
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Minkah Fitzpatrick",
+    "playerId": "00-0034789",
+    "team": "NYJ",
+    "maddenOvr": 90
+  },
+  {
+    "id": "208",
+    "pokemon": "Steelix",
+    "types": [
+      "Steel",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "David Bailey",
+    "playerId": "00-0041026",
+    "team": "NYJ",
+    "maddenOvr": 81
+  },
+  {
+    "id": "056",
+    "pokemon": "Mankey",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "T'Vondre Sweat",
+    "playerId": "00-0039886",
+    "team": "NYJ",
+    "maddenOvr": 79
+  },
+  {
+    "id": "538",
+    "pokemon": "Throh",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Dane Belton",
+    "playerId": "00-0038123",
+    "team": "NYJ",
+    "maddenOvr": 78
+  },
+  {
+    "id": "331",
+    "pokemon": "Cacnea",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Harrison Phillips",
+    "playerId": "00-0034782",
+    "team": "NYJ",
+    "maddenOvr": 77
+  },
+  {
+    "id": "362",
+    "pokemon": "Glalie",
+    "types": [
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Brandon Stephens",
+    "playerId": "00-0036987",
+    "team": "NYJ",
+    "maddenOvr": 77
+  },
+  {
+    "id": "718",
+    "pokemon": "Zygarde",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jamien Sherwood",
+    "playerId": "00-0036500",
+    "team": "NYJ",
+    "maddenOvr": 77
+  },
+  {
+    "id": "449",
+    "pokemon": "Hippopotas",
+    "types": [
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Jarvis Brownlee Jr.",
+    "playerId": "00-0039372",
+    "team": "NYJ",
+    "maddenOvr": 76
+  },
+  {
+    "id": "082",
+    "pokemon": "Magneton",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Azareye'h Thomas",
+    "playerId": "00-0040133",
+    "team": "NYJ",
+    "maddenOvr": 75
+  },
+  {
+    "id": "371",
+    "pokemon": "Bagon",
+    "types": [
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Trevin Wallace",
+    "playerId": "00-0039347",
+    "team": "NYJ",
+    "maddenOvr": 74
+  },
+  {
+    "id": "651",
+    "pokemon": "Quilladin",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Kingsley Enagbare",
+    "playerId": "00-0037083",
+    "team": "NYJ",
+    "maddenOvr": 73
+  },
+  {
+    "id": "517",
+    "pokemon": "Munna",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Tanner McKee",
+    "playerId": "00-0038400",
+    "team": "PHI",
+    "maddenOvr": 67
+  },
+  {
+    "id": "162",
+    "pokemon": "Furret",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Saquon Barkley",
+    "playerId": "00-0034844",
+    "team": "PHI",
+    "maddenOvr": 91
+  },
+  {
+    "id": "513",
+    "pokemon": "Pansear",
+    "types": [
+      "Fire"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Dameon Pierce",
+    "playerId": "00-0037258",
+    "team": "PHI",
+    "maddenOvr": 74
+  },
+  {
+    "id": "645",
+    "pokemon": "Landorus",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "DeVonta Smith",
+    "playerId": "00-0036912",
+    "team": "PHI",
+    "maddenOvr": 92
+  },
+  {
+    "id": "407",
+    "pokemon": "Roserade",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Dontayvion Wicks",
+    "playerId": "00-0038393",
+    "team": "PHI",
+    "maddenOvr": 78
+  },
+  {
+    "id": "426",
+    "pokemon": "Drifblim",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Makai Lemon",
+    "playerId": "00-0040867",
+    "team": "PHI",
+    "maddenOvr": 76
+  },
+  {
+    "id": "312",
+    "pokemon": "Minun",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Darius Cooper",
+    "playerId": "00-0040024",
+    "team": "PHI",
+    "maddenOvr": 73
+  },
+  {
+    "id": "099",
+    "pokemon": "Kingler",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Dallas Goedert",
+    "playerId": "00-0034351",
+    "team": "PHI",
+    "maddenOvr": 89
+  },
+  {
+    "id": "363",
+    "pokemon": "Spheal",
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Johnny Mundt",
+    "playerId": "00-0033246",
+    "team": "PHI",
+    "maddenOvr": 68
+  },
+  {
+    "id": "218",
+    "pokemon": "Slugma",
+    "types": [
+      "Fire"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Jake Elliott",
+    "playerId": "00-0033787",
+    "team": "PHI",
+    "maddenOvr": 80
+  },
+  {
+    "id": "149",
+    "pokemon": "Dragonite",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Zack Baun",
+    "playerId": "00-0036418",
+    "team": "PHI",
+    "maddenOvr": 93
+  },
+  {
+    "id": "475",
+    "pokemon": "Gallade",
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Quinyon Mitchell",
+    "playerId": "00-0039888",
+    "team": "PHI",
+    "maddenOvr": 90
+  },
+  {
+    "id": "330",
+    "pokemon": "Flygon",
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Jalen Carter",
+    "playerId": "00-0038386",
+    "team": "PHI",
+    "maddenOvr": 88
+  },
+  {
+    "id": "297",
+    "pokemon": "Hariyama",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Cooper DeJean",
+    "playerId": "00-0039841",
+    "team": "PHI",
+    "maddenOvr": 87
+  },
+  {
+    "id": "540",
+    "pokemon": "Sewaddle",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jonathan Greenard",
+    "playerId": "00-0036224",
+    "team": "PHI",
+    "maddenOvr": 85
+  },
+  {
+    "id": "354",
+    "pokemon": "Banette",
+    "types": [
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Riq Woolen",
+    "playerId": "00-0037079",
+    "team": "PHI",
+    "maddenOvr": 83
+  },
+  {
+    "id": "410",
+    "pokemon": "Shieldon",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Nolan Smith Jr.",
+    "playerId": "00-0039013",
+    "team": "PHI",
+    "maddenOvr": 83
+  },
+  {
+    "id": "687",
+    "pokemon": "Malamar",
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jihaad Campbell",
+    "playerId": "00-0040708",
+    "team": "PHI",
+    "maddenOvr": 79
+  },
+  {
+    "id": "138",
+    "pokemon": "Omanyte",
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Moro Ojomo",
+    "playerId": "00-0038412",
+    "team": "PHI",
+    "maddenOvr": 77
+  },
+  {
+    "id": "633",
+    "pokemon": "Deino",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Marcus Epps",
+    "playerId": "00-0034993",
+    "team": "PHI",
+    "maddenOvr": 75
+  },
+  {
+    "id": "336",
+    "pokemon": "Seviper",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Andrew Mukuba",
+    "playerId": "00-0040749",
+    "team": "PHI",
+    "maddenOvr": 74
+  },
+  {
+    "id": "361",
+    "pokemon": "Snorunt",
+    "types": [
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Byron Young",
+    "playerId": "00-0038978",
+    "team": "PHI",
+    "maddenOvr": 69
+  },
+  {
+    "id": "678",
+    "pokemon": "Meowstic",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Aaron Rodgers",
+    "playerId": "00-0023459",
+    "team": "PIT",
+    "maddenOvr": 78
+  },
+  {
+    "id": "573",
+    "pokemon": "Cinccino",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Jaylen Warren",
+    "playerId": "00-0037228",
+    "team": "PIT",
+    "maddenOvr": 86
+  },
+  {
+    "id": "264",
+    "pokemon": "Linoone",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Rico Dowdle",
+    "playerId": "00-0036139",
+    "team": "PIT",
+    "maddenOvr": 82
+  },
+  {
+    "id": "145",
+    "pokemon": "Zapdos",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "DK Metcalf",
+    "playerId": "00-0035640",
+    "team": "PIT",
+    "maddenOvr": 83
+  },
+  {
+    "id": "510",
+    "pokemon": "Liepard",
+    "types": [
+      "Dark"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Germie Bernard",
+    "playerId": "00-0041489",
+    "team": "PIT",
+    "maddenOvr": 75
+  },
+  {
+    "id": "694",
+    "pokemon": "Helioptile",
+    "types": [
+      "Electric",
+      "Normal"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Ben Skowronek",
+    "playerId": "00-0036862",
+    "team": "PIT",
+    "maddenOvr": 70
+  },
+  {
+    "id": "179",
+    "pokemon": "Mareep",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Kaden Wetjen",
+    "playerId": "00-0041397",
+    "team": "PIT",
+    "maddenOvr": 68
+  },
+  {
+    "id": "055",
+    "pokemon": "Golduck",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Pat Freiermuth",
+    "playerId": "00-0036894",
+    "team": "PIT",
+    "maddenOvr": 79
+  },
+  {
+    "id": "320",
+    "pokemon": "Wailmer",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Darnell Washington",
+    "playerId": "00-0038558",
+    "team": "PIT",
+    "maddenOvr": 76
+  },
+  {
+    "id": "670",
+    "pokemon": "Floette",
+    "types": [
+      "Fairy"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Chris Boswell",
+    "playerId": "00-0031136",
+    "team": "PIT",
+    "maddenOvr": 85
+  },
+  {
+    "id": "713",
+    "pokemon": "Avalugg",
+    "types": [
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "T.J. Watt",
+    "playerId": "00-0033886",
+    "team": "PIT",
+    "maddenOvr": 96
+  },
+  {
+    "id": "460",
+    "pokemon": "Abomasnow",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Cameron Heyward",
+    "playerId": "00-0027969",
+    "team": "PIT",
+    "maddenOvr": 95
+  },
+  {
+    "id": "463",
+    "pokemon": "Lickilicky",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Jalen Ramsey",
+    "playerId": "00-0033055",
+    "team": "PIT",
+    "maddenOvr": 92
+  },
+  {
+    "id": "260",
+    "pokemon": "Swampert",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Jamel Dean",
+    "playerId": "00-0035699",
+    "team": "PIT",
+    "maddenOvr": 87
+  },
+  {
+    "id": "127",
+    "pokemon": "Pinsir",
+    "types": [
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Alex Highsmith",
+    "playerId": "00-0036333",
+    "team": "PIT",
+    "maddenOvr": 86
+  },
+  {
+    "id": "367",
+    "pokemon": "Huntail",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Jaquan Brisker",
+    "playerId": "00-0038135",
+    "team": "PIT",
+    "maddenOvr": 80
+  },
+  {
+    "id": "672",
+    "pokemon": "Skiddo",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "DeShon Elliott",
+    "playerId": "00-0034277",
+    "team": "PIT",
+    "maddenOvr": 80
+  },
+  {
+    "id": "621",
+    "pokemon": "Druddigon",
+    "types": [
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Patrick Queen",
+    "playerId": "00-0036323",
+    "team": "PIT",
+    "maddenOvr": 79
+  },
+  {
+    "id": "269",
+    "pokemon": "Dustox",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Keeanu Benton",
+    "playerId": "00-0039110",
+    "team": "PIT",
+    "maddenOvr": 77
+  },
+  {
+    "id": "643",
+    "pokemon": "Reshiram",
+    "types": [
+      "Dragon",
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Payton Wilson",
+    "playerId": "00-0039741",
+    "team": "PIT",
+    "maddenOvr": 76
+  },
+  {
+    "id": "231",
+    "pokemon": "Phanpy",
+    "types": [
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Asante Samuel Jr.",
+    "playerId": "00-0036617",
+    "team": "PIT",
+    "maddenOvr": 74
+  },
+  {
+    "id": "287",
+    "pokemon": "Slakoth",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Yahya Black",
+    "playerId": "00-0040188",
+    "team": "PIT",
+    "maddenOvr": 68
+  },
+  {
+    "id": "325",
+    "pokemon": "Spoink",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Sam Darnold",
+    "playerId": "00-0034869",
+    "team": "SEA",
+    "maddenOvr": 84
+  },
+  {
+    "id": "506",
+    "pokemon": "Lillipup",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Zach Charbonnet",
+    "playerId": "00-0039165",
+    "team": "SEA",
+    "maddenOvr": 83
+  },
+  {
+    "id": "351",
+    "pokemon": "Castform",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Emanuel Wilson",
+    "playerId": "00-0038797",
+    "team": "SEA",
+    "maddenOvr": 75
+  },
+  {
+    "id": "386",
+    "pokemon": "Deoxys",
+    "types": [
+      "Psychic"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jaxon Smith-Njigba",
+    "playerId": "00-0038543",
+    "team": "SEA",
+    "maddenOvr": 99
+  },
+  {
+    "id": "657",
+    "pokemon": "Frogadier",
+    "types": [
+      "Water"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Cooper Kupp",
+    "playerId": "00-0033908",
+    "team": "SEA",
+    "maddenOvr": 83
+  },
+  {
+    "id": "702",
+    "pokemon": "Dedenne",
+    "types": [
+      "Electric",
+      "Fairy"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Rashid Shaheed",
+    "playerId": "00-0037545",
+    "team": "SEA",
+    "maddenOvr": 78
+  },
+  {
+    "id": "662",
+    "pokemon": "Fletchinder",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Tory Horton",
+    "playerId": "00-0040648",
+    "team": "SEA",
+    "maddenOvr": 75
+  },
+  {
+    "id": "550",
+    "pokemon": "Basculin",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "AJ Barner",
+    "playerId": "00-0039793",
+    "team": "SEA",
+    "maddenOvr": 75
+  },
+  {
+    "id": "054",
+    "pokemon": "Psyduck",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Eric Saubert",
+    "playerId": "00-0033576",
+    "team": "SEA",
+    "maddenOvr": 67
+  },
+  {
+    "id": "092",
+    "pokemon": "Gastly",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Jason Myers",
+    "playerId": "00-0031492",
+    "team": "SEA",
+    "maddenOvr": 82
+  },
+  {
+    "id": "009",
+    "pokemon": "Blastoise",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Devon Witherspoon",
+    "playerId": "00-0039169",
+    "team": "SEA",
+    "maddenOvr": 91
+  },
+  {
+    "id": "640",
+    "pokemon": "Virizion",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Leonard Williams",
+    "playerId": "00-0031933",
+    "team": "SEA",
+    "maddenOvr": 90
+  },
+  {
+    "id": "603",
+    "pokemon": "Eelektrik",
+    "types": [
+      "Electric"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "DeMarcus Lawrence",
+    "playerId": "00-0031411",
+    "team": "SEA",
+    "maddenOvr": 87
+  },
+  {
+    "id": "630",
+    "pokemon": "Mandibuzz",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Julian Love",
+    "playerId": "00-0034974",
+    "team": "SEA",
+    "maddenOvr": 86
+  },
+  {
+    "id": "689",
+    "pokemon": "Barbaracle",
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Nick Emmanwori",
+    "playerId": "00-0040733",
+    "team": "SEA",
+    "maddenOvr": 86
+  },
+  {
+    "id": "249",
+    "pokemon": "Lugia",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Ernest Jones IV",
+    "playerId": "00-0036994",
+    "team": "SEA",
+    "maddenOvr": 85
+  },
+  {
+    "id": "497",
+    "pokemon": "Serperior",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Byron Murphy II",
+    "playerId": "00-0039309",
+    "team": "SEA",
+    "maddenOvr": 85
+  },
+  {
+    "id": "568",
+    "pokemon": "Trubbish",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Jarran Reed",
+    "playerId": "00-0032387",
+    "team": "SEA",
+    "maddenOvr": 78
+  },
+  {
+    "id": "707",
+    "pokemon": "Klefki",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Josh Jobe",
+    "playerId": "00-0037137",
+    "team": "SEA",
+    "maddenOvr": 77
+  },
+  {
+    "id": "111",
+    "pokemon": "Rhyhorn",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Uchenna Nwosu",
+    "playerId": "00-0034350",
+    "team": "SEA",
+    "maddenOvr": 76
+  },
+  {
+    "id": "369",
+    "pokemon": "Relicanth",
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Drake Thomas",
+    "playerId": "00-0038922",
+    "team": "SEA",
+    "maddenOvr": 76
+  },
+  {
+    "id": "275",
+    "pokemon": "Shiftry",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Ty Okada",
+    "playerId": "00-0038765",
+    "team": "SEA",
+    "maddenOvr": 75
+  },
+  {
+    "id": "381",
+    "pokemon": "Latios",
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Brock Purdy",
+    "playerId": "00-0037834",
+    "team": "SF",
+    "maddenOvr": 92
+  },
+  {
+    "id": "486",
+    "pokemon": "Regigigas",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Christian McCaffrey",
+    "playerId": "00-0033280",
+    "team": "SF",
+    "maddenOvr": 97
+  },
+  {
+    "id": "019",
+    "pokemon": "Rattata",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Kaelon Black",
+    "playerId": "00-0041052",
+    "team": "SF",
+    "maddenOvr": 73
+  },
+  {
+    "id": "715",
+    "pokemon": "Noivern",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Mike Evans",
+    "playerId": "00-0031408",
+    "team": "SF",
+    "maddenOvr": 91
+  },
+  {
+    "id": "545",
+    "pokemon": "Scolipede",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Deebo Samuel",
+    "playerId": "00-0035719",
+    "team": "SF",
+    "maddenOvr": 79
+  },
+  {
+    "id": "017",
+    "pokemon": "Pidgeotto",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Brandin Cooks",
+    "playerId": "00-0031236",
+    "team": "SF",
+    "maddenOvr": 74
+  },
+  {
+    "id": "318",
+    "pokemon": "Carvanha",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Jordan Watkins",
+    "playerId": "00-0040172",
+    "team": "SF",
+    "maddenOvr": 69
+  },
+  {
+    "id": "490",
+    "pokemon": "Manaphy",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "George Kittle",
+    "playerId": "00-0033288",
+    "team": "SF",
+    "maddenOvr": 97
+  },
+  {
+    "id": "393",
+    "pokemon": "Piplup",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Luke Farrell",
+    "playerId": "00-0036887",
+    "team": "SF",
+    "maddenOvr": 64
+  },
+  {
+    "id": "283",
+    "pokemon": "Surskit",
+    "types": [
+      "Bug",
+      "Water"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Eddy Pineiro",
+    "playerId": "00-0034173",
+    "team": "SF",
+    "maddenOvr": 77
+  },
+  {
+    "id": "526",
+    "pokemon": "Gigalith",
+    "types": [
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Fred Warner",
+    "playerId": "00-0034815",
+    "team": "SF",
+    "maddenOvr": 98
+  },
+  {
+    "id": "247",
+    "pokemon": "Pupitar",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Nick Bosa",
+    "playerId": "00-0035717",
+    "team": "SF",
+    "maddenOvr": 93
+  },
+  {
+    "id": "409",
+    "pokemon": "Rampardos",
+    "types": [
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "DeForest Buckner",
+    "playerId": "00-0032378",
+    "team": "SF",
+    "maddenOvr": 92
+  },
+  {
+    "id": "342",
+    "pokemon": "Crawdaunt",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Dre Greenlaw",
+    "playerId": "00-0034982",
+    "team": "SF",
+    "maddenOvr": 85
+  },
+  {
+    "id": "583",
+    "pokemon": "Vanillish",
+    "types": [
+      "Ice"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Deommodore Lenoir",
+    "playerId": "00-0036563",
+    "team": "SF",
+    "maddenOvr": 83
+  },
+  {
+    "id": "542",
+    "pokemon": "Leavanny",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Renardo Green",
+    "playerId": "00-0039345",
+    "team": "SF",
+    "maddenOvr": 78
+  },
+  {
+    "id": "636",
+    "pokemon": "Larvesta",
+    "types": [
+      "Bug",
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Osa Odighizuwa",
+    "playerId": "00-0036942",
+    "team": "SF",
+    "maddenOvr": 77
+  },
+  {
+    "id": "413",
+    "pokemon": "Wormadam",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Marques Sigle",
+    "playerId": "00-0040185",
+    "team": "SF",
+    "maddenOvr": 76
+  },
+  {
+    "id": "554",
+    "pokemon": "Darumaka",
+    "types": [
+      "Fire"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Upton Stout",
+    "playerId": "00-0040152",
+    "team": "SF",
+    "maddenOvr": 75
+  },
+  {
+    "id": "683",
+    "pokemon": "Aromatisse",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Ji'Ayir Brown",
+    "playerId": "00-0038554",
+    "team": "SF",
+    "maddenOvr": 74
+  },
+  {
+    "id": "176",
+    "pokemon": "Togetic",
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Keion White",
+    "playerId": "00-0039148",
+    "team": "SF",
+    "maddenOvr": 73
+  },
+  {
+    "id": "556",
+    "pokemon": "Maractus",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Jaden Dugger",
+    "playerId": "00-0041078",
+    "team": "SF",
+    "maddenOvr": 69
+  },
+  {
+    "id": "577",
+    "pokemon": "Solosis",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Baker Mayfield",
+    "playerId": "00-0034855",
+    "team": "TB",
+    "maddenOvr": 80
+  },
+  {
+    "id": "078",
+    "pokemon": "Rapidash",
+    "types": [
+      "Fire"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Bucky Irving",
+    "playerId": "00-0039361",
+    "team": "TB",
+    "maddenOvr": 86
+  },
+  {
+    "id": "507",
+    "pokemon": "Herdier",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Kenny Gainwell",
+    "playerId": "00-0036919",
+    "team": "TB",
+    "maddenOvr": 78
+  },
+  {
+    "id": "022",
+    "pokemon": "Fearow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Chris Godwin Jr.",
+    "playerId": "00-0033921",
+    "team": "TB",
+    "maddenOvr": 82
+  },
+  {
+    "id": "026",
+    "pokemon": "Raichu",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Emeka Egbuka",
+    "playerId": "00-0040129",
+    "team": "TB",
+    "maddenOvr": 81
+  },
+  {
+    "id": "479",
+    "pokemon": "Rotom",
+    "types": [
+      "Electric",
+      "Ghost"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Tez Johnson",
+    "playerId": "00-0040237",
+    "team": "TB",
+    "maddenOvr": 73
+  },
+  {
+    "id": "240",
+    "pokemon": "Magby",
+    "types": [
+      "Fire"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Ted Hurst III",
+    "playerId": "00-0041048",
+    "team": "TB",
+    "maddenOvr": 72
+  },
+  {
+    "id": "400",
+    "pokemon": "Bibarel",
+    "types": [
+      "Normal",
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Cade Otton",
+    "playerId": "00-0038129",
+    "team": "TB",
+    "maddenOvr": 75
+  },
+  {
+    "id": "440",
+    "pokemon": "Happiny",
+    "types": [
+      "Normal"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Payne Durham",
+    "playerId": "00-0039050",
+    "team": "TB",
+    "maddenOvr": 64
+  },
+  {
+    "id": "120",
+    "pokemon": "Staryu",
+    "types": [
+      "Water"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Chase McLaughlin",
+    "playerId": "00-0035358",
+    "team": "TB",
+    "maddenOvr": 81
+  },
+  {
+    "id": "557",
+    "pokemon": "Dwebble",
+    "types": [
+      "Bug",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Vita Vea",
+    "playerId": "00-0034773",
+    "team": "TB",
+    "maddenOvr": 94
+  },
+  {
+    "id": "317",
+    "pokemon": "Swalot",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Antoine Winfield Jr.",
+    "playerId": "00-0036411",
+    "team": "TB",
+    "maddenOvr": 93
+  },
+  {
+    "id": "346",
+    "pokemon": "Cradily",
+    "types": [
+      "Rock",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Zyon McCollum",
+    "playerId": "00-0037268",
+    "team": "TB",
+    "maddenOvr": 81
+  },
+  {
+    "id": "154",
+    "pokemon": "Meganium",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Yaya Diaby",
+    "playerId": "00-0039068",
+    "team": "TB",
+    "maddenOvr": 79
+  },
+  {
+    "id": "286",
+    "pokemon": "Breloom",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Alex Anzalone",
+    "playerId": "00-0033914",
+    "team": "TB",
+    "maddenOvr": 79
+  },
+  {
+    "id": "558",
+    "pokemon": "Crustle",
+    "types": [
+      "Bug",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Tykee Smith",
+    "playerId": "00-0039846",
+    "team": "TB",
+    "maddenOvr": 79
+  },
+  {
+    "id": "680",
+    "pokemon": "Doublade",
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Jacob Parrish",
+    "playerId": "00-0040143",
+    "team": "TB",
+    "maddenOvr": 79
+  },
+  {
+    "id": "316",
+    "pokemon": "Gulpin",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Rueben Bain Jr.",
+    "playerId": "00-0041031",
+    "team": "TB",
+    "maddenOvr": 78
+  },
+  {
+    "id": "541",
+    "pokemon": "Swadloon",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "A'Shawn Robinson",
+    "playerId": "00-0032889",
+    "team": "TB",
+    "maddenOvr": 78
+  },
+  {
+    "id": "175",
+    "pokemon": "Togepi",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Calijah Kancey",
+    "playerId": "00-0039063",
+    "team": "TB",
+    "maddenOvr": 77
+  },
+  {
+    "id": "137",
+    "pokemon": "Porygon",
+    "types": [
+      "Normal"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Benjamin Morrison",
+    "playerId": "00-0040747",
+    "team": "TB",
+    "maddenOvr": 75
+  },
+  {
+    "id": "464",
+    "pokemon": "Rhyperior",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Josiah Trotter",
+    "playerId": "00-0041502",
+    "team": "TB",
+    "maddenOvr": 75
+  },
+  {
+    "id": "574",
+    "pokemon": "Gothita",
+    "types": [
+      "Psychic"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Cam Ward",
+    "playerId": "00-0040676",
+    "team": "TEN",
+    "maddenOvr": 73
+  },
+  {
+    "id": "432",
+    "pokemon": "Purugly",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Tony Pollard",
+    "playerId": "00-0035261",
+    "team": "TEN",
+    "maddenOvr": 84
+  },
+  {
+    "id": "327",
+    "pokemon": "Spinda",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Tyjae Spears",
+    "playerId": "00-0039032",
+    "team": "TEN",
+    "maddenOvr": 77
+  },
+  {
+    "id": "319",
+    "pokemon": "Sharpedo",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Wan'Dale Robinson",
+    "playerId": "00-0038117",
+    "team": "TEN",
+    "maddenOvr": 82
+  },
+  {
+    "id": "166",
+    "pokemon": "Ledian",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Calvin Ridley",
+    "playerId": "00-0034837",
+    "team": "TEN",
+    "maddenOvr": 78
+  },
+  {
+    "id": "398",
+    "pokemon": "Staraptor",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Carnell Tate",
+    "playerId": "00-0041438",
+    "team": "TEN",
+    "maddenOvr": 78
+  },
+  {
+    "id": "239",
+    "pokemon": "Elekid",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Elic Ayomanor",
+    "playerId": "00-0040170",
+    "team": "TEN",
+    "maddenOvr": 77
+  },
+  {
+    "id": "061",
+    "pokemon": "Poliwhirl",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Gunnar Helm",
+    "playerId": "00-0040584",
+    "team": "TEN",
+    "maddenOvr": 71
+  },
+  {
+    "id": "086",
+    "pokemon": "Seel",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Daniel Bellinger",
+    "playerId": "00-0038115",
+    "team": "TEN",
+    "maddenOvr": 70
+  },
+  {
+    "id": "406",
+    "pokemon": "Budew",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Joey Slye",
+    "playerId": "00-0035192",
+    "team": "TEN",
+    "maddenOvr": 75
+  },
+  {
+    "id": "717",
+    "pokemon": "Yveltal",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Jeffery Simmons",
+    "playerId": "00-0035643",
+    "team": "TEN",
+    "maddenOvr": 96
+  },
+  {
+    "id": "485",
+    "pokemon": "Heatran",
+    "types": [
+      "Fire",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Amani Hooker",
+    "playerId": "00-0035632",
+    "team": "TEN",
+    "maddenOvr": 81
+  },
+  {
+    "id": "299",
+    "pokemon": "Nosepass",
+    "types": [
+      "Rock"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Cor'Dale Flott",
+    "playerId": "00-0037758",
+    "team": "TEN",
+    "maddenOvr": 80
+  },
+  {
+    "id": "532",
+    "pokemon": "Timburr",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "John Franklin-Myers",
+    "playerId": "00-0034805",
+    "team": "TEN",
+    "maddenOvr": 80
+  },
+  {
+    "id": "008",
+    "pokemon": "Wartortle",
+    "types": [
+      "Water"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Cody Barton",
+    "playerId": "00-0035672",
+    "team": "TEN",
+    "maddenOvr": 78
+  },
+  {
+    "id": "031",
+    "pokemon": "Nidoqueen",
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Cedric Gray",
+    "playerId": "00-0039858",
+    "team": "TEN",
+    "maddenOvr": 78
+  },
+  {
+    "id": "444",
+    "pokemon": "Gabite",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Jermaine Johnson II",
+    "playerId": "00-0037663",
+    "team": "TEN",
+    "maddenOvr": 77
+  },
+  {
+    "id": "322",
+    "pokemon": "Numel",
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Joshua Williams",
+    "playerId": "00-0038043",
+    "team": "TEN",
+    "maddenOvr": 75
+  },
+  {
+    "id": "569",
+    "pokemon": "Garbodor",
+    "types": [
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Kevin Winston Jr.",
+    "playerId": "00-0040141",
+    "team": "TEN",
+    "maddenOvr": 75
+  },
+  {
+    "id": "212",
+    "pokemon": "Scizor",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Anthony Hill Jr.",
+    "playerId": "00-0041479",
+    "team": "TEN",
+    "maddenOvr": 74
+  },
+  {
+    "id": "543",
+    "pokemon": "Venipede",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Solomon Thomas",
+    "playerId": "00-0033870",
+    "team": "TEN",
+    "maddenOvr": 72
+  },
+  {
+    "id": "705",
+    "pokemon": "Sliggoo",
+    "types": [
+      "Dragon"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Marcus Harris",
+    "playerId": "00-0040201",
+    "team": "TEN",
+    "maddenOvr": 71
+  },
+  {
+    "id": "122",
+    "pokemon": "Mr. Mime",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "position": "QB",
+    "defGroup": null,
+    "player": "Jayden Daniels",
+    "playerId": "00-0039910",
+    "team": "WAS",
+    "maddenOvr": 76
+  },
+  {
+    "id": "660",
+    "pokemon": "Diggersby",
+    "types": [
+      "Normal",
+      "Ground"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Rachaad White",
+    "playerId": "00-0037256",
+    "team": "WAS",
+    "maddenOvr": 78
+  },
+  {
+    "id": "235",
+    "pokemon": "Smeargle",
+    "types": [
+      "Normal"
+    ],
+    "position": "RB",
+    "defGroup": null,
+    "player": "Austin Ekeler",
+    "playerId": "00-0033699",
+    "team": "WAS",
+    "maddenOvr": 74
+  },
+  {
+    "id": "523",
+    "pokemon": "Zebstrika",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Stefon Diggs",
+    "playerId": "00-0031588",
+    "team": "WAS",
+    "maddenOvr": 86
+  },
+  {
+    "id": "042",
+    "pokemon": "Golbat",
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Antonio Williams",
+    "playerId": "00-0041040",
+    "team": "WAS",
+    "maddenOvr": 76
+  },
+  {
+    "id": "200",
+    "pokemon": "Misdreavus",
+    "types": [
+      "Ghost"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Treylon Burks",
+    "playerId": "00-0037742",
+    "team": "WAS",
+    "maddenOvr": 74
+  },
+  {
+    "id": "404",
+    "pokemon": "Luxio",
+    "types": [
+      "Electric"
+    ],
+    "position": "WR",
+    "defGroup": null,
+    "player": "Dyami Brown",
+    "playerId": "00-0036626",
+    "team": "WAS",
+    "maddenOvr": 73
+  },
+  {
+    "id": "593",
+    "pokemon": "Jellicent",
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Chig Okonkwo",
+    "playerId": "00-0037809",
+    "team": "WAS",
+    "maddenOvr": 74
+  },
+  {
+    "id": "501",
+    "pokemon": "Oshawott",
+    "types": [
+      "Water"
+    ],
+    "position": "TE",
+    "defGroup": null,
+    "player": "Ben Sinnott",
+    "playerId": "00-0039912",
+    "team": "WAS",
+    "maddenOvr": 69
+  },
+  {
+    "id": "548",
+    "pokemon": "Petilil",
+    "types": [
+      "Grass"
+    ],
+    "position": "K",
+    "defGroup": null,
+    "player": "Drew Stevens",
+    "playerId": "00-0041182",
+    "team": "WAS",
+    "maddenOvr": 74
+  },
+  {
+    "id": "015",
+    "pokemon": "Beedrill",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Daron Payne",
+    "playerId": "00-0034333",
+    "team": "WAS",
+    "maddenOvr": 84
+  },
+  {
+    "id": "388",
+    "pokemon": "Grotle",
+    "types": [
+      "Grass"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Nick Cross",
+    "playerId": "00-0037616",
+    "team": "WAS",
+    "maddenOvr": 81
+  },
+  {
+    "id": "589",
+    "pokemon": "Escavalier",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Sonny Styles",
+    "playerId": "00-0041028",
+    "team": "WAS",
+    "maddenOvr": 81
+  },
+  {
+    "id": "195",
+    "pokemon": "Quagsire",
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Odafe Oweh",
+    "playerId": "00-0036940",
+    "team": "WAS",
+    "maddenOvr": 80
+  },
+  {
+    "id": "210",
+    "pokemon": "Granbull",
+    "types": [
+      "Fairy"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Frankie Luvu",
+    "playerId": "00-0034302",
+    "team": "WAS",
+    "maddenOvr": 79
+  },
+  {
+    "id": "402",
+    "pokemon": "Kricketune",
+    "types": [
+      "Bug"
+    ],
+    "position": "DEF",
+    "defGroup": "LB",
+    "player": "Dorance Armstrong",
+    "playerId": "00-0034373",
+    "team": "WAS",
+    "maddenOvr": 79
+  },
+  {
+    "id": "437",
+    "pokemon": "Bronzong",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Amik Robertson",
+    "playerId": "00-0036375",
+    "team": "WAS",
+    "maddenOvr": 79
+  },
+  {
+    "id": "353",
+    "pokemon": "Shuppet",
+    "types": [
+      "Ghost"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Trey Amos",
+    "playerId": "00-0040731",
+    "team": "WAS",
+    "maddenOvr": 78
+  },
+  {
+    "id": "442",
+    "pokemon": "Spiritomb",
+    "types": [
+      "Ghost",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "CB",
+    "player": "Rasul Douglas",
+    "playerId": "00-0033551",
+    "team": "WAS",
+    "maddenOvr": 77
+  },
+  {
+    "id": "237",
+    "pokemon": "Hitmontop",
+    "types": [
+      "Fighting"
+    ],
+    "position": "DEF",
+    "defGroup": "S",
+    "player": "Jeremy Reaves",
+    "playerId": "00-0034465",
+    "team": "WAS",
+    "maddenOvr": 73
+  },
+  {
+    "id": "552",
+    "pokemon": "Krokorok",
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Javon Kinlaw",
+    "playerId": "00-0036260",
+    "team": "WAS",
+    "maddenOvr": 73
+  },
+  {
+    "id": "201",
+    "pokemon": "Unown",
+    "types": [
+      "Psychic"
+    ],
+    "position": "DEF",
+    "defGroup": "DL",
+    "player": "Tim Settle",
+    "playerId": "00-0034397",
+    "team": "WAS",
+    "maddenOvr": 72
+  }
+]
