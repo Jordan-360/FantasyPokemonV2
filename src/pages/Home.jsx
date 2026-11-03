@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useCallback, useMemo, useState } from 'react'
 import DraftBanner from '../components/DraftBanner'
 import Field from '../components/Field'
 import RosterPanel from '../components/RosterPanel'
@@ -7,10 +7,13 @@ import FreeAgentsPanel from '../components/FreeAgentsPanel'
 import MobileTabBar from '../components/MobileTabBar'
 import MatchupStrip from '../components/MatchupStrip'
 import WeekResult from '../components/WeekResult'
+import Toasts from '../components/Toasts'
+import LeagueActivity from '../components/LeagueActivity'
 import { createTeams, generateSchedule, weekLabel, FINAL_WEEK } from '../lib/league'
 import { ROSTER_SIZE, STARTER_SLOTS, benchOf, slotLabel } from '../lib/lineup'
 import { canClaim, canPlayWeek, freeAgents, projectedTotal, userGame } from '../lib/season'
 import { playerView } from '../lib/views'
+import { positionLabel } from '../lib/players'
 import { displayName } from '../lib/scoring'
 import './Home.css'
 
@@ -188,9 +191,70 @@ export default function Home({ league, ctx, actions, onOpenDraft }) {
     fa: mobileTab === 'fa',
   }
 
+  const nameOf = (id) => displayName(ctx.byId.get(id), league?.statuses[id], ctx.evolutions)
+
+  // ---------- Notifications ----------
+  const [toasts, setToasts] = useState([])
+  const [pendingWeek, setPendingWeek] = useState(null) // week just played, until its toast closes
+
+  const dismissToast = useCallback((id) => {
+    if (id === 'week') setPendingWeek(null)
+    else setToasts((list) => list.filter((t) => t.id !== id))
+  }, [])
+
+  function handleClaim(addId, dropId = null) {
+    const add = ctx.byId.get(addId)
+    const lines = [`${add.player} · ${add.team} · ${positionLabel(add.position)}`]
+    if (dropId) lines.push(`Dropped ${nameOf(dropId)} (${ctx.byId.get(dropId).player})`)
+    actions.claimPlayer(addId, dropId)
+    setToasts((list) => [
+      ...list,
+      { id: `claim-${addId}-${Date.now()}`, title: `Added ${nameOf(addId)}`, lines },
+    ])
+  }
+
+  function handlePlay() {
+    setPendingWeek(league.currentWeek)
+    actions.playWeek()
+  }
+
+  const weekToast = pendingWeek && league?.results[pendingWeek] ? buildWeekToast() : null
+  function buildWeekToast() {
+    const teamName = (id) => league.teams.find((t) => t.id === id)?.name
+    const game = league.results[pendingWeek].find((r) => r.a === 'user' || r.b === 'user')
+    const toast = {
+      id: 'week',
+      duration: 9000,
+      title: `${weekLabel(pendingWeek)} played`,
+      lines: [],
+    }
+
+    if (game) {
+      const mine = game.a === 'user' ? game.scoreA : game.scoreB
+      const theirs = game.a === 'user' ? game.scoreB : game.scoreA
+      const won = game.winner === 'user'
+      toast.kind = won ? 'win' : 'loss'
+      toast.title = `${weekLabel(pendingWeek)}: you ${won ? 'won' : 'lost'} ${mine.toFixed(1)}–${theirs.toFixed(1)}`
+      toast.lines.push(`vs ${teamName(game.a === 'user' ? game.b : game.a)}`)
+    }
+
+    const moves = league.transactions.filter(
+      (t) => t.week === pendingWeek + 1 && t.teamId !== 'user'
+    )
+    for (const t of moves.slice(0, 3)) {
+      toast.lines.push(
+        `${teamName(t.teamId)} added ${nameOf(t.addId)}, dropped ${nameOf(t.dropId)}`
+      )
+    }
+    if (moves.length > 3) toast.lines.push(`+${moves.length - 3} more in League activity`)
+    if (league.phase === 'complete') {
+      toast.lines.push(`${teamName(league.playoffs.champion)} won the championship!`)
+    }
+    return toast
+  }
+
   const lastResult =
     data.lastWeek && league.results[data.lastWeek].find((r) => r.a === 'user' || r.b === 'user')
-  const nameOf = (id) => displayName(ctx.byId.get(id), league?.statuses[id], ctx.evolutions)
 
   return (
     <main className="home">
@@ -224,7 +288,7 @@ export default function Home({ league, ctx, actions, onOpenDraft }) {
         </div>
 
         <div className="home__field" data-mobile-active={showOnMobile.team}>
-          <Matchup league={league} ctx={ctx} data={data} onPlay={actions.playWeek} />
+          <Matchup league={league} ctx={ctx} data={data} onPlay={handlePlay} />
           <Field lineupViews={data.lineupViews} />
           {lastResult && (
             <WeekResult
@@ -248,12 +312,21 @@ export default function Home({ league, ctx, actions, onOpenDraft }) {
             }
             rosterFull={(league?.rosters.user.players.length ?? 0) >= ROSTER_SIZE}
             rosterViews={data.rosterViews ?? []}
-            onClaim={(addId, dropId) => actions.claimPlayer(addId, dropId ?? null)}
+            onClaim={handleClaim}
           />
+          {league && league.phase !== 'draft' && (
+            <LeagueActivity
+              transactions={league.transactions}
+              teams={league.teams}
+              nameOf={nameOf}
+              byId={ctx.byId}
+            />
+          )}
         </div>
       </div>
 
       <MobileTabBar active={mobileTab} onChange={changeMobileTab} />
+      <Toasts toasts={weekToast ? [weekToast, ...toasts] : toasts} onDismiss={dismissToast} />
     </main>
   )
 }

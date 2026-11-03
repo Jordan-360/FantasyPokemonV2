@@ -33,6 +33,9 @@
 }
 .home__free-agents {
   grid-area: fa;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
 }
 
 /* Tablet: field across the top, then two columns */
