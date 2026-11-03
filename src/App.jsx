@@ -1,10 +1,13 @@
 import { useEffect, useState } from 'react'
 import Header from './components/Header'
+import Scoreboard from './components/Scoreboard'
 import Home from './pages/Home'
 import DraftRoom from './pages/DraftRoom'
 import useLeague from './hooks/useLeague'
 import { weekLabel } from './lib/league'
-import { playedUserWeeks, userResult } from './lib/season'
+import { playedUserWeeks, userResult, weekScoreboard } from './lib/season'
+import { displayName } from './lib/scoring'
+import { statLine } from './lib/projections'
 
 // Two screens, picked by the URL hash so the back button works: #draft or home.
 function useScreen() {
@@ -55,6 +58,20 @@ export default function App() {
   const options = weekOptions(league)
   const shownWeek = options?.some((o) => o.value === viewWeek) ? viewWeek : null
 
+  // Score bar: the week being viewed (current week, or the last one once the season ends)
+  let scoreWeek = null
+  if (league && league.phase !== 'draft') {
+    const played = Object.keys(league.results).map(Number)
+    scoreWeek = shownWeek ?? (league.phase === 'season' ? league.currentWeek : Math.max(...played))
+  }
+  const scoreGames = scoreWeek ? weekScoreboard(league, scoreWeek, ctx) : []
+  const nameOf = (id) => displayName(ctx.byId.get(id), league?.statuses[id], ctx.evolutions)
+  const detailOf = (id) => {
+    const p = ctx.byId.get(id)
+    const line = scoreGames[0]?.final ? statLine(p, scoreWeek, ctx) : null
+    return line ? `${p.player} · ${line}` : p.player
+  }
+
   function newLeague() {
     if (window.confirm('Start a new league? Your current league will be deleted.')) {
       actions.resetLeague()
@@ -81,7 +98,18 @@ export default function App() {
         }
         onLogoClick={() => go('home')}
         onNewLeague={league ? newLeague : null}
-      />
+      >
+        {screen === 'home' && scoreGames.length > 0 && (
+          <Scoreboard
+            key={scoreWeek}
+            week={scoreWeek}
+            games={scoreGames}
+            teams={league.teams}
+            nameOf={nameOf}
+            detailOf={detailOf}
+          />
+        )}
+      </Header>
       {screen === 'draft' ? (
         <DraftRoom league={league} ctx={ctx} actions={actions} onDone={() => go('home')} />
       ) : (

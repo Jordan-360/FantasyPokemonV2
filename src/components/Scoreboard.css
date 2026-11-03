@@ -1,0 +1,106 @@
+.scoreboard {
+  display: flex;
+  align-items: stretch;
+  gap: 12px;
+  width: 100%;
+  padding-top: 12px;
+  border-top: 1px solid var(--color-divider);
+}
+
+.scoreboard__label {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  line-height: 1.15;
+}
+
+.scoreboard__week {
+  font-family: var(--font-display);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  white-space: nowrap;
+}
+
+.scoreboard__status {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-muted);
+}
+
+.scoreboard__games {
+  display: flex;
+  gap: 8px;
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+  padding: 0 0 4px;
+  list-style: none;
+  overflow-x: auto;
+  scrollbar-width: thin;
+}
+
+.score-chip {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  width: 190px;
+  padding: 7px 10px;
+  background: var(--color-panel);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  text-align: left;
+  font-size: 13px;
+}
+
+.score-chip:hover {
+  border-color: var(--color-muted);
+}
+
+.score-chip--user {
+  border-color: var(--color-accent);
+}
+
+.score-chip__team {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  font-weight: 700;
+}
+
+.score-chip__team.is-loser {
+  font-weight: 400;
+  color: var(--color-muted);
+}
+
+.score-chip__name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.score-chip__score {
+  flex: none;
+  font-size: 15px;
+}
+
+.score-chip__cta {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--color-accent);
+}
+
+@media (max-width: 600px) {
+  .scoreboard__label {
+    display: none;
+  }
+
+  .score-chip {
+    width: 168px;
+  }
+}

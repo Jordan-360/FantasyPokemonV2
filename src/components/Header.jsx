@@ -9,6 +9,7 @@ export default function Header({
   weekNav,
   onLogoClick,
   onNewLeague,
+  children,
 }) {
   return (
     <header className="header">
@@ -49,6 +50,7 @@ export default function Header({
           </button>
         )}
       </div>
+      {children}
     </header>
   )
 }

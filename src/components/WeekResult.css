@@ -168,39 +168,3 @@
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 14px;
 }
-
-.box-score {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 13px;
-}
-
-.box-score caption {
-  text-align: left;
-  font-weight: 700;
-  padding-bottom: 4px;
-}
-
-.box-score th {
-  text-align: left;
-  font-size: 11px;
-  font-weight: 600;
-  color: var(--color-muted);
-  padding: 4px 6px 4px 0;
-}
-
-.box-score td {
-  padding: 4px 6px 4px 0;
-  border-top: 1px solid var(--color-divider);
-  white-space: nowrap;
-}
-
-.box-score td:nth-child(2) {
-  max-width: 110px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.box-score__fainted {
-  color: var(--color-muted);
-}

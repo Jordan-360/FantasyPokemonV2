@@ -1,0 +1,34 @@
+.box-dialog {
+  width: min(720px, calc(100vw - 32px));
+  max-height: min(760px, calc(100vh - 48px));
+  overflow-y: auto;
+}
+
+.box-dialog__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.box-dialog__score {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 10px;
+  font-weight: 700;
+}
+
+.box-dialog__score .num {
+  font-size: 24px;
+}
+
+.box-dialog__note {
+  margin-top: -6px;
+  font-size: 13px;
+}
+
+.box-dialog__tables {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+}

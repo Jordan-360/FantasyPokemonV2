@@ -1,43 +1,14 @@
 import { useState } from 'react'
 import Panel from './Panel'
+import BoxScore from './BoxScore'
 import PlayerCircle from './PlayerCircle'
 import { weekLabel } from '../lib/league'
-import { slotLabel } from '../lib/lineup'
 import { positionLabel } from '../lib/players'
 import { statLine } from '../lib/projections'
 import { effectivenessMark } from '../lib/views'
 import './WeekResult.css'
 
 const TOP_PLAYS = 5
-const pct = (n) => `${n > 0 ? '+' : ''}${Math.round(n * 100)}%`
-
-function BoxScore({ title, lines, nameOf }) {
-  return (
-    <table className="box-score">
-      <caption>{title}</caption>
-      <thead>
-        <tr>
-          <th scope="col">Slot</th>
-          <th scope="col">Pokémon</th>
-          <th scope="col">Real</th>
-          <th scope="col">Mod</th>
-          <th scope="col">Pts</th>
-        </tr>
-      </thead>
-      <tbody>
-        {lines.map((l) => (
-          <tr key={l.slot} className={l.fainted ? 'box-score__fainted' : ''}>
-            <td>{slotLabel(l.slot)}</td>
-            <td>{nameOf(l.id)}</td>
-            <td className="num">{l.fainted ? 'FNT' : l.real.toFixed(1)}</td>
-            <td className="num">{l.typeMod + l.evoBonus ? pct(l.typeMod + l.evoBonus) : '—'}</td>
-            <td className="num">{l.points.toFixed(1)}</td>
-          </tr>
-        ))}
-      </tbody>
-    </table>
-  )
-}
 
 function TopPlay({ rank, play, ctx, week, nameOf, statuses, teamLabel, isUser, eventsFor }) {
   const player = ctx.byId.get(play.id)
@@ -112,6 +83,11 @@ export default function WeekResult({ week, result, teams, events, statuses, name
     .slice(0, TOP_PLAYS)
 
   const eventsFor = (id) => events.filter((e) => e.id === id)
+  const detailOf = (id) => {
+    const p = ctx.byId.get(id)
+    const line = statLine(p, week, ctx)
+    return line ? `${p.player} · ${line}` : p.player
+  }
   const fainted = you.lines.filter((l) => l.fainted).map((l) => nameOf(l.id))
 
   return (
@@ -171,8 +147,8 @@ export default function WeekResult({ week, result, teams, events, statuses, name
       </button>
       {showBox && (
         <div className="week-result__box">
-          <BoxScore title="You" lines={you.lines} nameOf={nameOf} />
-          <BoxScore title={oppName} lines={opp.lines} nameOf={nameOf} />
+          <BoxScore title="You" lines={you.lines} nameOf={nameOf} detailOf={detailOf} />
+          <BoxScore title={oppName} lines={opp.lines} nameOf={nameOf} detailOf={detailOf} />
         </div>
       )}
     </Panel>
