@@ -40,7 +40,6 @@ export default function RosterPanel({ lineup = {}, bench = [] }) {
   return (
     <Panel
       title="My Roster"
-      className="home__roster"
       action={
         <button className="roster__edit" disabled={!hasPlayers}>
           Edit lineup
