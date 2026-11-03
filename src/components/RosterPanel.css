@@ -1,0 +1,101 @@
+.roster__edit {
+  padding: 7px 12px;
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+.roster__edit:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.roster__group {
+  margin-top: 4px;
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--color-muted);
+}
+
+.roster__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.roster-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 48px;
+  padding: 6px 0;
+  border-top: 1px solid var(--color-divider);
+}
+
+.roster-row__slot {
+  flex: none;
+  width: 40px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--color-muted);
+}
+
+.roster-row__circle {
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.roster-row__circle--empty {
+  border: 2px dashed var(--color-border);
+}
+
+.roster-row__text {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 0;
+}
+
+.roster-row__text--empty {
+  color: var(--color-muted);
+  font-style: italic;
+}
+
+.roster-row__name,
+.roster-row__player {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.roster-row__name {
+  font-weight: 600;
+}
+
+.roster-row__player {
+  font-size: 12px;
+  color: var(--color-muted);
+}
+
+.roster-row__ovr {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.roster-row__start {
+  padding: 6px 10px;
+  background: var(--color-panel-raised);
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+}

@@ -62,7 +62,3 @@
   border: 1px dashed var(--color-border);
   border-radius: var(--radius-md);
 }
-
-.home__field .placeholder {
-  padding: 160px 0;
-}
