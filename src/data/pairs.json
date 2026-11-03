@@ -2,9 +2,7 @@
   {
     "id": "606",
     "pokemon": "Beheeyem",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Jacoby Brissett",
@@ -15,10 +13,7 @@
   {
     "id": "203",
     "pokemon": "Girafarig",
-    "types": [
-      "Normal",
-      "Psychic"
-    ],
+    "types": ["Normal", "Psychic"],
     "position": "RB",
     "defGroup": null,
     "player": "Jeremiyah Love",
@@ -29,9 +24,7 @@
   {
     "id": "156",
     "pokemon": "Quilava",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "RB",
     "defGroup": null,
     "player": "Tyler Allgeier",
@@ -42,9 +35,7 @@
   {
     "id": "571",
     "pokemon": "Zoroark",
-    "types": [
-      "Dark"
-    ],
+    "types": ["Dark"],
     "position": "WR",
     "defGroup": null,
     "player": "Michael Wilson",
@@ -55,9 +46,7 @@
   {
     "id": "405",
     "pokemon": "Luxray",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Kendrick Bourne",
@@ -68,9 +57,7 @@
   {
     "id": "602",
     "pokemon": "Tynamo",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Reggie Virgil",
@@ -81,10 +68,7 @@
   {
     "id": "187",
     "pokemon": "Hoppip",
-    "types": [
-      "Grass",
-      "Flying"
-    ],
+    "types": ["Grass", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Simi Fehoko",
@@ -95,10 +79,7 @@
   {
     "id": "484",
     "pokemon": "Palkia",
-    "types": [
-      "Water",
-      "Dragon"
-    ],
+    "types": ["Water", "Dragon"],
     "position": "TE",
     "defGroup": null,
     "player": "Trey McBride",
@@ -109,10 +90,7 @@
   {
     "id": "279",
     "pokemon": "Pelipper",
-    "types": [
-      "Water",
-      "Flying"
-    ],
+    "types": ["Water", "Flying"],
     "position": "TE",
     "defGroup": null,
     "player": "Elijah Higgins",
@@ -123,9 +101,7 @@
   {
     "id": "252",
     "pokemon": "Treecko",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "K",
     "defGroup": null,
     "player": "Chad Ryland",
@@ -136,10 +112,7 @@
   {
     "id": "445",
     "pokemon": "Garchomp",
-    "types": [
-      "Dragon",
-      "Ground"
-    ],
+    "types": ["Dragon", "Ground"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Budda Baker",
@@ -150,9 +123,7 @@
   {
     "id": "620",
     "pokemon": "Mienshao",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Josh Sweat",
@@ -163,10 +134,7 @@
   {
     "id": "709",
     "pokemon": "Trevenant",
-    "types": [
-      "Ghost",
-      "Grass"
-    ],
+    "types": ["Ghost", "Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Mack Wilson Sr.",
@@ -177,9 +145,7 @@
   {
     "id": "610",
     "pokemon": "Axew",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Garrett Williams",
@@ -190,9 +156,7 @@
   {
     "id": "328",
     "pokemon": "Trapinch",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Walter Nolen III",
@@ -203,9 +167,7 @@
   {
     "id": "421",
     "pokemon": "Cherrim",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Zaven Collins",
@@ -216,10 +178,7 @@
   {
     "id": "591",
     "pokemon": "Amoonguss",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Andrew Wingard",
@@ -230,10 +189,7 @@
   {
     "id": "391",
     "pokemon": "Monferno",
-    "types": [
-      "Fire",
-      "Fighting"
-    ],
+    "types": ["Fire", "Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Max Melton",
@@ -244,9 +200,7 @@
   {
     "id": "107",
     "pokemon": "Hitmonchan",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jack Gibbens",
@@ -257,9 +211,7 @@
   {
     "id": "036",
     "pokemon": "Clefable",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Denzel Burke",
@@ -270,9 +222,7 @@
   {
     "id": "654",
     "pokemon": "Braixen",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Roy Lopez",
@@ -283,9 +233,7 @@
   {
     "id": "599",
     "pokemon": "Klink",
-    "types": [
-      "Steel"
-    ],
+    "types": ["Steel"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Dante Stills",
@@ -296,9 +244,7 @@
   {
     "id": "578",
     "pokemon": "Duosion",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Michael Penix Jr.",
@@ -309,9 +255,7 @@
   {
     "id": "493",
     "pokemon": "Arceus",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Bijan Robinson",
@@ -322,9 +266,7 @@
   {
     "id": "294",
     "pokemon": "Loudred",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Brian Robinson Jr.",
@@ -335,10 +277,7 @@
   {
     "id": "642",
     "pokemon": "Thundurus",
-    "types": [
-      "Electric",
-      "Flying"
-    ],
+    "types": ["Electric", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Drake London",
@@ -349,10 +288,7 @@
   {
     "id": "566",
     "pokemon": "Archen",
-    "types": [
-      "Rock",
-      "Flying"
-    ],
+    "types": ["Rock", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Jahan Dotson",
@@ -363,10 +299,7 @@
   {
     "id": "177",
     "pokemon": "Natu",
-    "types": [
-      "Psychic",
-      "Flying"
-    ],
+    "types": ["Psychic", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Olamide Zaccheaus",
@@ -377,10 +310,7 @@
   {
     "id": "527",
     "pokemon": "Woobat",
-    "types": [
-      "Psychic",
-      "Flying"
-    ],
+    "types": ["Psychic", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Zachariah Branch",
@@ -391,9 +321,7 @@
   {
     "id": "160",
     "pokemon": "Feraligatr",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Kyle Pitts Sr.",
@@ -404,9 +332,7 @@
   {
     "id": "535",
     "pokemon": "Tympole",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Charlie Woerner",
@@ -417,9 +343,7 @@
   {
     "id": "116",
     "pokemon": "Horsea",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "K",
     "defGroup": null,
     "player": "Nick Folk",
@@ -430,9 +354,7 @@
   {
     "id": "089",
     "pokemon": "Muk",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Jessie Bates III",
@@ -443,9 +365,7 @@
   {
     "id": "674",
     "pokemon": "Pancham",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "A.J. Terrell Jr.",
@@ -456,10 +376,7 @@
   {
     "id": "259",
     "pokemon": "Marshtomp",
-    "types": [
-      "Water",
-      "Ground"
-    ],
+    "types": ["Water", "Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Gervon Dexter Sr.",
@@ -470,9 +387,7 @@
   {
     "id": "611",
     "pokemon": "Fraxure",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Divine Deablo",
@@ -483,9 +398,7 @@
   {
     "id": "470",
     "pokemon": "Leafeon",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Xavier Watts",
@@ -496,10 +409,7 @@
   {
     "id": "256",
     "pokemon": "Combusken",
-    "types": [
-      "Fire",
-      "Fighting"
-    ],
+    "types": ["Fire", "Fighting"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Samson Ebukam",
@@ -510,10 +420,7 @@
   {
     "id": "345",
     "pokemon": "Lileep",
-    "types": [
-      "Rock",
-      "Grass"
-    ],
+    "types": ["Rock", "Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Brandon Dorlus",
@@ -524,9 +431,7 @@
   {
     "id": "262",
     "pokemon": "Mightyena",
-    "types": [
-      "Dark"
-    ],
+    "types": ["Dark"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Cameron Thomas",
@@ -537,10 +442,7 @@
   {
     "id": "436",
     "pokemon": "Bronzor",
-    "types": [
-      "Steel",
-      "Psychic"
-    ],
+    "types": ["Steel", "Psychic"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Billy Bowman Jr.",
@@ -551,10 +453,7 @@
   {
     "id": "675",
     "pokemon": "Pangoro",
-    "types": [
-      "Fighting",
-      "Dark"
-    ],
+    "types": ["Fighting", "Dark"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "C.J. Henderson",
@@ -565,9 +464,7 @@
   {
     "id": "147",
     "pokemon": "Dratini",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Maason Smith",
@@ -578,10 +475,7 @@
   {
     "id": "476",
     "pokemon": "Probopass",
-    "types": [
-      "Rock",
-      "Steel"
-    ],
+    "types": ["Rock", "Steel"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Kendal Daniels",
@@ -592,9 +486,7 @@
   {
     "id": "326",
     "pokemon": "Grumpig",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Lamar Jackson",
@@ -605,9 +497,7 @@
   {
     "id": "115",
     "pokemon": "Kangaskhan",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Derrick Henry",
@@ -618,9 +508,7 @@
   {
     "id": "572",
     "pokemon": "Minccino",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Justice Hill",
@@ -631,9 +519,7 @@
   {
     "id": "617",
     "pokemon": "Accelgor",
-    "types": [
-      "Bug"
-    ],
+    "types": ["Bug"],
     "position": "WR",
     "defGroup": null,
     "player": "Zay Flowers",
@@ -644,10 +530,7 @@
   {
     "id": "193",
     "pokemon": "Yanma",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Rashod Bateman",
@@ -658,10 +541,7 @@
   {
     "id": "084",
     "pokemon": "Doduo",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Ja'Kobi Lane",
@@ -672,10 +552,7 @@
   {
     "id": "276",
     "pokemon": "Taillow",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Devontez Walker",
@@ -686,9 +563,7 @@
   {
     "id": "119",
     "pokemon": "Seaking",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Mark Andrews",
@@ -699,9 +574,7 @@
   {
     "id": "118",
     "pokemon": "Goldeen",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Matthew Hibner",
@@ -712,9 +585,7 @@
   {
     "id": "653",
     "pokemon": "Fennekin",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "K",
     "defGroup": null,
     "player": "Tyler Loop",
@@ -725,10 +596,7 @@
   {
     "id": "076",
     "pokemon": "Golem",
-    "types": [
-      "Rock",
-      "Ground"
-    ],
+    "types": ["Rock", "Ground"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Kyle Hamilton",
@@ -739,10 +607,7 @@
   {
     "id": "598",
     "pokemon": "Ferrothorn",
-    "types": [
-      "Grass",
-      "Steel"
-    ],
+    "types": ["Grass", "Steel"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Roquan Smith",
@@ -753,9 +618,7 @@
   {
     "id": "394",
     "pokemon": "Prinplup",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Nnamdi Madubuike",
@@ -766,9 +629,7 @@
   {
     "id": "153",
     "pokemon": "Bayleef",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Trey Hendrickson",
@@ -779,9 +640,7 @@
   {
     "id": "059",
     "pokemon": "Arcanine",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Marlon Humphrey",
@@ -792,10 +651,7 @@
   {
     "id": "219",
     "pokemon": "Magcargo",
-    "types": [
-      "Fire",
-      "Rock"
-    ],
+    "types": ["Fire", "Rock"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Nate Wiggins",
@@ -806,9 +662,7 @@
   {
     "id": "387",
     "pokemon": "Turtwig",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Calais Campbell",
@@ -819,10 +673,7 @@
   {
     "id": "302",
     "pokemon": "Sableye",
-    "types": [
-      "Dark",
-      "Ghost"
-    ],
+    "types": ["Dark", "Ghost"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Travis Jones",
@@ -833,10 +684,7 @@
   {
     "id": "305",
     "pokemon": "Lairon",
-    "types": [
-      "Steel",
-      "Rock"
-    ],
+    "types": ["Steel", "Rock"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Trenton Simpson",
@@ -847,10 +695,7 @@
   {
     "id": "423",
     "pokemon": "Gastrodon",
-    "types": [
-      "Water",
-      "Ground"
-    ],
+    "types": ["Water", "Ground"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Malaki Starks",
@@ -861,10 +706,7 @@
   {
     "id": "332",
     "pokemon": "Cacturne",
-    "types": [
-      "Grass",
-      "Dark"
-    ],
+    "types": ["Grass", "Dark"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Jaylinn Hawkins",
@@ -875,9 +717,7 @@
   {
     "id": "024",
     "pokemon": "Arbok",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Mike Green",
@@ -888,9 +728,7 @@
   {
     "id": "150",
     "pokemon": "Mewtwo",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Josh Allen",
@@ -901,9 +739,7 @@
   {
     "id": "128",
     "pokemon": "Tauros",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "James Cook III",
@@ -914,10 +750,7 @@
   {
     "id": "667",
     "pokemon": "Litleo",
-    "types": [
-      "Fire",
-      "Normal"
-    ],
+    "types": ["Fire", "Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Ty Johnson",
@@ -928,10 +761,7 @@
   {
     "id": "637",
     "pokemon": "Volcarona",
-    "types": [
-      "Bug",
-      "Fire"
-    ],
+    "types": ["Bug", "Fire"],
     "position": "WR",
     "defGroup": null,
     "player": "DJ Moore",
@@ -942,10 +772,7 @@
   {
     "id": "596",
     "pokemon": "Galvantula",
-    "types": [
-      "Bug",
-      "Electric"
-    ],
+    "types": ["Bug", "Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Khalil Shakir",
@@ -956,10 +783,7 @@
   {
     "id": "006",
     "pokemon": "Charizard",
-    "types": [
-      "Fire",
-      "Flying"
-    ],
+    "types": ["Fire", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Keon Coleman",
@@ -970,10 +794,7 @@
   {
     "id": "666",
     "pokemon": "Vivillon",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Joshua Palmer",
@@ -984,9 +805,7 @@
   {
     "id": "113",
     "pokemon": "Chansey",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "TE",
     "defGroup": null,
     "player": "Dalton Kincaid",
@@ -997,10 +816,7 @@
   {
     "id": "070",
     "pokemon": "Weepinbell",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "TE",
     "defGroup": null,
     "player": "Dawson Knox",
@@ -1011,9 +827,7 @@
   {
     "id": "570",
     "pokemon": "Zorua",
-    "types": [
-      "Dark"
-    ],
+    "types": ["Dark"],
     "position": "K",
     "defGroup": null,
     "player": "Tyler Bass",
@@ -1024,10 +838,7 @@
   {
     "id": "644",
     "pokemon": "Zekrom",
-    "types": [
-      "Dragon",
-      "Electric"
-    ],
+    "types": ["Dragon", "Electric"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Greg Rousseau",
@@ -1038,9 +849,7 @@
   {
     "id": "028",
     "pokemon": "Sandslash",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Terrel Bernard",
@@ -1051,10 +860,7 @@
   {
     "id": "691",
     "pokemon": "Dragalge",
-    "types": [
-      "Poison",
-      "Dragon"
-    ],
+    "types": ["Poison", "Dragon"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Ed Oliver",
@@ -1065,9 +871,7 @@
   {
     "id": "584",
     "pokemon": "Vanilluxe",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Christian Benford",
@@ -1078,10 +882,7 @@
   {
     "id": "103",
     "pokemon": "Exeggutor",
-    "types": [
-      "Grass",
-      "Psychic"
-    ],
+    "types": ["Grass", "Psychic"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Cole Bishop",
@@ -1092,9 +893,7 @@
   {
     "id": "097",
     "pokemon": "Hypno",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Bradley Chubb",
@@ -1105,10 +904,7 @@
   {
     "id": "323",
     "pokemon": "Camerupt",
-    "types": [
-      "Fire",
-      "Ground"
-    ],
+    "types": ["Fire", "Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Deone Walker",
@@ -1119,9 +915,7 @@
   {
     "id": "368",
     "pokemon": "Gorebyss",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Dee Alford",
@@ -1132,10 +926,7 @@
   {
     "id": "034",
     "pokemon": "Nidoking",
-    "types": [
-      "Poison",
-      "Ground"
-    ],
+    "types": ["Poison", "Ground"],
     "position": "DEF",
     "defGroup": "S",
     "player": "C.J. Gardner-Johnson",
@@ -1146,10 +937,7 @@
   {
     "id": "045",
     "pokemon": "Vileplume",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Davison Igbinosun",
@@ -1160,9 +948,7 @@
   {
     "id": "446",
     "pokemon": "Munchlax",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Dorian Williams",
@@ -1173,9 +959,7 @@
   {
     "id": "399",
     "pokemon": "Bidoof",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "T.J. Sanders",
@@ -1186,9 +970,7 @@
   {
     "id": "064",
     "pokemon": "Kadabra",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Bryce Young",
@@ -1199,9 +981,7 @@
   {
     "id": "217",
     "pokemon": "Ursaring",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Chuba Hubbard",
@@ -1212,9 +992,7 @@
   {
     "id": "293",
     "pokemon": "Whismur",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Trevor Etienne",
@@ -1225,10 +1003,7 @@
   {
     "id": "658",
     "pokemon": "Greninja",
-    "types": [
-      "Water",
-      "Dark"
-    ],
+    "types": ["Water", "Dark"],
     "position": "WR",
     "defGroup": null,
     "player": "Tetairoa McMillan",
@@ -1239,10 +1014,7 @@
   {
     "id": "123",
     "pokemon": "Scyther",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Jalen Coker",
@@ -1253,10 +1025,7 @@
   {
     "id": "414",
     "pokemon": "Mothim",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "John Metchie III",
@@ -1267,10 +1036,7 @@
   {
     "id": "170",
     "pokemon": "Chinchou",
-    "types": [
-      "Water",
-      "Electric"
-    ],
+    "types": ["Water", "Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Brycen Tremayne",
@@ -1281,10 +1047,7 @@
   {
     "id": "211",
     "pokemon": "Qwilfish",
-    "types": [
-      "Water",
-      "Poison"
-    ],
+    "types": ["Water", "Poison"],
     "position": "TE",
     "defGroup": null,
     "player": "Darren Waller",
@@ -1295,10 +1058,7 @@
   {
     "id": "364",
     "pokemon": "Sealeo",
-    "types": [
-      "Ice",
-      "Water"
-    ],
+    "types": ["Ice", "Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Tommy Tremble",
@@ -1309,9 +1069,7 @@
   {
     "id": "669",
     "pokemon": "Flabébé",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "K",
     "defGroup": null,
     "player": "Ryan Fitzgerald",
@@ -1322,9 +1080,7 @@
   {
     "id": "600",
     "pokemon": "Klang",
-    "types": [
-      "Steel"
-    ],
+    "types": ["Steel"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Derrick Brown",
@@ -1335,10 +1091,7 @@
   {
     "id": "487",
     "pokemon": "Giratina",
-    "types": [
-      "Ghost",
-      "Dragon"
-    ],
+    "types": ["Ghost", "Dragon"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Devin Lloyd",
@@ -1349,10 +1102,7 @@
   {
     "id": "483",
     "pokemon": "Dialga",
-    "types": [
-      "Steel",
-      "Dragon"
-    ],
+    "types": ["Steel", "Dragon"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Bobby Okereke",
@@ -1363,9 +1113,7 @@
   {
     "id": "057",
     "pokemon": "Primeape",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jaelan Phillips",
@@ -1376,9 +1124,7 @@
   {
     "id": "455",
     "pokemon": "Carnivine",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Tre'von Moehrig",
@@ -1389,9 +1135,7 @@
   {
     "id": "067",
     "pokemon": "Machoke",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Nick Scott",
@@ -1402,9 +1146,7 @@
   {
     "id": "023",
     "pokemon": "Ekans",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Lee Hunter",
@@ -1415,9 +1157,7 @@
   {
     "id": "296",
     "pokemon": "Makuhita",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Tershawn Wharton",
@@ -1428,9 +1168,7 @@
   {
     "id": "704",
     "pokemon": "Goomy",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Chau Smith-Wade",
@@ -1441,10 +1179,7 @@
   {
     "id": "608",
     "pokemon": "Lampent",
-    "types": [
-      "Ghost",
-      "Fire"
-    ],
+    "types": ["Ghost", "Fire"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Patrick Jones II",
@@ -1455,10 +1190,7 @@
   {
     "id": "080",
     "pokemon": "Slowbro",
-    "types": [
-      "Water",
-      "Psychic"
-    ],
+    "types": ["Water", "Psychic"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Will Lee III",
@@ -1469,9 +1201,7 @@
   {
     "id": "355",
     "pokemon": "Duskull",
-    "types": [
-      "Ghost"
-    ],
+    "types": ["Ghost"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Akayleb Evans",
@@ -1482,10 +1212,7 @@
   {
     "id": "282",
     "pokemon": "Gardevoir",
-    "types": [
-      "Psychic",
-      "Fairy"
-    ],
+    "types": ["Psychic", "Fairy"],
     "position": "QB",
     "defGroup": null,
     "player": "Caleb Williams",
@@ -1496,9 +1223,7 @@
   {
     "id": "508",
     "pokemon": "Stoutland",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "D'Andre Swift",
@@ -1509,9 +1234,7 @@
   {
     "id": "474",
     "pokemon": "Porygon-Z",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Kyle Monangai",
@@ -1522,9 +1245,7 @@
   {
     "id": "125",
     "pokemon": "Electabuzz",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Rome Odunze",
@@ -1535,9 +1256,7 @@
   {
     "id": "466",
     "pokemon": "Electivire",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Luther Burden III",
@@ -1548,9 +1267,7 @@
   {
     "id": "077",
     "pokemon": "Ponyta",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "WR",
     "defGroup": null,
     "player": "Kalif Raymond",
@@ -1561,10 +1278,7 @@
   {
     "id": "016",
     "pokemon": "Pidgey",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Zavion Thomas",
@@ -1575,10 +1289,7 @@
   {
     "id": "040",
     "pokemon": "Wigglytuff",
-    "types": [
-      "Normal",
-      "Fairy"
-    ],
+    "types": ["Normal", "Fairy"],
     "position": "TE",
     "defGroup": null,
     "player": "Colston Loveland",
@@ -1589,10 +1300,7 @@
   {
     "id": "183",
     "pokemon": "Marill",
-    "types": [
-      "Water",
-      "Fairy"
-    ],
+    "types": ["Water", "Fairy"],
     "position": "TE",
     "defGroup": null,
     "player": "Sam Roush",
@@ -1603,9 +1311,7 @@
   {
     "id": "255",
     "pokemon": "Torchic",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "K",
     "defGroup": null,
     "player": "Cairo Santos",
@@ -1616,9 +1322,7 @@
   {
     "id": "033",
     "pokemon": "Nidorino",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Jaylon Johnson",
@@ -1629,9 +1333,7 @@
   {
     "id": "480",
     "pokemon": "Uxie",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Devin Bush",
@@ -1642,9 +1344,7 @@
   {
     "id": "477",
     "pokemon": "Dusknoir",
-    "types": [
-      "Ghost"
-    ],
+    "types": ["Ghost"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Kyler Gordon",
@@ -1655,10 +1355,7 @@
   {
     "id": "048",
     "pokemon": "Venonat",
-    "types": [
-      "Bug",
-      "Poison"
-    ],
+    "types": ["Bug", "Poison"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Grady Jarrett",
@@ -1669,10 +1366,7 @@
   {
     "id": "075",
     "pokemon": "Graveler",
-    "types": [
-      "Rock",
-      "Ground"
-    ],
+    "types": ["Rock", "Ground"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "T.J. Edwards",
@@ -1683,9 +1377,7 @@
   {
     "id": "693",
     "pokemon": "Clawitzer",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Montez Sweat",
@@ -1696,10 +1388,7 @@
   {
     "id": "389",
     "pokemon": "Torterra",
-    "types": [
-      "Grass",
-      "Ground"
-    ],
+    "types": ["Grass", "Ground"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Dillon Thieneman",
@@ -1710,9 +1399,7 @@
   {
     "id": "372",
     "pokemon": "Shelgon",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Tyrique Stevenson",
@@ -1723,9 +1410,7 @@
   {
     "id": "066",
     "pokemon": "Machop",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Cam Lewis",
@@ -1736,9 +1421,7 @@
   {
     "id": "684",
     "pokemon": "Swirlix",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "D'Marco Jackson",
@@ -1749,10 +1432,7 @@
   {
     "id": "434",
     "pokemon": "Stunky",
-    "types": [
-      "Poison",
-      "Dark"
-    ],
+    "types": ["Poison", "Dark"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Kentavius Street",
@@ -1763,9 +1443,7 @@
   {
     "id": "029",
     "pokemon": "Nidoran♀",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "James Lynch",
@@ -1776,9 +1454,7 @@
   {
     "id": "196",
     "pokemon": "Espeon",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Joe Burrow",
@@ -1789,10 +1465,7 @@
   {
     "id": "586",
     "pokemon": "Sawsbuck",
-    "types": [
-      "Normal",
-      "Grass"
-    ],
+    "types": ["Normal", "Grass"],
     "position": "RB",
     "defGroup": null,
     "player": "Chase Brown",
@@ -1803,9 +1476,7 @@
   {
     "id": "216",
     "pokemon": "Teddiursa",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Samaje Perine",
@@ -1816,10 +1487,7 @@
   {
     "id": "142",
     "pokemon": "Aerodactyl",
-    "types": [
-      "Rock",
-      "Flying"
-    ],
+    "types": ["Rock", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Ja'Marr Chase",
@@ -1830,9 +1498,7 @@
   {
     "id": "101",
     "pokemon": "Electrode",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Tee Higgins",
@@ -1843,9 +1509,7 @@
   {
     "id": "522",
     "pokemon": "Blitzle",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Mitchell Tinsley",
@@ -1856,9 +1520,7 @@
   {
     "id": "100",
     "pokemon": "Voltorb",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Dohnte Meyers",
@@ -1869,9 +1531,7 @@
   {
     "id": "516",
     "pokemon": "Simipour",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Mike Gesicki",
@@ -1882,9 +1542,7 @@
   {
     "id": "158",
     "pokemon": "Totodile",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Drew Sample",
@@ -1895,9 +1553,7 @@
   {
     "id": "004",
     "pokemon": "Charmander",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "K",
     "defGroup": null,
     "player": "Evan McPherson",
@@ -1908,10 +1564,7 @@
   {
     "id": "357",
     "pokemon": "Tropius",
-    "types": [
-      "Grass",
-      "Flying"
-    ],
+    "types": ["Grass", "Flying"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Dexter Lawrence II",
@@ -1922,10 +1575,7 @@
   {
     "id": "462",
     "pokemon": "Magnezone",
-    "types": [
-      "Electric",
-      "Steel"
-    ],
+    "types": ["Electric", "Steel"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Jonathan Allen",
@@ -1936,9 +1586,7 @@
   {
     "id": "088",
     "pokemon": "Grimer",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "DJ Turner II",
@@ -1949,9 +1597,7 @@
   {
     "id": "467",
     "pokemon": "Magmortar",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Bryan Cook",
@@ -1962,9 +1608,7 @@
   {
     "id": "182",
     "pokemon": "Bellossom",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Boye Mafe",
@@ -1975,10 +1619,7 @@
   {
     "id": "411",
     "pokemon": "Bastiodon",
-    "types": [
-      "Rock",
-      "Steel"
-    ],
+    "types": ["Rock", "Steel"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Jordan Battle",
@@ -1989,9 +1630,7 @@
   {
     "id": "563",
     "pokemon": "Cofagrigus",
-    "types": [
-      "Ghost"
-    ],
+    "types": ["Ghost"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Dax Hill",
@@ -2002,10 +1641,7 @@
   {
     "id": "559",
     "pokemon": "Scraggy",
-    "types": [
-      "Dark",
-      "Fighting"
-    ],
+    "types": ["Dark", "Fighting"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Myles Murphy",
@@ -2016,9 +1652,7 @@
   {
     "id": "614",
     "pokemon": "Beartic",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Demetrius Knight Jr.",
@@ -2029,9 +1663,7 @@
   {
     "id": "447",
     "pokemon": "Riolu",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Tacario Davis",
@@ -2042,9 +1674,7 @@
   {
     "id": "245",
     "pokemon": "Suicune",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Barrett Carter",
@@ -2055,10 +1685,7 @@
   {
     "id": "607",
     "pokemon": "Litwick",
-    "types": [
-      "Ghost",
-      "Fire"
-    ],
+    "types": ["Ghost", "Fire"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Oren Burks",
@@ -2069,9 +1696,7 @@
   {
     "id": "063",
     "pokemon": "Abra",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Deshaun Watson",
@@ -2082,9 +1707,7 @@
   {
     "id": "335",
     "pokemon": "Zangoose",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Quinshon Judkins",
@@ -2095,9 +1718,7 @@
   {
     "id": "390",
     "pokemon": "Chimchar",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "RB",
     "defGroup": null,
     "player": "Dylan Sampson",
@@ -2108,10 +1729,7 @@
   {
     "id": "441",
     "pokemon": "Chatot",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Jerry Jeudy",
@@ -2122,10 +1740,7 @@
   {
     "id": "215",
     "pokemon": "Sneasel",
-    "types": [
-      "Dark",
-      "Ice"
-    ],
+    "types": ["Dark", "Ice"],
     "position": "WR",
     "defGroup": null,
     "player": "Denzel Boston",
@@ -2136,10 +1751,7 @@
   {
     "id": "695",
     "pokemon": "Heliolisk",
-    "types": [
-      "Electric",
-      "Normal"
-    ],
+    "types": ["Electric", "Normal"],
     "position": "WR",
     "defGroup": null,
     "player": "KC Concepcion",
@@ -2150,10 +1762,7 @@
   {
     "id": "225",
     "pokemon": "Delibird",
-    "types": [
-      "Ice",
-      "Flying"
-    ],
+    "types": ["Ice", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Isaiah Bond",
@@ -2164,9 +1773,7 @@
   {
     "id": "242",
     "pokemon": "Blissey",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "TE",
     "defGroup": null,
     "player": "Harold Fannin Jr.",
@@ -2177,9 +1784,7 @@
   {
     "id": "456",
     "pokemon": "Finneon",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Blake Whiteheart",
@@ -2190,9 +1795,7 @@
   {
     "id": "582",
     "pokemon": "Vanillite",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "K",
     "defGroup": null,
     "player": "Andre Szmyt",
@@ -2203,10 +1806,7 @@
   {
     "id": "257",
     "pokemon": "Blaziken",
-    "types": [
-      "Fire",
-      "Fighting"
-    ],
+    "types": ["Fire", "Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Denzel Ward",
@@ -2217,10 +1817,7 @@
   {
     "id": "696",
     "pokemon": "Tyrunt",
-    "types": [
-      "Rock",
-      "Dragon"
-    ],
+    "types": ["Rock", "Dragon"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Jared Verse",
@@ -2231,9 +1828,7 @@
   {
     "id": "450",
     "pokemon": "Hippowdon",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Carson Schwesinger",
@@ -2244,10 +1839,7 @@
   {
     "id": "141",
     "pokemon": "Kabutops",
-    "types": [
-      "Rock",
-      "Water"
-    ],
+    "types": ["Rock", "Water"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Grant Delpit",
@@ -2258,10 +1850,7 @@
   {
     "id": "530",
     "pokemon": "Excadrill",
-    "types": [
-      "Ground",
-      "Steel"
-    ],
+    "types": ["Ground", "Steel"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Mason Graham",
@@ -2272,10 +1861,7 @@
   {
     "id": "652",
     "pokemon": "Chesnaught",
-    "types": [
-      "Grass",
-      "Fighting"
-    ],
+    "types": ["Grass", "Fighting"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Quincy Williams",
@@ -2286,9 +1872,7 @@
   {
     "id": "525",
     "pokemon": "Boldore",
-    "types": [
-      "Rock"
-    ],
+    "types": ["Rock"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Tyson Campbell",
@@ -2299,10 +1883,7 @@
   {
     "id": "139",
     "pokemon": "Omastar",
-    "types": [
-      "Rock",
-      "Water"
-    ],
+    "types": ["Rock", "Water"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Maliek Collins",
@@ -2313,9 +1894,7 @@
   {
     "id": "604",
     "pokemon": "Eelektross",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Ronnie Hickman",
@@ -2326,9 +1905,7 @@
   {
     "id": "524",
     "pokemon": "Roggenrola",
-    "types": [
-      "Rock"
-    ],
+    "types": ["Rock"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Isaiah McGuire",
@@ -2339,10 +1916,7 @@
   {
     "id": "308",
     "pokemon": "Medicham",
-    "types": [
-      "Fighting",
-      "Psychic"
-    ],
+    "types": ["Fighting", "Psychic"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Myles Harden",
@@ -2353,9 +1927,7 @@
   {
     "id": "273",
     "pokemon": "Seedot",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Easton Mascarenas-Arnold",
@@ -2366,10 +1938,7 @@
   {
     "id": "609",
     "pokemon": "Chandelure",
-    "types": [
-      "Ghost",
-      "Fire"
-    ],
+    "types": ["Ghost", "Fire"],
     "position": "QB",
     "defGroup": null,
     "player": "Dak Prescott",
@@ -2380,9 +1949,7 @@
   {
     "id": "424",
     "pokemon": "Ambipom",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Javonte Williams",
@@ -2393,9 +1960,7 @@
   {
     "id": "263",
     "pokemon": "Zigzagoon",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Tyler Goodson",
@@ -2406,9 +1971,7 @@
   {
     "id": "482",
     "pokemon": "Azelf",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "WR",
     "defGroup": null,
     "player": "CeeDee Lamb",
@@ -2419,10 +1982,7 @@
   {
     "id": "169",
     "pokemon": "Crobat",
-    "types": [
-      "Poison",
-      "Flying"
-    ],
+    "types": ["Poison", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "George Pickens",
@@ -2433,10 +1993,7 @@
   {
     "id": "083",
     "pokemon": "Farfetch’d",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "KaVontae Turpin",
@@ -2447,9 +2004,7 @@
   {
     "id": "429",
     "pokemon": "Mismagius",
-    "types": [
-      "Ghost"
-    ],
+    "types": ["Ghost"],
     "position": "WR",
     "defGroup": null,
     "player": "Ryan Flournoy",
@@ -2460,9 +2015,7 @@
   {
     "id": "186",
     "pokemon": "Politoed",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Jake Ferguson",
@@ -2473,10 +2026,7 @@
   {
     "id": "690",
     "pokemon": "Skrelp",
-    "types": [
-      "Poison",
-      "Water"
-    ],
+    "types": ["Poison", "Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Brevyn Spann-Ford",
@@ -2487,10 +2037,7 @@
   {
     "id": "228",
     "pokemon": "Houndour",
-    "types": [
-      "Dark",
-      "Fire"
-    ],
+    "types": ["Dark", "Fire"],
     "position": "K",
     "defGroup": null,
     "player": "Brandon Aubrey",
@@ -2501,9 +2048,7 @@
   {
     "id": "136",
     "pokemon": "Flareon",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Quinnen Williams",
@@ -2514,9 +2059,7 @@
   {
     "id": "114",
     "pokemon": "Tangela",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Joey Porter Jr.",
@@ -2527,9 +2070,7 @@
   {
     "id": "324",
     "pokemon": "Torkoal",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Caleb Downs",
@@ -2540,10 +2081,7 @@
   {
     "id": "329",
     "pokemon": "Vibrava",
-    "types": [
-      "Ground",
-      "Dragon"
-    ],
+    "types": ["Ground", "Dragon"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Kenny Clark",
@@ -2554,10 +2092,7 @@
   {
     "id": "544",
     "pokemon": "Whirlipede",
-    "types": [
-      "Bug",
-      "Poison"
-    ],
+    "types": ["Bug", "Poison"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Rashan Gary",
@@ -2568,10 +2103,7 @@
   {
     "id": "698",
     "pokemon": "Amaura",
-    "types": [
-      "Rock",
-      "Ice"
-    ],
+    "types": ["Rock", "Ice"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Malik Hooker",
@@ -2582,9 +2114,7 @@
   {
     "id": "108",
     "pokemon": "Lickitung",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Donovan Ezeiruaku",
@@ -2595,10 +2125,7 @@
   {
     "id": "435",
     "pokemon": "Skuntank",
-    "types": [
-      "Poison",
-      "Dark"
-    ],
+    "types": ["Poison", "Dark"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "DaRon Bland",
@@ -2609,10 +2136,7 @@
   {
     "id": "168",
     "pokemon": "Ariados",
-    "types": [
-      "Bug",
-      "Poison"
-    ],
+    "types": ["Bug", "Poison"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "DeMarvion Overshown",
@@ -2623,9 +2147,7 @@
   {
     "id": "185",
     "pokemon": "Sudowoodo",
-    "types": [
-      "Rock"
-    ],
+    "types": ["Rock"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Dee Winters",
@@ -2636,10 +2158,7 @@
   {
     "id": "220",
     "pokemon": "Swinub",
-    "types": [
-      "Ice",
-      "Ground"
-    ],
+    "types": ["Ice", "Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "LT Overton",
@@ -2650,9 +2169,7 @@
   {
     "id": "498",
     "pokemon": "Tepig",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Otito Ogbonnia",
@@ -2663,9 +2180,7 @@
   {
     "id": "579",
     "pokemon": "Reuniclus",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Bo Nix",
@@ -2676,10 +2191,7 @@
   {
     "id": "668",
     "pokemon": "Pyroar",
-    "types": [
-      "Fire",
-      "Normal"
-    ],
+    "types": ["Fire", "Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "RJ Harvey",
@@ -2690,9 +2202,7 @@
   {
     "id": "058",
     "pokemon": "Growlithe",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "RB",
     "defGroup": null,
     "player": "Jonah Coleman",
@@ -2703,10 +2213,7 @@
   {
     "id": "581",
     "pokemon": "Swanna",
-    "types": [
-      "Water",
-      "Flying"
-    ],
+    "types": ["Water", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Courtland Sutton",
@@ -2717,9 +2224,7 @@
   {
     "id": "512",
     "pokemon": "Simisage",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "WR",
     "defGroup": null,
     "player": "Jaylen Waddle",
@@ -2730,10 +2235,7 @@
   {
     "id": "284",
     "pokemon": "Masquerain",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Troy Franklin",
@@ -2744,9 +2246,7 @@
   {
     "id": "050",
     "pokemon": "Diglett",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "WR",
     "defGroup": null,
     "player": "Marvin Mims Jr.",
@@ -2757,9 +2257,7 @@
   {
     "id": "098",
     "pokemon": "Krabby",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Evan Engram",
@@ -2770,9 +2268,7 @@
   {
     "id": "515",
     "pokemon": "Panpour",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Adam Trautman",
@@ -2783,9 +2279,7 @@
   {
     "id": "511",
     "pokemon": "Pansage",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "K",
     "defGroup": null,
     "player": "Wil Lutz",
@@ -2796,10 +2290,7 @@
   {
     "id": "044",
     "pokemon": "Gloom",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Pat Surtain II",
@@ -2810,10 +2301,7 @@
   {
     "id": "635",
     "pokemon": "Hydreigon",
-    "types": [
-      "Dark",
-      "Dragon"
-    ],
+    "types": ["Dark", "Dragon"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Nik Bonitto",
@@ -2824,9 +2312,7 @@
   {
     "id": "232",
     "pokemon": "Donphan",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Talanoa Hufanga",
@@ -2837,9 +2323,7 @@
   {
     "id": "244",
     "pokemon": "Entei",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Zach Allen",
@@ -2850,10 +2334,7 @@
   {
     "id": "376",
     "pokemon": "Metagross",
-    "types": [
-      "Steel",
-      "Psychic"
-    ],
+    "types": ["Steel", "Psychic"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Alex Singleton",
@@ -2864,10 +2345,7 @@
   {
     "id": "686",
     "pokemon": "Inkay",
-    "types": [
-      "Dark",
-      "Psychic"
-    ],
+    "types": ["Dark", "Psychic"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jonathon Cooper",
@@ -2878,10 +2356,7 @@
   {
     "id": "385",
     "pokemon": "Jirachi",
-    "types": [
-      "Steel",
-      "Psychic"
-    ],
+    "types": ["Steel", "Psychic"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Brandon Jones",
@@ -2892,10 +2367,7 @@
   {
     "id": "348",
     "pokemon": "Armaldo",
-    "types": [
-      "Rock",
-      "Bug"
-    ],
+    "types": ["Rock", "Bug"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Ja'Quan McMillian",
@@ -2906,10 +2378,7 @@
   {
     "id": "344",
     "pokemon": "Claydol",
-    "types": [
-      "Ground",
-      "Psychic"
-    ],
+    "types": ["Ground", "Psychic"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Riley Moss",
@@ -2920,9 +2389,7 @@
   {
     "id": "180",
     "pokemon": "Flaaffy",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "D.J. Jones",
@@ -2933,10 +2400,7 @@
   {
     "id": "003",
     "pokemon": "Venusaur",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Justin Strnad",
@@ -2947,9 +2411,7 @@
   {
     "id": "692",
     "pokemon": "Clauncher",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Eyioma Uwazurike",
@@ -2960,10 +2422,7 @@
   {
     "id": "648",
     "pokemon": "Meloetta",
-    "types": [
-      "Normal",
-      "Psychic"
-    ],
+    "types": ["Normal", "Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Jared Goff",
@@ -2974,9 +2433,7 @@
   {
     "id": "289",
     "pokemon": "Slaking",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Jahmyr Gibbs",
@@ -2987,9 +2444,7 @@
   {
     "id": "659",
     "pokemon": "Bunnelby",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Sione Vaki",
@@ -3000,10 +2455,7 @@
   {
     "id": "384",
     "pokemon": "Rayquaza",
-    "types": [
-      "Dragon",
-      "Flying"
-    ],
+    "types": ["Dragon", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Amon-Ra St. Brown",
@@ -3014,9 +2466,7 @@
   {
     "id": "419",
     "pokemon": "Floatzel",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "WR",
     "defGroup": null,
     "player": "Jameson Williams",
@@ -3027,9 +2477,7 @@
   {
     "id": "417",
     "pokemon": "Pachirisu",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Isaac TeSlaa",
@@ -3040,10 +2488,7 @@
   {
     "id": "163",
     "pokemon": "Hoothoot",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Tay Martin",
@@ -3054,10 +2499,7 @@
   {
     "id": "721",
     "pokemon": "Volcanion",
-    "types": [
-      "Fire",
-      "Water"
-    ],
+    "types": ["Fire", "Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Sam LaPorta",
@@ -3068,10 +2510,7 @@
   {
     "id": "271",
     "pokemon": "Lombre",
-    "types": [
-      "Water",
-      "Grass"
-    ],
+    "types": ["Water", "Grass"],
     "position": "TE",
     "defGroup": null,
     "player": "Brock Wright",
@@ -3082,10 +2521,7 @@
   {
     "id": "072",
     "pokemon": "Tentacool",
-    "types": [
-      "Water",
-      "Poison"
-    ],
+    "types": ["Water", "Poison"],
     "position": "K",
     "defGroup": null,
     "player": "Jake Bates",
@@ -3096,10 +2532,7 @@
   {
     "id": "248",
     "pokemon": "Tyranitar",
-    "types": [
-      "Rock",
-      "Dark"
-    ],
+    "types": ["Rock", "Dark"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Aidan Hutchinson",
@@ -3110,9 +2543,7 @@
   {
     "id": "105",
     "pokemon": "Marowak",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Brian Branch",
@@ -3123,10 +2554,7 @@
   {
     "id": "112",
     "pokemon": "Rhydon",
-    "types": [
-      "Ground",
-      "Rock"
-    ],
+    "types": ["Ground", "Rock"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jack Campbell",
@@ -3137,10 +2565,7 @@
   {
     "id": "229",
     "pokemon": "Houndoom",
-    "types": [
-      "Dark",
-      "Fire"
-    ],
+    "types": ["Dark", "Fire"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Alim McNeill",
@@ -3151,10 +2576,7 @@
   {
     "id": "681",
     "pokemon": "Aegislash",
-    "types": [
-      "Steel",
-      "Ghost"
-    ],
+    "types": ["Steel", "Ghost"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "D.J. Reed",
@@ -3165,10 +2587,7 @@
   {
     "id": "046",
     "pokemon": "Paras",
-    "types": [
-      "Bug",
-      "Grass"
-    ],
+    "types": ["Bug", "Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Tyleik Williams",
@@ -3179,9 +2598,7 @@
   {
     "id": "539",
     "pokemon": "Sawk",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Chuck Clark",
@@ -3192,9 +2609,7 @@
   {
     "id": "068",
     "pokemon": "Machamp",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Derrick Barnes",
@@ -3205,9 +2620,7 @@
   {
     "id": "491",
     "pokemon": "Darkrai",
-    "types": [
-      "Dark"
-    ],
+    "types": ["Dark"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Roger McCreary",
@@ -3218,10 +2631,7 @@
   {
     "id": "551",
     "pokemon": "Sandile",
-    "types": [
-      "Ground",
-      "Dark"
-    ],
+    "types": ["Ground", "Dark"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Malcolm Rodriguez",
@@ -3232,10 +2642,7 @@
   {
     "id": "274",
     "pokemon": "Nuzleaf",
-    "types": [
-      "Grass",
-      "Dark"
-    ],
+    "types": ["Grass", "Dark"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Ennis Rakestraw Jr.",
@@ -3246,10 +2653,7 @@
   {
     "id": "339",
     "pokemon": "Barboach",
-    "types": [
-      "Water",
-      "Ground"
-    ],
+    "types": ["Water", "Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Tyler Lacy",
@@ -3260,10 +2664,7 @@
   {
     "id": "124",
     "pokemon": "Jynx",
-    "types": [
-      "Ice",
-      "Psychic"
-    ],
+    "types": ["Ice", "Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Jordan Love",
@@ -3274,9 +2675,7 @@
   {
     "id": "676",
     "pokemon": "Furfrou",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Josh Jacobs",
@@ -3287,10 +2686,7 @@
   {
     "id": "585",
     "pokemon": "Deerling",
-    "types": [
-      "Normal",
-      "Grass"
-    ],
+    "types": ["Normal", "Grass"],
     "position": "RB",
     "defGroup": null,
     "player": "MarShawn Lloyd",
@@ -3301,9 +2697,7 @@
   {
     "id": "641",
     "pokemon": "Tornadus",
-    "types": [
-      "Flying"
-    ],
+    "types": ["Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Christian Watson",
@@ -3314,10 +2708,7 @@
   {
     "id": "085",
     "pokemon": "Dodrio",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Matthew Golden",
@@ -3328,9 +2719,7 @@
   {
     "id": "403",
     "pokemon": "Shinx",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Bo Melton",
@@ -3341,9 +2730,7 @@
   {
     "id": "060",
     "pokemon": "Poliwag",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "WR",
     "defGroup": null,
     "player": "Savion Williams",
@@ -3354,10 +2741,7 @@
   {
     "id": "131",
     "pokemon": "Lapras",
-    "types": [
-      "Water",
-      "Ice"
-    ],
+    "types": ["Water", "Ice"],
     "position": "TE",
     "defGroup": null,
     "player": "Tucker Kraft",
@@ -3368,9 +2752,7 @@
   {
     "id": "090",
     "pokemon": "Shellder",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Jonnu Smith",
@@ -3381,10 +2763,7 @@
   {
     "id": "546",
     "pokemon": "Cottonee",
-    "types": [
-      "Grass",
-      "Fairy"
-    ],
+    "types": ["Grass", "Fairy"],
     "position": "K",
     "defGroup": null,
     "player": "Trey Smack",
@@ -3395,10 +2774,7 @@
   {
     "id": "649",
     "pokemon": "Genesect",
-    "types": [
-      "Bug",
-      "Steel"
-    ],
+    "types": ["Bug", "Steel"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Xavier McKinney",
@@ -3409,10 +2785,7 @@
   {
     "id": "306",
     "pokemon": "Aggron",
-    "types": [
-      "Steel",
-      "Rock"
-    ],
+    "types": ["Steel", "Rock"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Evan Williams",
@@ -3423,10 +2796,7 @@
   {
     "id": "338",
     "pokemon": "Solrock",
-    "types": [
-      "Rock",
-      "Psychic"
-    ],
+    "types": ["Rock", "Psychic"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Lukas Van Ness",
@@ -3437,10 +2807,7 @@
   {
     "id": "303",
     "pokemon": "Mawile",
-    "types": [
-      "Steel",
-      "Fairy"
-    ],
+    "types": ["Steel", "Fairy"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Devonte Wyatt",
@@ -3451,9 +2818,7 @@
   {
     "id": "350",
     "pokemon": "Milotic",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Javon Bullard",
@@ -3464,9 +2829,7 @@
   {
     "id": "626",
     "pokemon": "Bouffalant",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Keisean Nixon",
@@ -3477,9 +2840,7 @@
   {
     "id": "673",
     "pokemon": "Gogoat",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Zaire Franklin",
@@ -3490,9 +2851,7 @@
   {
     "id": "197",
     "pokemon": "Umbreon",
-    "types": [
-      "Dark"
-    ],
+    "types": ["Dark"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Brandon Cisse",
@@ -3503,9 +2862,7 @@
   {
     "id": "665",
     "pokemon": "Spewpa",
-    "types": [
-      "Bug"
-    ],
+    "types": ["Bug"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Chris McClellan",
@@ -3516,10 +2873,7 @@
   {
     "id": "343",
     "pokemon": "Baltoy",
-    "types": [
-      "Ground",
-      "Psychic"
-    ],
+    "types": ["Ground", "Psychic"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Karl Brooks",
@@ -3530,10 +2884,7 @@
   {
     "id": "590",
     "pokemon": "Foongus",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Barryn Sorrell",
@@ -3544,9 +2895,7 @@
   {
     "id": "152",
     "pokemon": "Chikorita",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Ty'Ron Hopper",
@@ -3557,10 +2906,7 @@
   {
     "id": "121",
     "pokemon": "Starmie",
-    "types": [
-      "Water",
-      "Psychic"
-    ],
+    "types": ["Water", "Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "C.J. Stroud",
@@ -3571,9 +2917,7 @@
   {
     "id": "505",
     "pokemon": "Watchog",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "David Montgomery",
@@ -3584,9 +2928,7 @@
   {
     "id": "020",
     "pokemon": "Raticate",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Woody Marks",
@@ -3597,9 +2939,7 @@
   {
     "id": "135",
     "pokemon": "Jolteon",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Nico Collins",
@@ -3610,10 +2950,7 @@
   {
     "id": "561",
     "pokemon": "Sigilyph",
-    "types": [
-      "Psychic",
-      "Flying"
-    ],
+    "types": ["Psychic", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Marvin Harrison Jr.",
@@ -3624,10 +2961,7 @@
   {
     "id": "178",
     "pokemon": "Xatu",
-    "types": [
-      "Psychic",
-      "Flying"
-    ],
+    "types": ["Psychic", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Jaylin Noel",
@@ -3638,10 +2972,7 @@
   {
     "id": "198",
     "pokemon": "Murkrow",
-    "types": [
-      "Dark",
-      "Flying"
-    ],
+    "types": ["Dark", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Xavier Hutchinson",
@@ -3652,10 +2983,7 @@
   {
     "id": "230",
     "pokemon": "Kingdra",
-    "types": [
-      "Water",
-      "Dragon"
-    ],
+    "types": ["Water", "Dragon"],
     "position": "TE",
     "defGroup": null,
     "player": "Dalton Schultz",
@@ -3666,10 +2994,7 @@
   {
     "id": "079",
     "pokemon": "Slowpoke",
-    "types": [
-      "Water",
-      "Psychic"
-    ],
+    "types": ["Water", "Psychic"],
     "position": "TE",
     "defGroup": null,
     "player": "Foster Moreau",
@@ -3680,10 +3005,7 @@
   {
     "id": "315",
     "pokemon": "Roselia",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "K",
     "defGroup": null,
     "player": "Ka'imi Fairbairn",
@@ -3694,9 +3016,7 @@
   {
     "id": "377",
     "pokemon": "Regirock",
-    "types": [
-      "Rock"
-    ],
+    "types": ["Rock"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Will Anderson Jr.",
@@ -3707,10 +3027,7 @@
   {
     "id": "095",
     "pokemon": "Onix",
-    "types": [
-      "Rock",
-      "Ground"
-    ],
+    "types": ["Rock", "Ground"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Derek Stingley Jr.",
@@ -3721,9 +3038,7 @@
   {
     "id": "612",
     "pokemon": "Haxorus",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Danielle Hunter",
@@ -3734,10 +3049,7 @@
   {
     "id": "452",
     "pokemon": "Drapion",
-    "types": [
-      "Poison",
-      "Dark"
-    ],
+    "types": ["Poison", "Dark"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Jalen Pitre",
@@ -3748,10 +3060,7 @@
   {
     "id": "251",
     "pokemon": "Celebi",
-    "types": [
-      "Psychic",
-      "Grass"
-    ],
+    "types": ["Psychic", "Grass"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Kamari Lassiter",
@@ -3762,10 +3071,7 @@
   {
     "id": "205",
     "pokemon": "Forretress",
-    "types": [
-      "Bug",
-      "Steel"
-    ],
+    "types": ["Bug", "Steel"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Azeez Al-Shaair",
@@ -3776,10 +3082,7 @@
   {
     "id": "416",
     "pokemon": "Vespiquen",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Calen Bullock",
@@ -3790,9 +3093,7 @@
   {
     "id": "549",
     "pokemon": "Lilligant",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Sheldon Rankins",
@@ -3803,9 +3104,7 @@
   {
     "id": "601",
     "pokemon": "Klinklang",
-    "types": [
-      "Steel"
-    ],
+    "types": ["Steel"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Reed Blankenship",
@@ -3816,10 +3115,7 @@
   {
     "id": "140",
     "pokemon": "Kabuto",
-    "types": [
-      "Rock",
-      "Water"
-    ],
+    "types": ["Rock", "Water"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Tommy Togiai",
@@ -3830,9 +3126,7 @@
   {
     "id": "685",
     "pokemon": "Slurpuff",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Henry To'oTo'o",
@@ -3843,9 +3137,7 @@
   {
     "id": "314",
     "pokemon": "Illumise",
-    "types": [
-      "Bug"
-    ],
+    "types": ["Bug"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jake Hansen",
@@ -3856,9 +3148,7 @@
   {
     "id": "677",
     "pokemon": "Espurr",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Daniel Jones",
@@ -3869,9 +3159,7 @@
   {
     "id": "555",
     "pokemon": "Darmanitan",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "RB",
     "defGroup": null,
     "player": "Jonathan Taylor",
@@ -3882,9 +3170,7 @@
   {
     "id": "300",
     "pokemon": "Skitty",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Seth McGowan",
@@ -3895,10 +3181,7 @@
   {
     "id": "478",
     "pokemon": "Froslass",
-    "types": [
-      "Ice",
-      "Ghost"
-    ],
+    "types": ["Ice", "Ghost"],
     "position": "WR",
     "defGroup": null,
     "player": "Keenan Allen",
@@ -3909,10 +3192,7 @@
   {
     "id": "528",
     "pokemon": "Swoobat",
-    "types": [
-      "Psychic",
-      "Flying"
-    ],
+    "types": ["Psychic", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Josh Downs",
@@ -3923,10 +3203,7 @@
   {
     "id": "396",
     "pokemon": "Starly",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Ashton Dulin",
@@ -3937,9 +3214,7 @@
   {
     "id": "656",
     "pokemon": "Froakie",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "WR",
     "defGroup": null,
     "player": "Laquon Treadwell",
@@ -3950,10 +3225,7 @@
   {
     "id": "130",
     "pokemon": "Gyarados",
-    "types": [
-      "Water",
-      "Flying"
-    ],
+    "types": ["Water", "Flying"],
     "position": "TE",
     "defGroup": null,
     "player": "Tyler Warren",
@@ -3964,9 +3236,7 @@
   {
     "id": "032",
     "pokemon": "Nidoran♂",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "TE",
     "defGroup": null,
     "player": "Will Mallory",
@@ -3977,9 +3247,7 @@
   {
     "id": "106",
     "pokemon": "Hitmonlee",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "K",
     "defGroup": null,
     "player": "Spencer Shrader",
@@ -3990,9 +3258,7 @@
   {
     "id": "030",
     "pokemon": "Nidorina",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Sauce Gardner",
@@ -4003,9 +3269,7 @@
   {
     "id": "027",
     "pokemon": "Sandshrew",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Charvarius Ward",
@@ -4016,9 +3280,7 @@
   {
     "id": "352",
     "pokemon": "Kecleon",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Cam Bynum",
@@ -4029,9 +3291,7 @@
   {
     "id": "529",
     "pokemon": "Drilbur",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Grover Stewart",
@@ -4042,9 +3302,7 @@
   {
     "id": "700",
     "pokemon": "Sylveon",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Laiatu Latu",
@@ -4055,10 +3313,7 @@
   {
     "id": "214",
     "pokemon": "Heracross",
-    "types": [
-      "Bug",
-      "Fighting"
-    ],
+    "types": ["Bug", "Fighting"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Akeem Davis-Gaither",
@@ -4069,9 +3324,7 @@
   {
     "id": "360",
     "pokemon": "Wynaut",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Jaylahn Tuimoloau",
@@ -4082,10 +3335,7 @@
   {
     "id": "629",
     "pokemon": "Vullaby",
-    "types": [
-      "Dark",
-      "Flying"
-    ],
+    "types": ["Dark", "Flying"],
     "position": "DEF",
     "defGroup": "S",
     "player": "A.J. Haulcy",
@@ -4096,9 +3346,7 @@
   {
     "id": "161",
     "pokemon": "Sentret",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "CJ Allen",
@@ -4109,10 +3357,7 @@
   {
     "id": "199",
     "pokemon": "Slowking",
-    "types": [
-      "Water",
-      "Psychic"
-    ],
+    "types": ["Water", "Psychic"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Adetomiwa Adebawore",
@@ -4123,9 +3368,7 @@
   {
     "id": "285",
     "pokemon": "Shroomish",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Bryce Boettcher",
@@ -4136,10 +3379,7 @@
   {
     "id": "699",
     "pokemon": "Aurorus",
-    "types": [
-      "Rock",
-      "Ice"
-    ],
+    "types": ["Rock", "Ice"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Justin Walley",
@@ -4150,10 +3390,7 @@
   {
     "id": "380",
     "pokemon": "Latias",
-    "types": [
-      "Dragon",
-      "Psychic"
-    ],
+    "types": ["Dragon", "Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Trevor Lawrence",
@@ -4164,9 +3401,7 @@
   {
     "id": "288",
     "pokemon": "Vigoroth",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Bhayshul Tuten",
@@ -4177,9 +3412,7 @@
   {
     "id": "431",
     "pokemon": "Glameow",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Chris Rodriguez Jr.",
@@ -4190,9 +3423,7 @@
   {
     "id": "243",
     "pokemon": "Raikou",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Parker Washington",
@@ -4203,10 +3434,7 @@
   {
     "id": "094",
     "pokemon": "Gengar",
-    "types": [
-      "Ghost",
-      "Poison"
-    ],
+    "types": ["Ghost", "Poison"],
     "position": "WR",
     "defGroup": null,
     "player": "Jakobi Meyers",
@@ -4217,10 +3445,7 @@
   {
     "id": "049",
     "pokemon": "Venomoth",
-    "types": [
-      "Bug",
-      "Poison"
-    ],
+    "types": ["Bug", "Poison"],
     "position": "WR",
     "defGroup": null,
     "player": "Brian Thomas Jr.",
@@ -4231,9 +3456,7 @@
   {
     "id": "418",
     "pokemon": "Buizel",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "WR",
     "defGroup": null,
     "player": "Josh Cameron",
@@ -4244,9 +3467,7 @@
   {
     "id": "134",
     "pokemon": "Vaporeon",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Brenton Strange",
@@ -4257,9 +3478,7 @@
   {
     "id": "422",
     "pokemon": "Shellos",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Nate Boerkircher",
@@ -4270,9 +3489,7 @@
   {
     "id": "223",
     "pokemon": "Remoraid",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "K",
     "defGroup": null,
     "player": "Cam Little",
@@ -4283,10 +3500,7 @@
   {
     "id": "711",
     "pokemon": "Gourgeist",
-    "types": [
-      "Ghost",
-      "Grass"
-    ],
+    "types": ["Ghost", "Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Josh Hines-Allen",
@@ -4297,9 +3511,7 @@
   {
     "id": "534",
     "pokemon": "Conkeldurr",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Foyesade Oluokun",
@@ -4310,10 +3522,7 @@
   {
     "id": "499",
     "pokemon": "Pignite",
-    "types": [
-      "Fire",
-      "Fighting"
-    ],
+    "types": ["Fire", "Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Travis Hunter",
@@ -4324,9 +3533,7 @@
   {
     "id": "671",
     "pokemon": "Florges",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Jourdan Lewis",
@@ -4337,9 +3544,7 @@
   {
     "id": "202",
     "pokemon": "Wobbuffet",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Antonio Johnson",
@@ -4350,9 +3555,7 @@
   {
     "id": "192",
     "pokemon": "Sunflora",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Travon Walker",
@@ -4363,9 +3566,7 @@
   {
     "id": "616",
     "pokemon": "Shelmet",
-    "types": [
-      "Bug"
-    ],
+    "types": ["Bug"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Arik Armstead",
@@ -4376,10 +3577,7 @@
   {
     "id": "459",
     "pokemon": "Snover",
-    "types": [
-      "Grass",
-      "Ice"
-    ],
+    "types": ["Grass", "Ice"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "DaVon Hamilton",
@@ -4390,9 +3588,7 @@
   {
     "id": "104",
     "pokemon": "Cubone",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Montaric Brown",
@@ -4403,9 +3599,7 @@
   {
     "id": "366",
     "pokemon": "Clamperl",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Eric Murray",
@@ -4416,10 +3610,7 @@
   {
     "id": "622",
     "pokemon": "Golett",
-    "types": [
-      "Ground",
-      "Ghost"
-    ],
+    "types": ["Ground", "Ghost"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Dennis Gardeck",
@@ -4430,10 +3621,7 @@
   {
     "id": "461",
     "pokemon": "Weavile",
-    "types": [
-      "Dark",
-      "Ice"
-    ],
+    "types": ["Dark", "Ice"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Ventrell Miller",
@@ -4444,10 +3632,7 @@
   {
     "id": "655",
     "pokemon": "Delphox",
-    "types": [
-      "Fire",
-      "Psychic"
-    ],
+    "types": ["Fire", "Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Patrick Mahomes",
@@ -4458,10 +3643,7 @@
   {
     "id": "628",
     "pokemon": "Braviary",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "RB",
     "defGroup": null,
     "player": "Kenneth Walker III",
@@ -4472,9 +3654,7 @@
   {
     "id": "132",
     "pokemon": "Ditto",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Emmett Johnson",
@@ -4485,10 +3665,7 @@
   {
     "id": "277",
     "pokemon": "Swellow",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Rashee Rice",
@@ -4499,10 +3676,7 @@
   {
     "id": "018",
     "pokemon": "Pidgeot",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Xavier Worthy",
@@ -4513,10 +3687,7 @@
   {
     "id": "661",
     "pokemon": "Fletchling",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Jalen Royals",
@@ -4527,10 +3698,7 @@
   {
     "id": "415",
     "pokemon": "Combee",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Cyrus Allen",
@@ -4541,9 +3709,7 @@
   {
     "id": "321",
     "pokemon": "Wailord",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Travis Kelce",
@@ -4554,9 +3720,7 @@
   {
     "id": "341",
     "pokemon": "Corphish",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Noah Gray",
@@ -4567,9 +3731,7 @@
   {
     "id": "037",
     "pokemon": "Vulpix",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "K",
     "defGroup": null,
     "player": "Harrison Butker",
@@ -4580,9 +3742,7 @@
   {
     "id": "148",
     "pokemon": "Dragonair",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Chris Jones",
@@ -4593,10 +3753,7 @@
   {
     "id": "560",
     "pokemon": "Scrafty",
-    "types": [
-      "Dark",
-      "Fighting"
-    ],
+    "types": ["Dark", "Fighting"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Drue Tranquill",
@@ -4607,10 +3764,7 @@
   {
     "id": "638",
     "pokemon": "Cobalion",
-    "types": [
-      "Steel",
-      "Fighting"
-    ],
+    "types": ["Steel", "Fighting"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "George Karlaftis",
@@ -4621,10 +3775,7 @@
   {
     "id": "553",
     "pokemon": "Krookodile",
-    "types": [
-      "Ground",
-      "Dark"
-    ],
+    "types": ["Ground", "Dark"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Mansoor Delane",
@@ -4635,10 +3786,7 @@
   {
     "id": "697",
     "pokemon": "Tyrantrum",
-    "types": [
-      "Rock",
-      "Dragon"
-    ],
+    "types": ["Rock", "Dragon"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Nick Bolton",
@@ -4649,9 +3797,7 @@
   {
     "id": "109",
     "pokemon": "Koffing",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Alohi Gilman",
@@ -4662,9 +3808,7 @@
   {
     "id": "110",
     "pokemon": "Weezing",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Nohl Williams",
@@ -4675,10 +3819,7 @@
   {
     "id": "448",
     "pokemon": "Lucario",
-    "types": [
-      "Fighting",
-      "Steel"
-    ],
+    "types": ["Fighting", "Steel"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "L'Jarius Sneed",
@@ -4689,10 +3830,7 @@
   {
     "id": "221",
     "pokemon": "Piloswine",
-    "types": [
-      "Ice",
-      "Ground"
-    ],
+    "types": ["Ice", "Ground"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Chamarri Conner",
@@ -4703,9 +3841,7 @@
   {
     "id": "619",
     "pokemon": "Mienfoo",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Felix Anudike-Uzomah",
@@ -4716,10 +3852,7 @@
   {
     "id": "292",
     "pokemon": "Shedinja",
-    "types": [
-      "Bug",
-      "Ghost"
-    ],
+    "types": ["Bug", "Ghost"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Khyiris Tonga",
@@ -4730,10 +3863,7 @@
   {
     "id": "167",
     "pokemon": "Spinarak",
-    "types": [
-      "Bug",
-      "Poison"
-    ],
+    "types": ["Bug", "Poison"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jeffrey Bassa",
@@ -4744,9 +3874,7 @@
   {
     "id": "065",
     "pokemon": "Alakazam",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Matthew Stafford",
@@ -4757,10 +3885,7 @@
   {
     "id": "521",
     "pokemon": "Unfezant",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "RB",
     "defGroup": null,
     "player": "Kyren Williams",
@@ -4771,9 +3896,7 @@
   {
     "id": "301",
     "pokemon": "Delcatty",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Blake Corum",
@@ -4784,10 +3907,7 @@
   {
     "id": "291",
     "pokemon": "Ninjask",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Puka Nacua",
@@ -4798,10 +3918,7 @@
   {
     "id": "595",
     "pokemon": "Joltik",
-    "types": [
-      "Bug",
-      "Electric"
-    ],
+    "types": ["Bug", "Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Tutu Atwell",
@@ -4812,10 +3929,7 @@
   {
     "id": "041",
     "pokemon": "Zubat",
-    "types": [
-      "Poison",
-      "Flying"
-    ],
+    "types": ["Poison", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Jordan Whittington",
@@ -4826,10 +3940,7 @@
   {
     "id": "164",
     "pokemon": "Noctowl",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Konata Mumpfield",
@@ -4840,10 +3951,7 @@
   {
     "id": "171",
     "pokemon": "Lanturn",
-    "types": [
-      "Water",
-      "Electric"
-    ],
+    "types": ["Water", "Electric"],
     "position": "TE",
     "defGroup": null,
     "player": "Tyler Higbee",
@@ -4854,10 +3962,7 @@
   {
     "id": "272",
     "pokemon": "Ludicolo",
-    "types": [
-      "Water",
-      "Grass"
-    ],
+    "types": ["Water", "Grass"],
     "position": "TE",
     "defGroup": null,
     "player": "Colby Parkinson",
@@ -4868,9 +3973,7 @@
   {
     "id": "173",
     "pokemon": "Cleffa",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "K",
     "defGroup": null,
     "player": "Brandon McManus",
@@ -4881,9 +3984,7 @@
   {
     "id": "356",
     "pokemon": "Dusclops",
-    "types": [
-      "Ghost"
-    ],
+    "types": ["Ghost"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Trent McDuffie",
@@ -4894,10 +3995,7 @@
   {
     "id": "246",
     "pokemon": "Larvitar",
-    "types": [
-      "Rock",
-      "Ground"
-    ],
+    "types": ["Rock", "Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Aaron Donald",
@@ -4908,9 +4006,7 @@
   {
     "id": "382",
     "pokemon": "Kyogre",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Byron Young",
@@ -4921,9 +4017,7 @@
   {
     "id": "488",
     "pokemon": "Cresselia",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Nate Landman",
@@ -4934,10 +4028,7 @@
   {
     "id": "646",
     "pokemon": "Kyurem",
-    "types": [
-      "Dragon",
-      "Ice"
-    ],
+    "types": ["Dragon", "Ice"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Quentin Lake",
@@ -4948,9 +4039,7 @@
   {
     "id": "518",
     "pokemon": "Musharna",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Kam Curl",
@@ -4961,10 +4050,7 @@
   {
     "id": "537",
     "pokemon": "Seismitoad",
-    "types": [
-      "Water",
-      "Ground"
-    ],
+    "types": ["Water", "Ground"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Jaylen Watson",
@@ -4975,9 +4061,7 @@
   {
     "id": "181",
     "pokemon": "Ampharos",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Kamren Kinchens",
@@ -4988,9 +4072,7 @@
   {
     "id": "650",
     "pokemon": "Chespin",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Braden Fiske",
@@ -5001,9 +4083,7 @@
   {
     "id": "471",
     "pokemon": "Glaceon",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Omar Speights",
@@ -5014,9 +4094,7 @@
   {
     "id": "261",
     "pokemon": "Poochyena",
-    "types": [
-      "Dark"
-    ],
+    "types": ["Dark"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Ty Hamilton",
@@ -5027,9 +4105,7 @@
   {
     "id": "495",
     "pokemon": "Snivy",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Desjuan Johnson",
@@ -5040,10 +4116,7 @@
   {
     "id": "238",
     "pokemon": "Smoochum",
-    "types": [
-      "Ice",
-      "Psychic"
-    ],
+    "types": ["Ice", "Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Justin Herbert",
@@ -5054,9 +4127,7 @@
   {
     "id": "295",
     "pokemon": "Exploud",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Omarion Hampton",
@@ -5067,9 +4138,7 @@
   {
     "id": "133",
     "pokemon": "Eevee",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Keaton Mitchell",
@@ -5080,9 +4149,7 @@
   {
     "id": "310",
     "pokemon": "Manectric",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Ladd McConkey",
@@ -5093,10 +4160,7 @@
   {
     "id": "189",
     "pokemon": "Jumpluff",
-    "types": [
-      "Grass",
-      "Flying"
-    ],
+    "types": ["Grass", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Quentin Johnston",
@@ -5107,9 +4171,7 @@
   {
     "id": "311",
     "pokemon": "Plusle",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Tre' Harris",
@@ -5120,9 +4182,7 @@
   {
     "id": "309",
     "pokemon": "Electrike",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "KeAndre Lambert-Smith",
@@ -5133,9 +4193,7 @@
   {
     "id": "457",
     "pokemon": "Lumineon",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Oronde Gadsden",
@@ -5146,9 +4204,7 @@
   {
     "id": "258",
     "pokemon": "Mudkip",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Charlie Kolar",
@@ -5159,10 +4215,7 @@
   {
     "id": "069",
     "pokemon": "Bellsprout",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "K",
     "defGroup": null,
     "player": "Cameron Dicker",
@@ -5173,9 +4226,7 @@
   {
     "id": "233",
     "pokemon": "Porygon2",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Derwin James Jr.",
@@ -5186,10 +4237,7 @@
   {
     "id": "632",
     "pokemon": "Durant",
-    "types": [
-      "Bug",
-      "Steel"
-    ],
+    "types": ["Bug", "Steel"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Khalil Mack",
@@ -5200,10 +4248,7 @@
   {
     "id": "710",
     "pokemon": "Pumpkaboo",
-    "types": [
-      "Ghost",
-      "Grass"
-    ],
+    "types": ["Ghost", "Grass"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Donte Jackson",
@@ -5214,10 +4259,7 @@
   {
     "id": "597",
     "pokemon": "Ferroseed",
-    "types": [
-      "Grass",
-      "Steel"
-    ],
+    "types": ["Grass", "Steel"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Tarheeb Still",
@@ -5228,10 +4270,7 @@
   {
     "id": "625",
     "pokemon": "Bisharp",
-    "types": [
-      "Dark",
-      "Steel"
-    ],
+    "types": ["Dark", "Steel"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Daiyan Henley",
@@ -5242,9 +4281,7 @@
   {
     "id": "379",
     "pokemon": "Registeel",
-    "types": [
-      "Steel"
-    ],
+    "types": ["Steel"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Tuli Tuipulotu",
@@ -5255,10 +4292,7 @@
   {
     "id": "536",
     "pokemon": "Palpitoad",
-    "types": [
-      "Water",
-      "Ground"
-    ],
+    "types": ["Water", "Ground"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Elijah Molden",
@@ -5269,9 +4303,7 @@
   {
     "id": "035",
     "pokemon": "Clefairy",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Teair Tart",
@@ -5282,10 +4314,7 @@
   {
     "id": "430",
     "pokemon": "Honchkrow",
-    "types": [
-      "Dark",
-      "Flying"
-    ],
+    "types": ["Dark", "Flying"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Cam Hart",
@@ -5296,9 +4325,7 @@
   {
     "id": "682",
     "pokemon": "Spritzee",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Justin Eboigbe",
@@ -5309,9 +4336,7 @@
   {
     "id": "007",
     "pokemon": "Squirtle",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Jamaree Caldwell",
@@ -5322,9 +4347,7 @@
   {
     "id": "209",
     "pokemon": "Snubbull",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Del'Shawn Phillips",
@@ -5335,9 +4358,7 @@
   {
     "id": "358",
     "pokemon": "Chimecho",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Kirk Cousins",
@@ -5348,9 +4369,7 @@
   {
     "id": "241",
     "pokemon": "Miltank",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Ashton Jeanty",
@@ -5361,10 +4380,7 @@
   {
     "id": "519",
     "pokemon": "Pidove",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "RB",
     "defGroup": null,
     "player": "Mike Washington Jr.",
@@ -5375,10 +4391,7 @@
   {
     "id": "701",
     "pokemon": "Hawlucha",
-    "types": [
-      "Fighting",
-      "Flying"
-    ],
+    "types": ["Fighting", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Tre Tucker",
@@ -5389,9 +4402,7 @@
   {
     "id": "370",
     "pokemon": "Luvdisc",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "WR",
     "defGroup": null,
     "player": "Jalen Nailor",
@@ -5402,9 +4413,7 @@
   {
     "id": "025",
     "pokemon": "Pikachu",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Cody White",
@@ -5415,10 +4424,7 @@
   {
     "id": "165",
     "pokemon": "Ledyba",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Dont'e Thornton Jr.",
@@ -5429,9 +4435,7 @@
   {
     "id": "594",
     "pokemon": "Alomomola",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Brock Bowers",
@@ -5442,9 +4446,7 @@
   {
     "id": "489",
     "pokemon": "Phione",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Michael Mayer",
@@ -5455,9 +4457,7 @@
   {
     "id": "155",
     "pokemon": "Cyndaquil",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "K",
     "defGroup": null,
     "player": "Matt Gay",
@@ -5468,10 +4468,7 @@
   {
     "id": "639",
     "pokemon": "Terrakion",
-    "types": [
-      "Rock",
-      "Fighting"
-    ],
+    "types": ["Rock", "Fighting"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Maxx Crosby",
@@ -5482,10 +4479,7 @@
   {
     "id": "337",
     "pokemon": "Lunatone",
-    "types": [
-      "Rock",
-      "Psychic"
-    ],
+    "types": ["Rock", "Psychic"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Taron Johnson",
@@ -5496,9 +4490,7 @@
   {
     "id": "492",
     "pokemon": "Shaymin",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Jeremy Chinn",
@@ -5509,9 +4501,7 @@
   {
     "id": "465",
     "pokemon": "Tangrowth",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Quay Walker",
@@ -5522,10 +4512,7 @@
   {
     "id": "250",
     "pokemon": "Ho-Oh",
-    "types": [
-      "Fire",
-      "Flying"
-    ],
+    "types": ["Fire", "Flying"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Nakobe Dean",
@@ -5536,9 +4523,7 @@
   {
     "id": "408",
     "pokemon": "Cranidos",
-    "types": [
-      "Rock"
-    ],
+    "types": ["Rock"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Kwity Paye",
@@ -5549,10 +4534,7 @@
   {
     "id": "624",
     "pokemon": "Pawniard",
-    "types": [
-      "Dark",
-      "Steel"
-    ],
+    "types": ["Dark", "Steel"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Eric Stokes",
@@ -5563,9 +4545,7 @@
   {
     "id": "206",
     "pokemon": "Dunsparce",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Treydan Stukes",
@@ -5576,10 +4556,7 @@
   {
     "id": "290",
     "pokemon": "Nincada",
-    "types": [
-      "Bug",
-      "Ground"
-    ],
+    "types": ["Bug", "Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Folorunso Fatukasi",
@@ -5590,10 +4567,7 @@
   {
     "id": "564",
     "pokemon": "Tirtouga",
-    "types": [
-      "Water",
-      "Rock"
-    ],
+    "types": ["Water", "Rock"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Darien Porter",
@@ -5604,9 +4578,7 @@
   {
     "id": "588",
     "pokemon": "Karrablast",
-    "types": [
-      "Bug"
-    ],
+    "types": ["Bug"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Adam Butler",
@@ -5617,9 +4589,7 @@
   {
     "id": "496",
     "pokemon": "Servine",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Tonka Hemingway",
@@ -5630,10 +4600,7 @@
   {
     "id": "439",
     "pokemon": "Mime Jr.",
-    "types": [
-      "Psychic",
-      "Fairy"
-    ],
+    "types": ["Psychic", "Fairy"],
     "position": "QB",
     "defGroup": null,
     "player": "Malik Willis",
@@ -5644,9 +4611,7 @@
   {
     "id": "190",
     "pokemon": "Aipom",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Ollie Gordon II",
@@ -5657,9 +4622,7 @@
   {
     "id": "504",
     "pokemon": "Patrat",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Jaylen Wright",
@@ -5670,9 +4633,7 @@
   {
     "id": "615",
     "pokemon": "Cryogonal",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "WR",
     "defGroup": null,
     "player": "Malik Washington",
@@ -5683,10 +4644,7 @@
   {
     "id": "547",
     "pokemon": "Whimsicott",
-    "types": [
-      "Grass",
-      "Fairy"
-    ],
+    "types": ["Grass", "Fairy"],
     "position": "WR",
     "defGroup": null,
     "player": "Caleb Douglas",
@@ -5697,10 +4655,7 @@
   {
     "id": "188",
     "pokemon": "Skiploom",
-    "types": [
-      "Grass",
-      "Flying"
-    ],
+    "types": ["Grass", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Chris Bell",
@@ -5711,10 +4666,7 @@
   {
     "id": "021",
     "pokemon": "Spearow",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Kevin Coleman Jr.",
@@ -5725,10 +4677,7 @@
   {
     "id": "073",
     "pokemon": "Tentacruel",
-    "types": [
-      "Water",
-      "Poison"
-    ],
+    "types": ["Water", "Poison"],
     "position": "TE",
     "defGroup": null,
     "player": "Greg Dulcich",
@@ -5739,10 +4688,7 @@
   {
     "id": "174",
     "pokemon": "Igglybuff",
-    "types": [
-      "Normal",
-      "Fairy"
-    ],
+    "types": ["Normal", "Fairy"],
     "position": "TE",
     "defGroup": null,
     "player": "Will Kacmarek",
@@ -5753,10 +4699,7 @@
   {
     "id": "270",
     "pokemon": "Lotad",
-    "types": [
-      "Water",
-      "Grass"
-    ],
+    "types": ["Water", "Grass"],
     "position": "K",
     "defGroup": null,
     "player": "Zane Gonzalez",
@@ -5767,10 +4710,7 @@
   {
     "id": "565",
     "pokemon": "Carracosta",
-    "types": [
-      "Water",
-      "Rock"
-    ],
+    "types": ["Water", "Rock"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jordyn Brooks",
@@ -5781,10 +4721,7 @@
   {
     "id": "047",
     "pokemon": "Parasect",
-    "types": [
-      "Bug",
-      "Grass"
-    ],
+    "types": ["Bug", "Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Zach Sieler",
@@ -5795,9 +4732,7 @@
   {
     "id": "151",
     "pokemon": "Mew",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jacob Rodriguez",
@@ -5808,10 +4743,7 @@
   {
     "id": "340",
     "pokemon": "Whiscash",
-    "types": [
-      "Water",
-      "Ground"
-    ],
+    "types": ["Water", "Ground"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Chris Johnson",
@@ -5822,9 +4754,7 @@
   {
     "id": "204",
     "pokemon": "Pineco",
-    "types": [
-      "Bug"
-    ],
+    "types": ["Bug"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Josh Uche",
@@ -5835,10 +4765,7 @@
   {
     "id": "679",
     "pokemon": "Honedge",
-    "types": [
-      "Steel",
-      "Ghost"
-    ],
+    "types": ["Steel", "Ghost"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Chop Robinson",
@@ -5849,10 +4776,7 @@
   {
     "id": "443",
     "pokemon": "Gible",
-    "types": [
-      "Dragon",
-      "Ground"
-    ],
+    "types": ["Dragon", "Ground"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "JuJu Brents",
@@ -5863,10 +4787,7 @@
   {
     "id": "333",
     "pokemon": "Swablu",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Willie Gay Jr.",
@@ -5877,9 +4798,7 @@
   {
     "id": "412",
     "pokemon": "Burmy",
-    "types": [
-      "Bug"
-    ],
+    "types": ["Bug"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Jordan Phillips",
@@ -5890,9 +4809,7 @@
   {
     "id": "096",
     "pokemon": "Drowzee",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Jason Marshall Jr.",
@@ -5903,9 +4820,7 @@
   {
     "id": "438",
     "pokemon": "Bonsly",
-    "types": [
-      "Rock"
-    ],
+    "types": ["Rock"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Dante Trader Jr.",
@@ -5916,10 +4831,7 @@
   {
     "id": "043",
     "pokemon": "Oddish",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Zayne Anderson",
@@ -5930,9 +4842,7 @@
   {
     "id": "605",
     "pokemon": "Elgyem",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Kyler Murray",
@@ -5943,9 +4853,7 @@
   {
     "id": "234",
     "pokemon": "Stantler",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Aaron Jones Sr.",
@@ -5956,9 +4864,7 @@
   {
     "id": "427",
     "pokemon": "Buneary",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Jordan Mason",
@@ -5969,10 +4875,7 @@
   {
     "id": "663",
     "pokemon": "Talonflame",
-    "types": [
-      "Fire",
-      "Flying"
-    ],
+    "types": ["Fire", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Justin Jefferson",
@@ -5983,10 +4886,7 @@
   {
     "id": "587",
     "pokemon": "Emolga",
-    "types": [
-      "Electric",
-      "Flying"
-    ],
+    "types": ["Electric", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Jordan Addison",
@@ -5997,10 +4897,7 @@
   {
     "id": "334",
     "pokemon": "Altaria",
-    "types": [
-      "Dragon",
-      "Flying"
-    ],
+    "types": ["Dragon", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Jauan Jennings",
@@ -6011,10 +4908,7 @@
   {
     "id": "714",
     "pokemon": "Noibat",
-    "types": [
-      "Flying",
-      "Dragon"
-    ],
+    "types": ["Flying", "Dragon"],
     "position": "WR",
     "defGroup": null,
     "player": "Tai Felton",
@@ -6025,9 +4919,7 @@
   {
     "id": "224",
     "pokemon": "Octillery",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "T.J. Hockenson",
@@ -6038,10 +4930,7 @@
   {
     "id": "039",
     "pokemon": "Jigglypuff",
-    "types": [
-      "Normal",
-      "Fairy"
-    ],
+    "types": ["Normal", "Fairy"],
     "position": "TE",
     "defGroup": null,
     "player": "Gavin Bartholomew",
@@ -6052,10 +4941,7 @@
   {
     "id": "093",
     "pokemon": "Haunter",
-    "types": [
-      "Ghost",
-      "Poison"
-    ],
+    "types": ["Ghost", "Poison"],
     "position": "K",
     "defGroup": null,
     "player": "Will Reichard",
@@ -6066,10 +4952,7 @@
   {
     "id": "500",
     "pokemon": "Emboar",
-    "types": [
-      "Fire",
-      "Fighting"
-    ],
+    "types": ["Fire", "Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Byron Murphy Jr.",
@@ -6080,9 +4963,7 @@
   {
     "id": "038",
     "pokemon": "Ninetales",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Harrison Smith",
@@ -6093,10 +4974,7 @@
   {
     "id": "226",
     "pokemon": "Mantine",
-    "types": [
-      "Water",
-      "Flying"
-    ],
+    "types": ["Water", "Flying"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Isaiah Rodgers",
@@ -6107,9 +4985,7 @@
   {
     "id": "383",
     "pokemon": "Groudon",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Blake Cashman",
@@ -6120,9 +4996,7 @@
   {
     "id": "631",
     "pokemon": "Heatmor",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Jalen Redmond",
@@ -6133,10 +5007,7 @@
   {
     "id": "719",
     "pokemon": "Diancie",
-    "types": [
-      "Rock",
-      "Fairy"
-    ],
+    "types": ["Rock", "Fairy"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Andrew Van Ginkel",
@@ -6147,10 +5018,7 @@
   {
     "id": "618",
     "pokemon": "Stunfisk",
-    "types": [
-      "Ground",
-      "Electric"
-    ],
+    "types": ["Ground", "Electric"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Joshua Metellus",
@@ -6161,9 +5029,7 @@
   {
     "id": "143",
     "pokemon": "Snorlax",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Dallas Turner",
@@ -6174,9 +5040,7 @@
   {
     "id": "706",
     "pokemon": "Goodra",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Eric Wilson",
@@ -6187,10 +5051,7 @@
   {
     "id": "392",
     "pokemon": "Infernape",
-    "types": [
-      "Fire",
-      "Fighting"
-    ],
+    "types": ["Fire", "Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "James Pierre",
@@ -6201,10 +5062,7 @@
   {
     "id": "307",
     "pokemon": "Meditite",
-    "types": [
-      "Fighting",
-      "Psychic"
-    ],
+    "types": ["Fighting", "Psychic"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Caleb Banks",
@@ -6215,10 +5073,7 @@
   {
     "id": "374",
     "pokemon": "Beldum",
-    "types": [
-      "Steel",
-      "Psychic"
-    ],
+    "types": ["Steel", "Psychic"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Levi Drake Rodriguez",
@@ -6229,10 +5084,7 @@
   {
     "id": "720",
     "pokemon": "Hoopa",
-    "types": [
-      "Psychic",
-      "Ghost"
-    ],
+    "types": ["Psychic", "Ghost"],
     "position": "QB",
     "defGroup": null,
     "player": "Drake Maye",
@@ -6243,10 +5095,7 @@
   {
     "id": "627",
     "pokemon": "Rufflet",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "RB",
     "defGroup": null,
     "player": "TreVeyon Henderson",
@@ -6257,9 +5106,7 @@
   {
     "id": "157",
     "pokemon": "Typhlosion",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "RB",
     "defGroup": null,
     "player": "Rhamondre Stevenson",
@@ -6270,9 +5117,7 @@
   {
     "id": "126",
     "pokemon": "Magmar",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "WR",
     "defGroup": null,
     "player": "A.J. Brown",
@@ -6283,10 +5128,7 @@
   {
     "id": "469",
     "pokemon": "Yanmega",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "DeMario Douglas",
@@ -6297,10 +5139,7 @@
   {
     "id": "267",
     "pokemon": "Beautifly",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Kyle Williams",
@@ -6311,10 +5150,7 @@
   {
     "id": "012",
     "pokemon": "Butterfree",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Efton Chism III",
@@ -6325,9 +5161,7 @@
   {
     "id": "503",
     "pokemon": "Samurott",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Hunter Henry",
@@ -6338,10 +5172,7 @@
   {
     "id": "184",
     "pokemon": "Azumarill",
-    "types": [
-      "Water",
-      "Fairy"
-    ],
+    "types": ["Water", "Fairy"],
     "position": "TE",
     "defGroup": null,
     "player": "Eli Raridon",
@@ -6352,10 +5183,7 @@
   {
     "id": "281",
     "pokemon": "Kirlia",
-    "types": [
-      "Psychic",
-      "Fairy"
-    ],
+    "types": ["Psychic", "Fairy"],
     "position": "K",
     "defGroup": null,
     "player": "Andy Borregales",
@@ -6366,10 +5194,7 @@
   {
     "id": "207",
     "pokemon": "Gligar",
-    "types": [
-      "Ground",
-      "Flying"
-    ],
+    "types": ["Ground", "Flying"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Christian Gonzalez",
@@ -6380,10 +5205,7 @@
   {
     "id": "451",
     "pokemon": "Skorupi",
-    "types": [
-      "Poison",
-      "Bug"
-    ],
+    "types": ["Poison", "Bug"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Milton Williams",
@@ -6394,10 +5216,7 @@
   {
     "id": "304",
     "pokemon": "Aron",
-    "types": [
-      "Steel",
-      "Rock"
-    ],
+    "types": ["Steel", "Rock"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Carlton Davis III",
@@ -6408,9 +5227,7 @@
   {
     "id": "359",
     "pokemon": "Absol",
-    "types": [
-      "Dark"
-    ],
+    "types": ["Dark"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Kevin Byard",
@@ -6421,10 +5238,7 @@
   {
     "id": "395",
     "pokemon": "Empoleon",
-    "types": [
-      "Water",
-      "Steel"
-    ],
+    "types": ["Water", "Steel"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Robert Spillane",
@@ -6435,10 +5249,7 @@
   {
     "id": "703",
     "pokemon": "Carbink",
-    "types": [
-      "Rock",
-      "Fairy"
-    ],
+    "types": ["Rock", "Fairy"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Marcus Jones",
@@ -6449,9 +5260,7 @@
   {
     "id": "531",
     "pokemon": "Audino",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Craig Woodson",
@@ -6462,10 +5271,7 @@
   {
     "id": "074",
     "pokemon": "Geodude",
-    "types": [
-      "Rock",
-      "Ground"
-    ],
+    "types": ["Rock", "Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Christian Barmore",
@@ -6476,9 +5282,7 @@
   {
     "id": "712",
     "pokemon": "Bergmite",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Dre'Mont Jones",
@@ -6489,10 +5293,7 @@
   {
     "id": "227",
     "pokemon": "Skarmory",
-    "types": [
-      "Steel",
-      "Flying"
-    ],
+    "types": ["Steel", "Flying"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Christian Elliss",
@@ -6503,10 +5304,7 @@
   {
     "id": "623",
     "pokemon": "Golurk",
-    "types": [
-      "Ground",
-      "Ghost"
-    ],
+    "types": ["Ground", "Ghost"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Elijah Ponder",
@@ -6517,10 +5315,7 @@
   {
     "id": "081",
     "pokemon": "Magnemite",
-    "types": [
-      "Electric",
-      "Steel"
-    ],
+    "types": ["Electric", "Steel"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Cory Durden",
@@ -6531,9 +5326,7 @@
   {
     "id": "576",
     "pokemon": "Gothitelle",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Tyler Shough",
@@ -6544,9 +5337,7 @@
   {
     "id": "053",
     "pokemon": "Persian",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Alvin Kamara",
@@ -6557,9 +5348,7 @@
   {
     "id": "052",
     "pokemon": "Meowth",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Kendre Miller",
@@ -6570,10 +5359,7 @@
   {
     "id": "567",
     "pokemon": "Archeops",
-    "types": [
-      "Rock",
-      "Flying"
-    ],
+    "types": ["Rock", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Chris Olave",
@@ -6584,10 +5370,7 @@
   {
     "id": "146",
     "pokemon": "Moltres",
-    "types": [
-      "Fire",
-      "Flying"
-    ],
+    "types": ["Fire", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Devaughn Vele",
@@ -6598,10 +5381,7 @@
   {
     "id": "425",
     "pokemon": "Drifloon",
-    "types": [
-      "Ghost",
-      "Flying"
-    ],
+    "types": ["Ghost", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Bryce Lance",
@@ -6612,10 +5392,7 @@
   {
     "id": "580",
     "pokemon": "Ducklett",
-    "types": [
-      "Water",
-      "Flying"
-    ],
+    "types": ["Water", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Barion Brown",
@@ -6626,10 +5403,7 @@
   {
     "id": "365",
     "pokemon": "Walrein",
-    "types": [
-      "Ice",
-      "Water"
-    ],
+    "types": ["Ice", "Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Juwan Johnson",
@@ -6640,9 +5414,7 @@
   {
     "id": "159",
     "pokemon": "Croconaw",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Noah Fant",
@@ -6653,9 +5425,7 @@
   {
     "id": "420",
     "pokemon": "Cherubi",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "K",
     "defGroup": null,
     "player": "Daniel Carlson",
@@ -6666,10 +5436,7 @@
   {
     "id": "213",
     "pokemon": "Shuckle",
-    "types": [
-      "Bug",
-      "Rock"
-    ],
+    "types": ["Bug", "Rock"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Chase Young",
@@ -6680,9 +5447,7 @@
   {
     "id": "378",
     "pokemon": "Regice",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Kaden Elliss",
@@ -6693,10 +5458,7 @@
   {
     "id": "222",
     "pokemon": "Corsola",
-    "types": [
-      "Water",
-      "Rock"
-    ],
+    "types": ["Water", "Rock"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Justin Reid",
@@ -6707,10 +5469,7 @@
   {
     "id": "002",
     "pokemon": "Ivysaur",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Cameron Jordan",
@@ -6721,10 +5480,7 @@
   {
     "id": "144",
     "pokemon": "Articuno",
-    "types": [
-      "Ice",
-      "Flying"
-    ],
+    "types": ["Ice", "Flying"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Carl Granderson",
@@ -6735,10 +5491,7 @@
   {
     "id": "062",
     "pokemon": "Poliwrath",
-    "types": [
-      "Water",
-      "Fighting"
-    ],
+    "types": ["Water", "Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Martin Emerson Jr.",
@@ -6749,10 +5502,7 @@
   {
     "id": "071",
     "pokemon": "Victreebel",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Kool-Aid McKinstry",
@@ -6763,9 +5513,7 @@
   {
     "id": "313",
     "pokemon": "Volbeat",
-    "types": [
-      "Bug"
-    ],
+    "types": ["Bug"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Julian Blackmon",
@@ -6776,9 +5524,7 @@
   {
     "id": "533",
     "pokemon": "Gurdurr",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Jonas Sanker",
@@ -6789,10 +5535,7 @@
   {
     "id": "472",
     "pokemon": "Gliscor",
-    "types": [
-      "Ground",
-      "Flying"
-    ],
+    "types": ["Ground", "Flying"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Pete Werner",
@@ -6803,10 +5546,7 @@
   {
     "id": "102",
     "pokemon": "Exeggcute",
-    "types": [
-      "Grass",
-      "Psychic"
-    ],
+    "types": ["Grass", "Psychic"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Nathan Shepherd",
@@ -6817,10 +5557,7 @@
   {
     "id": "453",
     "pokemon": "Croagunk",
-    "types": [
-      "Poison",
-      "Fighting"
-    ],
+    "types": ["Poison", "Fighting"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Vernon Broughton",
@@ -6831,9 +5568,7 @@
   {
     "id": "433",
     "pokemon": "Chingling",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "J.J. McCarthy",
@@ -6844,9 +5579,7 @@
   {
     "id": "514",
     "pokemon": "Simisear",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "RB",
     "defGroup": null,
     "player": "Cam Skattebo",
@@ -6857,10 +5590,7 @@
   {
     "id": "520",
     "pokemon": "Tranquill",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "RB",
     "defGroup": null,
     "player": "Devin Singletary",
@@ -6871,10 +5601,7 @@
   {
     "id": "373",
     "pokemon": "Salamence",
-    "types": [
-      "Dragon",
-      "Flying"
-    ],
+    "types": ["Dragon", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Malik Nabers",
@@ -6885,10 +5612,7 @@
   {
     "id": "397",
     "pokemon": "Staravia",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Darnell Mooney",
@@ -6899,9 +5623,7 @@
   {
     "id": "253",
     "pokemon": "Grovyle",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "WR",
     "defGroup": null,
     "player": "Malachi Fields",
@@ -6912,10 +5634,7 @@
   {
     "id": "458",
     "pokemon": "Mantyke",
-    "types": [
-      "Water",
-      "Flying"
-    ],
+    "types": ["Water", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Charlie Jones",
@@ -6926,10 +5645,7 @@
   {
     "id": "091",
     "pokemon": "Cloyster",
-    "types": [
-      "Water",
-      "Ice"
-    ],
+    "types": ["Water", "Ice"],
     "position": "TE",
     "defGroup": null,
     "player": "Isaiah Likely",
@@ -6940,9 +5656,7 @@
   {
     "id": "502",
     "pokemon": "Dewott",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Theo Johnson",
@@ -6953,10 +5667,7 @@
   {
     "id": "001",
     "pokemon": "Bulbasaur",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "K",
     "defGroup": null,
     "player": "Dominic Zvada",
@@ -6967,9 +5678,7 @@
   {
     "id": "481",
     "pokemon": "Mesprit",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Jevon Holland",
@@ -6980,9 +5689,7 @@
   {
     "id": "562",
     "pokemon": "Yamask",
-    "types": [
-      "Ghost"
-    ],
+    "types": ["Ghost"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "DJ Reader",
@@ -6993,10 +5700,7 @@
   {
     "id": "375",
     "pokemon": "Metang",
-    "types": [
-      "Steel",
-      "Psychic"
-    ],
+    "types": ["Steel", "Psychic"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Abdul Carter",
@@ -7007,9 +5711,7 @@
   {
     "id": "716",
     "pokemon": "Xerneas",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Arvell Reese",
@@ -7020,10 +5722,7 @@
   {
     "id": "454",
     "pokemon": "Toxicroak",
-    "types": [
-      "Poison",
-      "Fighting"
-    ],
+    "types": ["Poison", "Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Greg Newsome II",
@@ -7034,10 +5733,7 @@
   {
     "id": "647",
     "pokemon": "Keldeo",
-    "types": [
-      "Water",
-      "Fighting"
-    ],
+    "types": ["Water", "Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Dru Phillips",
@@ -7048,10 +5744,7 @@
   {
     "id": "708",
     "pokemon": "Phantump",
-    "types": [
-      "Ghost",
-      "Grass"
-    ],
+    "types": ["Ghost", "Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Kayvon Thibodeaux",
@@ -7062,10 +5755,7 @@
   {
     "id": "688",
     "pokemon": "Binacle",
-    "types": [
-      "Rock",
-      "Water"
-    ],
+    "types": ["Rock", "Water"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Shelby Harris",
@@ -7076,10 +5766,7 @@
   {
     "id": "347",
     "pokemon": "Anorith",
-    "types": [
-      "Rock",
-      "Bug"
-    ],
+    "types": ["Rock", "Bug"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Paulson Adebo",
@@ -7090,10 +5777,7 @@
   {
     "id": "592",
     "pokemon": "Frillish",
-    "types": [
-      "Water",
-      "Ghost"
-    ],
+    "types": ["Water", "Ghost"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Micah McFadden",
@@ -7104,10 +5788,7 @@
   {
     "id": "634",
     "pokemon": "Zweilous",
-    "types": [
-      "Dark",
-      "Dragon"
-    ],
+    "types": ["Dark", "Dragon"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Tyler Nubin",
@@ -7118,9 +5799,7 @@
   {
     "id": "613",
     "pokemon": "Cubchoo",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Darius Alexander",
@@ -7131,9 +5810,7 @@
   {
     "id": "575",
     "pokemon": "Gothorita",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Geno Smith",
@@ -7144,9 +5821,7 @@
   {
     "id": "428",
     "pokemon": "Lopunny",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Breece Hall",
@@ -7157,9 +5832,7 @@
   {
     "id": "005",
     "pokemon": "Charmeleon",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "RB",
     "defGroup": null,
     "player": "Braelon Allen",
@@ -7170,9 +5843,7 @@
   {
     "id": "254",
     "pokemon": "Sceptile",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "WR",
     "defGroup": null,
     "player": "Garrett Wilson",
@@ -7183,9 +5854,7 @@
   {
     "id": "051",
     "pokemon": "Dugtrio",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "WR",
     "defGroup": null,
     "player": "Omar Cooper Jr.",
@@ -7196,10 +5865,7 @@
   {
     "id": "468",
     "pokemon": "Togekiss",
-    "types": [
-      "Fairy",
-      "Flying"
-    ],
+    "types": ["Fairy", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Adonai Mitchell",
@@ -7210,10 +5876,7 @@
   {
     "id": "278",
     "pokemon": "Wingull",
-    "types": [
-      "Water",
-      "Flying"
-    ],
+    "types": ["Water", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Tim Patrick",
@@ -7224,9 +5887,7 @@
   {
     "id": "117",
     "pokemon": "Seadra",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Kenyon Sadiq",
@@ -7237,10 +5898,7 @@
   {
     "id": "087",
     "pokemon": "Dewgong",
-    "types": [
-      "Water",
-      "Ice"
-    ],
+    "types": ["Water", "Ice"],
     "position": "TE",
     "defGroup": null,
     "player": "Mason Taylor",
@@ -7251,9 +5909,7 @@
   {
     "id": "509",
     "pokemon": "Purrloin",
-    "types": [
-      "Dark"
-    ],
+    "types": ["Dark"],
     "position": "K",
     "defGroup": null,
     "player": "Jason Sanders",
@@ -7264,10 +5920,7 @@
   {
     "id": "473",
     "pokemon": "Mamoswine",
-    "types": [
-      "Ice",
-      "Ground"
-    ],
+    "types": ["Ice", "Ground"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Demario Davis",
@@ -7278,10 +5931,7 @@
   {
     "id": "494",
     "pokemon": "Victini",
-    "types": [
-      "Psychic",
-      "Fire"
-    ],
+    "types": ["Psychic", "Fire"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Minkah Fitzpatrick",
@@ -7292,10 +5942,7 @@
   {
     "id": "208",
     "pokemon": "Steelix",
-    "types": [
-      "Steel",
-      "Ground"
-    ],
+    "types": ["Steel", "Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "David Bailey",
@@ -7306,9 +5953,7 @@
   {
     "id": "056",
     "pokemon": "Mankey",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "T'Vondre Sweat",
@@ -7319,9 +5964,7 @@
   {
     "id": "538",
     "pokemon": "Throh",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Dane Belton",
@@ -7332,9 +5975,7 @@
   {
     "id": "331",
     "pokemon": "Cacnea",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Harrison Phillips",
@@ -7345,9 +5986,7 @@
   {
     "id": "362",
     "pokemon": "Glalie",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Brandon Stephens",
@@ -7358,10 +5997,7 @@
   {
     "id": "718",
     "pokemon": "Zygarde",
-    "types": [
-      "Dragon",
-      "Ground"
-    ],
+    "types": ["Dragon", "Ground"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jamien Sherwood",
@@ -7372,9 +6008,7 @@
   {
     "id": "449",
     "pokemon": "Hippopotas",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Jarvis Brownlee Jr.",
@@ -7385,10 +6019,7 @@
   {
     "id": "082",
     "pokemon": "Magneton",
-    "types": [
-      "Electric",
-      "Steel"
-    ],
+    "types": ["Electric", "Steel"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Azareye'h Thomas",
@@ -7399,9 +6030,7 @@
   {
     "id": "371",
     "pokemon": "Bagon",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Trevin Wallace",
@@ -7412,9 +6041,7 @@
   {
     "id": "651",
     "pokemon": "Quilladin",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Kingsley Enagbare",
@@ -7425,9 +6052,7 @@
   {
     "id": "517",
     "pokemon": "Munna",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Tanner McKee",
@@ -7438,9 +6063,7 @@
   {
     "id": "162",
     "pokemon": "Furret",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Saquon Barkley",
@@ -7451,9 +6074,7 @@
   {
     "id": "513",
     "pokemon": "Pansear",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "RB",
     "defGroup": null,
     "player": "Dameon Pierce",
@@ -7464,10 +6085,7 @@
   {
     "id": "645",
     "pokemon": "Landorus",
-    "types": [
-      "Ground",
-      "Flying"
-    ],
+    "types": ["Ground", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "DeVonta Smith",
@@ -7478,10 +6096,7 @@
   {
     "id": "407",
     "pokemon": "Roserade",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "WR",
     "defGroup": null,
     "player": "Dontayvion Wicks",
@@ -7492,10 +6107,7 @@
   {
     "id": "426",
     "pokemon": "Drifblim",
-    "types": [
-      "Ghost",
-      "Flying"
-    ],
+    "types": ["Ghost", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Makai Lemon",
@@ -7506,9 +6118,7 @@
   {
     "id": "312",
     "pokemon": "Minun",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Darius Cooper",
@@ -7519,9 +6129,7 @@
   {
     "id": "099",
     "pokemon": "Kingler",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Dallas Goedert",
@@ -7532,10 +6140,7 @@
   {
     "id": "363",
     "pokemon": "Spheal",
-    "types": [
-      "Ice",
-      "Water"
-    ],
+    "types": ["Ice", "Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Johnny Mundt",
@@ -7546,9 +6151,7 @@
   {
     "id": "218",
     "pokemon": "Slugma",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "K",
     "defGroup": null,
     "player": "Jake Elliott",
@@ -7559,10 +6162,7 @@
   {
     "id": "149",
     "pokemon": "Dragonite",
-    "types": [
-      "Dragon",
-      "Flying"
-    ],
+    "types": ["Dragon", "Flying"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Zack Baun",
@@ -7573,10 +6173,7 @@
   {
     "id": "475",
     "pokemon": "Gallade",
-    "types": [
-      "Psychic",
-      "Fighting"
-    ],
+    "types": ["Psychic", "Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Quinyon Mitchell",
@@ -7587,10 +6184,7 @@
   {
     "id": "330",
     "pokemon": "Flygon",
-    "types": [
-      "Ground",
-      "Dragon"
-    ],
+    "types": ["Ground", "Dragon"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Jalen Carter",
@@ -7601,9 +6195,7 @@
   {
     "id": "297",
     "pokemon": "Hariyama",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Cooper DeJean",
@@ -7614,10 +6206,7 @@
   {
     "id": "540",
     "pokemon": "Sewaddle",
-    "types": [
-      "Bug",
-      "Grass"
-    ],
+    "types": ["Bug", "Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jonathan Greenard",
@@ -7628,9 +6217,7 @@
   {
     "id": "354",
     "pokemon": "Banette",
-    "types": [
-      "Ghost"
-    ],
+    "types": ["Ghost"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Riq Woolen",
@@ -7641,10 +6228,7 @@
   {
     "id": "410",
     "pokemon": "Shieldon",
-    "types": [
-      "Rock",
-      "Steel"
-    ],
+    "types": ["Rock", "Steel"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Nolan Smith Jr.",
@@ -7655,10 +6239,7 @@
   {
     "id": "687",
     "pokemon": "Malamar",
-    "types": [
-      "Dark",
-      "Psychic"
-    ],
+    "types": ["Dark", "Psychic"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jihaad Campbell",
@@ -7669,10 +6250,7 @@
   {
     "id": "138",
     "pokemon": "Omanyte",
-    "types": [
-      "Rock",
-      "Water"
-    ],
+    "types": ["Rock", "Water"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Moro Ojomo",
@@ -7683,10 +6261,7 @@
   {
     "id": "633",
     "pokemon": "Deino",
-    "types": [
-      "Dark",
-      "Dragon"
-    ],
+    "types": ["Dark", "Dragon"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Marcus Epps",
@@ -7697,9 +6272,7 @@
   {
     "id": "336",
     "pokemon": "Seviper",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Andrew Mukuba",
@@ -7710,9 +6283,7 @@
   {
     "id": "361",
     "pokemon": "Snorunt",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Byron Young",
@@ -7723,9 +6294,7 @@
   {
     "id": "678",
     "pokemon": "Meowstic",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Aaron Rodgers",
@@ -7736,9 +6305,7 @@
   {
     "id": "573",
     "pokemon": "Cinccino",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Jaylen Warren",
@@ -7749,9 +6316,7 @@
   {
     "id": "264",
     "pokemon": "Linoone",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Rico Dowdle",
@@ -7762,10 +6327,7 @@
   {
     "id": "145",
     "pokemon": "Zapdos",
-    "types": [
-      "Electric",
-      "Flying"
-    ],
+    "types": ["Electric", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "DK Metcalf",
@@ -7776,9 +6338,7 @@
   {
     "id": "510",
     "pokemon": "Liepard",
-    "types": [
-      "Dark"
-    ],
+    "types": ["Dark"],
     "position": "WR",
     "defGroup": null,
     "player": "Germie Bernard",
@@ -7789,10 +6349,7 @@
   {
     "id": "694",
     "pokemon": "Helioptile",
-    "types": [
-      "Electric",
-      "Normal"
-    ],
+    "types": ["Electric", "Normal"],
     "position": "WR",
     "defGroup": null,
     "player": "Ben Skowronek",
@@ -7803,9 +6360,7 @@
   {
     "id": "179",
     "pokemon": "Mareep",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Kaden Wetjen",
@@ -7816,9 +6371,7 @@
   {
     "id": "055",
     "pokemon": "Golduck",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Pat Freiermuth",
@@ -7829,9 +6382,7 @@
   {
     "id": "320",
     "pokemon": "Wailmer",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Darnell Washington",
@@ -7842,9 +6393,7 @@
   {
     "id": "670",
     "pokemon": "Floette",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "K",
     "defGroup": null,
     "player": "Chris Boswell",
@@ -7855,9 +6404,7 @@
   {
     "id": "713",
     "pokemon": "Avalugg",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "T.J. Watt",
@@ -7868,10 +6415,7 @@
   {
     "id": "460",
     "pokemon": "Abomasnow",
-    "types": [
-      "Grass",
-      "Ice"
-    ],
+    "types": ["Grass", "Ice"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Cameron Heyward",
@@ -7882,9 +6426,7 @@
   {
     "id": "463",
     "pokemon": "Lickilicky",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Jalen Ramsey",
@@ -7895,10 +6437,7 @@
   {
     "id": "260",
     "pokemon": "Swampert",
-    "types": [
-      "Water",
-      "Ground"
-    ],
+    "types": ["Water", "Ground"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Jamel Dean",
@@ -7909,9 +6448,7 @@
   {
     "id": "127",
     "pokemon": "Pinsir",
-    "types": [
-      "Bug"
-    ],
+    "types": ["Bug"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Alex Highsmith",
@@ -7922,9 +6459,7 @@
   {
     "id": "367",
     "pokemon": "Huntail",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Jaquan Brisker",
@@ -7935,9 +6470,7 @@
   {
     "id": "672",
     "pokemon": "Skiddo",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "S",
     "player": "DeShon Elliott",
@@ -7948,9 +6481,7 @@
   {
     "id": "621",
     "pokemon": "Druddigon",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Patrick Queen",
@@ -7961,10 +6492,7 @@
   {
     "id": "269",
     "pokemon": "Dustox",
-    "types": [
-      "Bug",
-      "Poison"
-    ],
+    "types": ["Bug", "Poison"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Keeanu Benton",
@@ -7975,10 +6503,7 @@
   {
     "id": "643",
     "pokemon": "Reshiram",
-    "types": [
-      "Dragon",
-      "Fire"
-    ],
+    "types": ["Dragon", "Fire"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Payton Wilson",
@@ -7989,9 +6514,7 @@
   {
     "id": "231",
     "pokemon": "Phanpy",
-    "types": [
-      "Ground"
-    ],
+    "types": ["Ground"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Asante Samuel Jr.",
@@ -8002,9 +6525,7 @@
   {
     "id": "287",
     "pokemon": "Slakoth",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Yahya Black",
@@ -8015,9 +6536,7 @@
   {
     "id": "325",
     "pokemon": "Spoink",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Sam Darnold",
@@ -8028,9 +6547,7 @@
   {
     "id": "506",
     "pokemon": "Lillipup",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Zach Charbonnet",
@@ -8041,9 +6558,7 @@
   {
     "id": "351",
     "pokemon": "Castform",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Emanuel Wilson",
@@ -8054,9 +6569,7 @@
   {
     "id": "386",
     "pokemon": "Deoxys",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "WR",
     "defGroup": null,
     "player": "Jaxon Smith-Njigba",
@@ -8067,9 +6580,7 @@
   {
     "id": "657",
     "pokemon": "Frogadier",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "WR",
     "defGroup": null,
     "player": "Cooper Kupp",
@@ -8080,10 +6591,7 @@
   {
     "id": "702",
     "pokemon": "Dedenne",
-    "types": [
-      "Electric",
-      "Fairy"
-    ],
+    "types": ["Electric", "Fairy"],
     "position": "WR",
     "defGroup": null,
     "player": "Rashid Shaheed",
@@ -8094,10 +6602,7 @@
   {
     "id": "662",
     "pokemon": "Fletchinder",
-    "types": [
-      "Fire",
-      "Flying"
-    ],
+    "types": ["Fire", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Tory Horton",
@@ -8108,9 +6613,7 @@
   {
     "id": "550",
     "pokemon": "Basculin",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "AJ Barner",
@@ -8121,9 +6624,7 @@
   {
     "id": "054",
     "pokemon": "Psyduck",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Eric Saubert",
@@ -8134,10 +6635,7 @@
   {
     "id": "092",
     "pokemon": "Gastly",
-    "types": [
-      "Ghost",
-      "Poison"
-    ],
+    "types": ["Ghost", "Poison"],
     "position": "K",
     "defGroup": null,
     "player": "Jason Myers",
@@ -8148,9 +6646,7 @@
   {
     "id": "009",
     "pokemon": "Blastoise",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Devon Witherspoon",
@@ -8161,10 +6657,7 @@
   {
     "id": "640",
     "pokemon": "Virizion",
-    "types": [
-      "Grass",
-      "Fighting"
-    ],
+    "types": ["Grass", "Fighting"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Leonard Williams",
@@ -8175,9 +6668,7 @@
   {
     "id": "603",
     "pokemon": "Eelektrik",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "DeMarcus Lawrence",
@@ -8188,10 +6679,7 @@
   {
     "id": "630",
     "pokemon": "Mandibuzz",
-    "types": [
-      "Dark",
-      "Flying"
-    ],
+    "types": ["Dark", "Flying"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Julian Love",
@@ -8202,10 +6690,7 @@
   {
     "id": "689",
     "pokemon": "Barbaracle",
-    "types": [
-      "Rock",
-      "Water"
-    ],
+    "types": ["Rock", "Water"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Nick Emmanwori",
@@ -8216,10 +6701,7 @@
   {
     "id": "249",
     "pokemon": "Lugia",
-    "types": [
-      "Psychic",
-      "Flying"
-    ],
+    "types": ["Psychic", "Flying"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Ernest Jones IV",
@@ -8230,9 +6712,7 @@
   {
     "id": "497",
     "pokemon": "Serperior",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Byron Murphy II",
@@ -8243,9 +6723,7 @@
   {
     "id": "568",
     "pokemon": "Trubbish",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Jarran Reed",
@@ -8256,10 +6734,7 @@
   {
     "id": "707",
     "pokemon": "Klefki",
-    "types": [
-      "Steel",
-      "Fairy"
-    ],
+    "types": ["Steel", "Fairy"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Josh Jobe",
@@ -8270,10 +6745,7 @@
   {
     "id": "111",
     "pokemon": "Rhyhorn",
-    "types": [
-      "Ground",
-      "Rock"
-    ],
+    "types": ["Ground", "Rock"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Uchenna Nwosu",
@@ -8284,10 +6756,7 @@
   {
     "id": "369",
     "pokemon": "Relicanth",
-    "types": [
-      "Water",
-      "Rock"
-    ],
+    "types": ["Water", "Rock"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Drake Thomas",
@@ -8298,10 +6767,7 @@
   {
     "id": "275",
     "pokemon": "Shiftry",
-    "types": [
-      "Grass",
-      "Dark"
-    ],
+    "types": ["Grass", "Dark"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Ty Okada",
@@ -8312,10 +6778,7 @@
   {
     "id": "381",
     "pokemon": "Latios",
-    "types": [
-      "Dragon",
-      "Psychic"
-    ],
+    "types": ["Dragon", "Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Brock Purdy",
@@ -8326,9 +6789,7 @@
   {
     "id": "486",
     "pokemon": "Regigigas",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Christian McCaffrey",
@@ -8339,9 +6800,7 @@
   {
     "id": "019",
     "pokemon": "Rattata",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Kaelon Black",
@@ -8352,10 +6811,7 @@
   {
     "id": "715",
     "pokemon": "Noivern",
-    "types": [
-      "Flying",
-      "Dragon"
-    ],
+    "types": ["Flying", "Dragon"],
     "position": "WR",
     "defGroup": null,
     "player": "Mike Evans",
@@ -8366,10 +6822,7 @@
   {
     "id": "545",
     "pokemon": "Scolipede",
-    "types": [
-      "Bug",
-      "Poison"
-    ],
+    "types": ["Bug", "Poison"],
     "position": "WR",
     "defGroup": null,
     "player": "Deebo Samuel",
@@ -8380,10 +6833,7 @@
   {
     "id": "017",
     "pokemon": "Pidgeotto",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Brandin Cooks",
@@ -8394,10 +6844,7 @@
   {
     "id": "318",
     "pokemon": "Carvanha",
-    "types": [
-      "Water",
-      "Dark"
-    ],
+    "types": ["Water", "Dark"],
     "position": "WR",
     "defGroup": null,
     "player": "Jordan Watkins",
@@ -8408,9 +6855,7 @@
   {
     "id": "490",
     "pokemon": "Manaphy",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "George Kittle",
@@ -8421,9 +6866,7 @@
   {
     "id": "393",
     "pokemon": "Piplup",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Luke Farrell",
@@ -8434,10 +6877,7 @@
   {
     "id": "283",
     "pokemon": "Surskit",
-    "types": [
-      "Bug",
-      "Water"
-    ],
+    "types": ["Bug", "Water"],
     "position": "K",
     "defGroup": null,
     "player": "Eddy Pineiro",
@@ -8448,9 +6888,7 @@
   {
     "id": "526",
     "pokemon": "Gigalith",
-    "types": [
-      "Rock"
-    ],
+    "types": ["Rock"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Fred Warner",
@@ -8461,10 +6899,7 @@
   {
     "id": "247",
     "pokemon": "Pupitar",
-    "types": [
-      "Rock",
-      "Ground"
-    ],
+    "types": ["Rock", "Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Nick Bosa",
@@ -8475,9 +6910,7 @@
   {
     "id": "409",
     "pokemon": "Rampardos",
-    "types": [
-      "Rock"
-    ],
+    "types": ["Rock"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "DeForest Buckner",
@@ -8488,10 +6921,7 @@
   {
     "id": "342",
     "pokemon": "Crawdaunt",
-    "types": [
-      "Water",
-      "Dark"
-    ],
+    "types": ["Water", "Dark"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Dre Greenlaw",
@@ -8502,9 +6932,7 @@
   {
     "id": "583",
     "pokemon": "Vanillish",
-    "types": [
-      "Ice"
-    ],
+    "types": ["Ice"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Deommodore Lenoir",
@@ -8515,10 +6943,7 @@
   {
     "id": "542",
     "pokemon": "Leavanny",
-    "types": [
-      "Bug",
-      "Grass"
-    ],
+    "types": ["Bug", "Grass"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Renardo Green",
@@ -8529,10 +6954,7 @@
   {
     "id": "636",
     "pokemon": "Larvesta",
-    "types": [
-      "Bug",
-      "Fire"
-    ],
+    "types": ["Bug", "Fire"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Osa Odighizuwa",
@@ -8543,10 +6965,7 @@
   {
     "id": "413",
     "pokemon": "Wormadam",
-    "types": [
-      "Bug",
-      "Grass"
-    ],
+    "types": ["Bug", "Grass"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Marques Sigle",
@@ -8557,9 +6976,7 @@
   {
     "id": "554",
     "pokemon": "Darumaka",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Upton Stout",
@@ -8570,9 +6987,7 @@
   {
     "id": "683",
     "pokemon": "Aromatisse",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Ji'Ayir Brown",
@@ -8583,10 +6998,7 @@
   {
     "id": "176",
     "pokemon": "Togetic",
-    "types": [
-      "Fairy",
-      "Flying"
-    ],
+    "types": ["Fairy", "Flying"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Keion White",
@@ -8597,9 +7009,7 @@
   {
     "id": "556",
     "pokemon": "Maractus",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Jaden Dugger",
@@ -8610,9 +7020,7 @@
   {
     "id": "577",
     "pokemon": "Solosis",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Baker Mayfield",
@@ -8623,9 +7031,7 @@
   {
     "id": "078",
     "pokemon": "Rapidash",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "RB",
     "defGroup": null,
     "player": "Bucky Irving",
@@ -8636,9 +7042,7 @@
   {
     "id": "507",
     "pokemon": "Herdier",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Kenny Gainwell",
@@ -8649,10 +7053,7 @@
   {
     "id": "022",
     "pokemon": "Fearow",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Chris Godwin Jr.",
@@ -8663,9 +7064,7 @@
   {
     "id": "026",
     "pokemon": "Raichu",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Emeka Egbuka",
@@ -8676,10 +7075,7 @@
   {
     "id": "479",
     "pokemon": "Rotom",
-    "types": [
-      "Electric",
-      "Ghost"
-    ],
+    "types": ["Electric", "Ghost"],
     "position": "WR",
     "defGroup": null,
     "player": "Tez Johnson",
@@ -8690,9 +7086,7 @@
   {
     "id": "240",
     "pokemon": "Magby",
-    "types": [
-      "Fire"
-    ],
+    "types": ["Fire"],
     "position": "WR",
     "defGroup": null,
     "player": "Ted Hurst III",
@@ -8703,10 +7097,7 @@
   {
     "id": "400",
     "pokemon": "Bibarel",
-    "types": [
-      "Normal",
-      "Water"
-    ],
+    "types": ["Normal", "Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Cade Otton",
@@ -8717,9 +7108,7 @@
   {
     "id": "440",
     "pokemon": "Happiny",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "TE",
     "defGroup": null,
     "player": "Payne Durham",
@@ -8730,9 +7119,7 @@
   {
     "id": "120",
     "pokemon": "Staryu",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "K",
     "defGroup": null,
     "player": "Chase McLaughlin",
@@ -8743,10 +7130,7 @@
   {
     "id": "557",
     "pokemon": "Dwebble",
-    "types": [
-      "Bug",
-      "Rock"
-    ],
+    "types": ["Bug", "Rock"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Vita Vea",
@@ -8757,9 +7141,7 @@
   {
     "id": "317",
     "pokemon": "Swalot",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Antoine Winfield Jr.",
@@ -8770,10 +7152,7 @@
   {
     "id": "346",
     "pokemon": "Cradily",
-    "types": [
-      "Rock",
-      "Grass"
-    ],
+    "types": ["Rock", "Grass"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Zyon McCollum",
@@ -8784,9 +7163,7 @@
   {
     "id": "154",
     "pokemon": "Meganium",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Yaya Diaby",
@@ -8797,10 +7174,7 @@
   {
     "id": "286",
     "pokemon": "Breloom",
-    "types": [
-      "Grass",
-      "Fighting"
-    ],
+    "types": ["Grass", "Fighting"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Alex Anzalone",
@@ -8811,10 +7185,7 @@
   {
     "id": "558",
     "pokemon": "Crustle",
-    "types": [
-      "Bug",
-      "Rock"
-    ],
+    "types": ["Bug", "Rock"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Tykee Smith",
@@ -8825,10 +7196,7 @@
   {
     "id": "680",
     "pokemon": "Doublade",
-    "types": [
-      "Steel",
-      "Ghost"
-    ],
+    "types": ["Steel", "Ghost"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Jacob Parrish",
@@ -8839,9 +7207,7 @@
   {
     "id": "316",
     "pokemon": "Gulpin",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Rueben Bain Jr.",
@@ -8852,10 +7218,7 @@
   {
     "id": "541",
     "pokemon": "Swadloon",
-    "types": [
-      "Bug",
-      "Grass"
-    ],
+    "types": ["Bug", "Grass"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "A'Shawn Robinson",
@@ -8866,9 +7229,7 @@
   {
     "id": "175",
     "pokemon": "Togepi",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Calijah Kancey",
@@ -8879,9 +7240,7 @@
   {
     "id": "137",
     "pokemon": "Porygon",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Benjamin Morrison",
@@ -8892,10 +7251,7 @@
   {
     "id": "464",
     "pokemon": "Rhyperior",
-    "types": [
-      "Ground",
-      "Rock"
-    ],
+    "types": ["Ground", "Rock"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Josiah Trotter",
@@ -8906,9 +7262,7 @@
   {
     "id": "574",
     "pokemon": "Gothita",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "QB",
     "defGroup": null,
     "player": "Cam Ward",
@@ -8919,9 +7273,7 @@
   {
     "id": "432",
     "pokemon": "Purugly",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Tony Pollard",
@@ -8932,9 +7284,7 @@
   {
     "id": "327",
     "pokemon": "Spinda",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Tyjae Spears",
@@ -8945,10 +7295,7 @@
   {
     "id": "319",
     "pokemon": "Sharpedo",
-    "types": [
-      "Water",
-      "Dark"
-    ],
+    "types": ["Water", "Dark"],
     "position": "WR",
     "defGroup": null,
     "player": "Wan'Dale Robinson",
@@ -8959,10 +7306,7 @@
   {
     "id": "166",
     "pokemon": "Ledian",
-    "types": [
-      "Bug",
-      "Flying"
-    ],
+    "types": ["Bug", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Calvin Ridley",
@@ -8973,10 +7317,7 @@
   {
     "id": "398",
     "pokemon": "Staraptor",
-    "types": [
-      "Normal",
-      "Flying"
-    ],
+    "types": ["Normal", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Carnell Tate",
@@ -8987,9 +7328,7 @@
   {
     "id": "239",
     "pokemon": "Elekid",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Elic Ayomanor",
@@ -9000,9 +7339,7 @@
   {
     "id": "061",
     "pokemon": "Poliwhirl",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Gunnar Helm",
@@ -9013,9 +7350,7 @@
   {
     "id": "086",
     "pokemon": "Seel",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Daniel Bellinger",
@@ -9026,10 +7361,7 @@
   {
     "id": "406",
     "pokemon": "Budew",
-    "types": [
-      "Grass",
-      "Poison"
-    ],
+    "types": ["Grass", "Poison"],
     "position": "K",
     "defGroup": null,
     "player": "Joey Slye",
@@ -9040,10 +7372,7 @@
   {
     "id": "717",
     "pokemon": "Yveltal",
-    "types": [
-      "Dark",
-      "Flying"
-    ],
+    "types": ["Dark", "Flying"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Jeffery Simmons",
@@ -9054,10 +7383,7 @@
   {
     "id": "485",
     "pokemon": "Heatran",
-    "types": [
-      "Fire",
-      "Steel"
-    ],
+    "types": ["Fire", "Steel"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Amani Hooker",
@@ -9068,9 +7394,7 @@
   {
     "id": "299",
     "pokemon": "Nosepass",
-    "types": [
-      "Rock"
-    ],
+    "types": ["Rock"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Cor'Dale Flott",
@@ -9081,9 +7405,7 @@
   {
     "id": "532",
     "pokemon": "Timburr",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "John Franklin-Myers",
@@ -9094,9 +7416,7 @@
   {
     "id": "008",
     "pokemon": "Wartortle",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Cody Barton",
@@ -9107,10 +7427,7 @@
   {
     "id": "031",
     "pokemon": "Nidoqueen",
-    "types": [
-      "Poison",
-      "Ground"
-    ],
+    "types": ["Poison", "Ground"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Cedric Gray",
@@ -9121,10 +7438,7 @@
   {
     "id": "444",
     "pokemon": "Gabite",
-    "types": [
-      "Dragon",
-      "Ground"
-    ],
+    "types": ["Dragon", "Ground"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Jermaine Johnson II",
@@ -9135,10 +7449,7 @@
   {
     "id": "322",
     "pokemon": "Numel",
-    "types": [
-      "Fire",
-      "Ground"
-    ],
+    "types": ["Fire", "Ground"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Joshua Williams",
@@ -9149,9 +7460,7 @@
   {
     "id": "569",
     "pokemon": "Garbodor",
-    "types": [
-      "Poison"
-    ],
+    "types": ["Poison"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Kevin Winston Jr.",
@@ -9162,10 +7471,7 @@
   {
     "id": "212",
     "pokemon": "Scizor",
-    "types": [
-      "Bug",
-      "Steel"
-    ],
+    "types": ["Bug", "Steel"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Anthony Hill Jr.",
@@ -9176,10 +7482,7 @@
   {
     "id": "543",
     "pokemon": "Venipede",
-    "types": [
-      "Bug",
-      "Poison"
-    ],
+    "types": ["Bug", "Poison"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Solomon Thomas",
@@ -9190,9 +7493,7 @@
   {
     "id": "705",
     "pokemon": "Sliggoo",
-    "types": [
-      "Dragon"
-    ],
+    "types": ["Dragon"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Marcus Harris",
@@ -9203,10 +7504,7 @@
   {
     "id": "122",
     "pokemon": "Mr. Mime",
-    "types": [
-      "Psychic",
-      "Fairy"
-    ],
+    "types": ["Psychic", "Fairy"],
     "position": "QB",
     "defGroup": null,
     "player": "Jayden Daniels",
@@ -9217,10 +7515,7 @@
   {
     "id": "660",
     "pokemon": "Diggersby",
-    "types": [
-      "Normal",
-      "Ground"
-    ],
+    "types": ["Normal", "Ground"],
     "position": "RB",
     "defGroup": null,
     "player": "Rachaad White",
@@ -9231,9 +7526,7 @@
   {
     "id": "235",
     "pokemon": "Smeargle",
-    "types": [
-      "Normal"
-    ],
+    "types": ["Normal"],
     "position": "RB",
     "defGroup": null,
     "player": "Austin Ekeler",
@@ -9244,9 +7537,7 @@
   {
     "id": "523",
     "pokemon": "Zebstrika",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Stefon Diggs",
@@ -9257,10 +7548,7 @@
   {
     "id": "042",
     "pokemon": "Golbat",
-    "types": [
-      "Poison",
-      "Flying"
-    ],
+    "types": ["Poison", "Flying"],
     "position": "WR",
     "defGroup": null,
     "player": "Antonio Williams",
@@ -9271,9 +7559,7 @@
   {
     "id": "200",
     "pokemon": "Misdreavus",
-    "types": [
-      "Ghost"
-    ],
+    "types": ["Ghost"],
     "position": "WR",
     "defGroup": null,
     "player": "Treylon Burks",
@@ -9284,9 +7570,7 @@
   {
     "id": "404",
     "pokemon": "Luxio",
-    "types": [
-      "Electric"
-    ],
+    "types": ["Electric"],
     "position": "WR",
     "defGroup": null,
     "player": "Dyami Brown",
@@ -9297,10 +7581,7 @@
   {
     "id": "593",
     "pokemon": "Jellicent",
-    "types": [
-      "Water",
-      "Ghost"
-    ],
+    "types": ["Water", "Ghost"],
     "position": "TE",
     "defGroup": null,
     "player": "Chig Okonkwo",
@@ -9311,9 +7592,7 @@
   {
     "id": "501",
     "pokemon": "Oshawott",
-    "types": [
-      "Water"
-    ],
+    "types": ["Water"],
     "position": "TE",
     "defGroup": null,
     "player": "Ben Sinnott",
@@ -9324,9 +7603,7 @@
   {
     "id": "548",
     "pokemon": "Petilil",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "K",
     "defGroup": null,
     "player": "Drew Stevens",
@@ -9337,10 +7614,7 @@
   {
     "id": "015",
     "pokemon": "Beedrill",
-    "types": [
-      "Bug",
-      "Poison"
-    ],
+    "types": ["Bug", "Poison"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Daron Payne",
@@ -9351,9 +7625,7 @@
   {
     "id": "388",
     "pokemon": "Grotle",
-    "types": [
-      "Grass"
-    ],
+    "types": ["Grass"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Nick Cross",
@@ -9364,10 +7636,7 @@
   {
     "id": "589",
     "pokemon": "Escavalier",
-    "types": [
-      "Bug",
-      "Steel"
-    ],
+    "types": ["Bug", "Steel"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Sonny Styles",
@@ -9378,10 +7647,7 @@
   {
     "id": "195",
     "pokemon": "Quagsire",
-    "types": [
-      "Water",
-      "Ground"
-    ],
+    "types": ["Water", "Ground"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Odafe Oweh",
@@ -9392,9 +7658,7 @@
   {
     "id": "210",
     "pokemon": "Granbull",
-    "types": [
-      "Fairy"
-    ],
+    "types": ["Fairy"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Frankie Luvu",
@@ -9405,9 +7669,7 @@
   {
     "id": "402",
     "pokemon": "Kricketune",
-    "types": [
-      "Bug"
-    ],
+    "types": ["Bug"],
     "position": "DEF",
     "defGroup": "LB",
     "player": "Dorance Armstrong",
@@ -9418,10 +7680,7 @@
   {
     "id": "437",
     "pokemon": "Bronzong",
-    "types": [
-      "Steel",
-      "Psychic"
-    ],
+    "types": ["Steel", "Psychic"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Amik Robertson",
@@ -9432,9 +7691,7 @@
   {
     "id": "353",
     "pokemon": "Shuppet",
-    "types": [
-      "Ghost"
-    ],
+    "types": ["Ghost"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Trey Amos",
@@ -9445,10 +7702,7 @@
   {
     "id": "442",
     "pokemon": "Spiritomb",
-    "types": [
-      "Ghost",
-      "Dark"
-    ],
+    "types": ["Ghost", "Dark"],
     "position": "DEF",
     "defGroup": "CB",
     "player": "Rasul Douglas",
@@ -9459,9 +7713,7 @@
   {
     "id": "237",
     "pokemon": "Hitmontop",
-    "types": [
-      "Fighting"
-    ],
+    "types": ["Fighting"],
     "position": "DEF",
     "defGroup": "S",
     "player": "Jeremy Reaves",
@@ -9472,10 +7724,7 @@
   {
     "id": "552",
     "pokemon": "Krokorok",
-    "types": [
-      "Ground",
-      "Dark"
-    ],
+    "types": ["Ground", "Dark"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Javon Kinlaw",
@@ -9486,9 +7735,7 @@
   {
     "id": "201",
     "pokemon": "Unown",
-    "types": [
-      "Psychic"
-    ],
+    "types": ["Psychic"],
     "position": "DEF",
     "defGroup": "DL",
     "player": "Tim Settle",

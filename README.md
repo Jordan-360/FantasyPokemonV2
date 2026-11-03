@@ -11,10 +11,10 @@ Scoring uses real NFL stats with a Pokémon twist: type matchups, evolutions, an
 - **15-round snake draft.** Lineup: QB, 2 RB, 2 WR, TE, FLEX, K, D/ST, plus 6 bench spots.
 - **14-week season,** then the top 4 teams make the playoffs.
 - **Real stats, Pokémon twist:**
-  - *Type matchups:* your players get a small boost or penalty against your opponent's defense type.
-  - *Evolution:* players who keep putting up big weeks evolve and earn a permanent bonus.
-  - *Shiny:* a 30-point week turns a Pokémon shiny for the rest of the season.
-  - *Fainted:* if the real player is hurt or on bye, your Pokémon has fainted and scores 0.
+  - _Type matchups:_ your players get a small boost or penalty against your opponent's defense type.
+  - _Evolution:_ players who keep putting up big weeks evolve and earn a permanent bonus.
+  - _Shiny:_ a 30-point week turns a Pokémon shiny for the rest of the season.
+  - _Fainted:_ if the real player is hurt or on bye, your Pokémon has fainted and scores 0.
 - **Waiver wire** to pick up free agents. No trades.
 
 ## The home screen
