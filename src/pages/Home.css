@@ -18,6 +18,10 @@
   align-items: start;
 }
 
+.home__grid > * {
+  min-width: 0;
+}
+
 .home__roster {
   grid-area: roster;
 }
@@ -42,23 +46,25 @@
   }
 }
 
-/* Phone: one column (the tab bar comes in step 9) */
+/* Phone: one section at a time, picked by the bottom tab bar */
 @media (max-width: 700px) {
-  .home__grid {
-    grid-template-columns: minmax(0, 1fr);
-    grid-template-areas:
-      'field'
-      'roster'
-      'schedule'
-      'fa';
+  .home {
+    padding-top: 16px;
+    padding-bottom: calc(96px + env(safe-area-inset-bottom, 0px));
   }
-}
 
-/* Temporary: shows each empty box until real content goes in */
-.placeholder {
-  color: var(--color-muted);
-  padding: 40px 0;
-  text-align: center;
-  border: 1px dashed var(--color-border);
-  border-radius: var(--radius-md);
+  /* Flex instead of grid, so hidden sections don't leave empty gaps */
+  .home__grid {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .home__field {
+    order: -1; /* field above the roster on the Team tab */
+  }
+
+  .home__grid > [data-mobile-active='false'] {
+    display: none;
+  }
 }

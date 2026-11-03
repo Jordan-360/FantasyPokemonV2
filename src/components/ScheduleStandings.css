@@ -1,3 +1,4 @@
+/* ---------- Tabs ---------- */
 .tabs {
   display: flex;
   gap: 6px;
@@ -19,6 +20,7 @@
   font-weight: 700;
 }
 
+/* ---------- Schedule ---------- */
 .schedule {
   list-style: none;
   margin: 0;
@@ -58,6 +60,7 @@
   color: var(--color-muted);
 }
 
+/* ---------- Standings ---------- */
 .standings__note {
   margin-bottom: 8px;
   font-size: 12px;
@@ -95,4 +98,11 @@
 
 .standings__row--cutoff td {
   border-bottom: 2px dashed var(--color-accent);
+}
+
+/* Phone: the panel is the whole screen, so no inner scroll */
+@media (max-width: 700px) {
+  .schedule {
+    max-height: none;
+  }
 }

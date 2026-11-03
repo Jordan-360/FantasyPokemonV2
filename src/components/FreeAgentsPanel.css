@@ -1,0 +1,123 @@
+.fa__label {
+  font-size: 12px;
+  color: var(--color-muted);
+}
+
+.fa__search {
+  padding: 10px 12px;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+}
+
+.fa__filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.fa__filter {
+  padding: 6px 12px;
+  background: var(--color-panel-raised);
+  border: none;
+  border-radius: 999px;
+  font-size: 12px;
+}
+
+.fa__filter[aria-pressed='true'] {
+  background: var(--color-accent);
+  color: var(--color-on-accent);
+  font-weight: 700;
+}
+
+.fa__count {
+  font-size: 12px;
+  color: var(--color-muted);
+}
+
+/* The scrollable container: the list can be 350+ players long */
+.fa__list {
+  list-style: none;
+  margin: 0;
+  padding: 0 6px 0 0;
+  max-height: 560px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  border-top: 1px solid var(--color-divider);
+}
+
+.fa-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--color-divider);
+}
+
+.fa-row__circle {
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.fa-row__text {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 0;
+}
+
+.fa-row__name {
+  font-weight: 600;
+}
+
+.fa-row__pos {
+  margin-left: 2px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--color-muted);
+}
+
+.fa-row__player {
+  font-size: 12px;
+  color: var(--color-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.fa-row__claim {
+  flex: none;
+  padding: 7px 12px;
+  border: none;
+  border-radius: var(--radius-sm);
+  background: var(--color-accent);
+  color: var(--color-on-accent);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.fa-row__claim:disabled {
+  background: var(--color-panel-raised);
+  color: var(--color-muted);
+  cursor: not-allowed;
+}
+
+.fa__empty {
+  padding: 24px 0;
+  text-align: center;
+  color: var(--color-muted);
+}
+
+/* Phone: the panel is the whole screen, so the list can be taller */
+@media (max-width: 700px) {
+  .fa__list {
+    max-height: none;
+  }
+}

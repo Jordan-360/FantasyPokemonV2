@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import Panel from './Panel'
 import { sortStandings, PLAYOFF_TEAMS } from '../lib/league'
 import './ScheduleStandings.css'
@@ -65,11 +64,19 @@ function StandingsTable({ teams, hasDrafted }) {
   )
 }
 
-export default function ScheduleStandings({ teams, schedule, userId, currentWeek, hasDrafted }) {
-  const [tab, setTab] = useState('schedule')
-
+// `tab` and `onTabChange` come from Home, so the phone tab bar can open
+// this panel straight to Schedule or to Standings.
+export default function ScheduleStandings({
+  teams,
+  schedule,
+  userId,
+  currentWeek,
+  hasDrafted,
+  tab,
+  onTabChange,
+}) {
   return (
-    <Panel className="home__schedule">
+    <Panel>
       <div className="tabs" role="tablist" aria-label="Schedule and standings">
         <button
           role="tab"
@@ -77,7 +84,7 @@ export default function ScheduleStandings({ teams, schedule, userId, currentWeek
           aria-selected={tab === 'schedule'}
           aria-controls="panel-schedule"
           className="tabs__tab"
-          onClick={() => setTab('schedule')}
+          onClick={() => onTabChange('schedule')}
         >
           Schedule
         </button>
@@ -87,7 +94,7 @@ export default function ScheduleStandings({ teams, schedule, userId, currentWeek
           aria-selected={tab === 'standings'}
           aria-controls="panel-standings"
           className="tabs__tab"
-          onClick={() => setTab('standings')}
+          onClick={() => onTabChange('standings')}
         >
           Standings
         </button>
