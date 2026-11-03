@@ -64,31 +64,99 @@
   font-weight: 700;
 }
 
-.week-result__highlights {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
+.week-result__margin {
+  margin-top: -6px;
   font-size: 13px;
 }
 
-.hl::before {
-  content: '•';
-  margin-right: 6px;
+.plays {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
-.hl--good {
-  color: #69f0ae;
+
+.play {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 0;
+  border-top: 1px solid var(--color-divider);
 }
-.hl--bad {
-  color: #ff8a80;
+
+.play__rank {
+  flex: none;
+  width: 18px;
+  font-size: 16px;
+  color: var(--color-muted);
+  text-align: center;
 }
-.hl--evo {
-  color: #b39dff;
+
+.play__circle {
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  font-size: 12px;
+  font-weight: 700;
 }
-.hl--shiny {
+
+.play__text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  flex: 1;
+  min-width: 0;
+}
+
+.play__name {
+  font-weight: 700;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.play__who {
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--color-muted);
+}
+
+.play--user .play__who {
   color: var(--color-accent);
+}
+
+.play__line {
+  font-size: 13px;
+  color: #c4ced8;
+}
+
+.play__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.chip.eff--super {
+  background: rgba(105, 240, 174, 0.14);
+}
+
+.chip.eff--weak,
+.chip.eff--none {
+  background: rgba(255, 138, 128, 0.14);
+}
+
+.play__pts {
+  flex: none;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.week-result__fainted {
+  font-size: 13px;
+  color: #ff8a80;
 }
 
 .week-result > .btn {

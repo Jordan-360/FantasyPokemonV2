@@ -55,7 +55,14 @@ export function buildPlayerPool(pairs, dstUnits, projections = {}) {
 }
 
 // Everything the game engine needs to look players and stats up.
-export function createGameContext({ pairs, dstUnits, projections, weekly, evolutions }) {
+export function createGameContext({
+  pairs,
+  dstUnits,
+  projections,
+  weekly,
+  evolutions,
+  statLines = {},
+}) {
   const pool = buildPlayerPool(pairs, dstUnits, projections)
   return {
     pool,
@@ -63,5 +70,6 @@ export function createGameContext({ pairs, dstUnits, projections, weekly, evolut
     levels: replacementLevels(pool), // preseason replacement PPG per position
     weekly,
     evolutions,
+    statLines,
   }
 }

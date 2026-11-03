@@ -6,7 +6,8 @@
 
 .field {
   position: relative;
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 5 / 4;
+  min-height: 520px;
   border-radius: var(--radius-lg);
   border: 1px solid #1d4a2a;
   overflow: hidden;
@@ -30,28 +31,42 @@
   opacity: 0.85;
 }
 
+/* Each spot is 20% of the field wide, so neighbours (≥ 22% apart) never overlap.
+   Long names are cut off with an ellipsis instead. */
 .field-slot {
   position: absolute;
   left: calc(var(--x) * 1%);
   top: calc(var(--y) * 1%);
+  width: 20%;
   transform: translate(-50%, -50%);
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 4px;
+  gap: 5px;
+}
+
+.field-slot--left {
+  transform: translate(0, -50%);
+  width: 18%;
+}
+
+.field-slot--right {
+  transform: translate(-100%, -50%);
+  width: 18%;
 }
 
 .field-slot__circle {
+  flex: none;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 44px;
-  height: 44px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   border: 3px solid #fff;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
   font-weight: 700;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .field-slot__circle--empty {
@@ -61,24 +76,22 @@
   font-size: 12px;
 }
 
-.field-slot__circle--small {
-  flex: none;
-  width: 34px;
-  height: 34px;
-  border-width: 2px;
-  font-size: 12px;
-}
-
 .field-slot__tag {
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 130px;
-  padding: 3px 8px;
+  max-width: 100%;
+  padding: 4px 9px;
   border-radius: 8px;
   line-height: 1.25;
-  background: rgba(10, 15, 20, 0.85);
+  background: rgba(10, 15, 20, 0.88);
   text-align: center;
+}
+
+.field-slot__tag > * {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
   white-space: nowrap;
 }
 
@@ -88,69 +101,38 @@
 }
 
 .field-slot__meta {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.05em;
   color: var(--color-accent);
+}
+
+.field-slot__pts {
+  color: #fff;
 }
 
 .field-slot__name {
   font-weight: 700;
-  font-size: 13px;
+  font-size: 15px;
 }
 
 .field-slot__player {
-  font-size: 11px;
+  font-size: 12px;
   color: #c4ced8;
 }
 
-.field__special {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 14px;
+/* Tablet: the field spans the full width, so it can be a little flatter */
+@media (max-width: 1280px) {
+  .field {
+    aspect-ratio: 16 / 10;
+  }
 }
 
-.special-card {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  padding: 12px 14px;
-  background: var(--color-panel);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-lg);
-}
-
-.special-card__text {
-  display: flex;
-  flex-direction: column;
-  flex: 1;
-  min-width: 0;
-}
-
-.special-card__label {
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  color: var(--color-muted);
-}
-
-.special-card__name {
-  font-weight: 700;
-}
-
-.special-card__player {
-  font-size: 12px;
-  color: var(--color-muted);
-}
-
-.special-card__ovr {
-  font-size: 20px;
-  font-weight: 700;
-}
-
+/* Phone: vertical field, offense facing up */
 @media (max-width: 700px) {
   .field {
-    aspect-ratio: 3 / 4;
+    aspect-ratio: 2 / 3;
+    min-height: 0;
     background:
       repeating-linear-gradient(
         0deg,
@@ -169,20 +151,31 @@
     height: 3px;
   }
 
-  .field-slot {
+  .field-slot,
+  .field-slot--left,
+  .field-slot--right {
     left: calc(var(--mx) * 1%);
     top: calc(var(--my) * 1%);
+    width: 24%;
+    transform: translate(-50%, -50%);
+  }
+
+  .field-slot__circle {
+    width: 44px;
+    height: 44px;
+    font-size: 15px;
   }
 
   .field-slot__tag {
-    max-width: 76px;
+    padding: 3px 6px;
+  }
+
+  .field-slot__meta {
+    font-size: 11px;
   }
 
   .field-slot__name {
     font-size: 12px;
-    max-width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
   }
 
   .field-slot__player {

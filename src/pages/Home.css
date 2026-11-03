@@ -10,7 +10,7 @@
 /* Desktop: roster + schedule | field | free agents */
 .home__grid {
   display: grid;
-  grid-template-columns: minmax(260px, 320px) minmax(0, 1fr) minmax(260px, 340px);
+  grid-template-columns: minmax(250px, 300px) minmax(0, 1fr) minmax(250px, 320px);
   grid-template-areas:
     'roster   field fa'
     'schedule field fa';
@@ -33,10 +33,13 @@
 }
 .home__free-agents {
   grid-area: fa;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
 }
 
 /* Tablet: field across the top, then two columns */
-@media (max-width: 1100px) {
+@media (max-width: 1280px) {
   .home__grid {
     grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
     grid-template-areas:

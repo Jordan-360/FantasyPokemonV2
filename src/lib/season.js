@@ -258,6 +258,19 @@ export function userGame(state, week = state.currentWeek) {
   return { game, opponentId: game[0] === 'user' ? game[1] : game[0] }
 }
 
+// Your game result for a played week, or null
+export function userResult(state, week) {
+  return state.results[week]?.find((r) => r.a === 'user' || r.b === 'user') ?? null
+}
+
+// Weeks you've played, oldest first
+export function playedUserWeeks(state) {
+  return Object.keys(state.results)
+    .map(Number)
+    .filter((w) => userResult(state, w))
+    .sort((a, b) => a - b)
+}
+
 export function canPlayWeek(state, ctx) {
   return state.phase === 'season' && isWeekAvailable(state.currentWeek, ctx)
 }

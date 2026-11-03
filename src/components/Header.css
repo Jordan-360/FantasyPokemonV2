@@ -86,3 +86,15 @@
     font-size: 12px;
   }
 }
+
+/* Phone: logo on the first row, week picker + New league on the second */
+@media (max-width: 600px) {
+  .header {
+    flex-wrap: wrap;
+    row-gap: 10px;
+  }
+  .header__info {
+    width: 100%;
+    justify-content: space-between;
+  }
+}

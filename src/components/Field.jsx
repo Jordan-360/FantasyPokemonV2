@@ -1,4 +1,4 @@
-import { OFFENSE_SLOTS, SPECIAL_SLOTS } from '../lib/lineup'
+import { FIELD_SLOTS } from '../lib/lineup'
 import { effectivenessMark, faintedLabel } from '../lib/views'
 import PlayerCircle from './PlayerCircle'
 import './Field.css'
@@ -15,17 +15,20 @@ function EffMark({ multiplier }) {
   )
 }
 
+// All 9 starters on the field. Views with `points` (a played week) show the score;
+// otherwise the tag shows Madden OVR.
 function FieldSlot({ slot, view }) {
-  const position = {
+  const style = {
     '--x': slot.desktop[0],
     '--y': slot.desktop[1],
     '--mx': slot.phone[0],
     '--my': slot.phone[1],
   }
+  const className = `field-slot ${slot.anchor ? `field-slot--${slot.anchor}` : ''}`
 
   if (!view) {
     return (
-      <div className="field-slot" style={position}>
+      <div className={className} style={style}>
         <span className="field-slot__circle field-slot__circle--empty">{slot.label}</span>
         <span className="field-slot__tag field-slot__tag--empty">Empty</span>
       </div>
@@ -33,8 +36,10 @@ function FieldSlot({ slot, view }) {
   }
 
   const { player, name, shiny, fainted } = view
+  const played = view.points !== undefined && view.points !== null
+
   return (
-    <div className="field-slot" style={position}>
+    <div className={className} style={style}>
       <PlayerCircle
         player={player}
         name={name}
@@ -42,9 +47,14 @@ function FieldSlot({ slot, view }) {
         fainted={fainted}
         className="field-slot__circle"
       />
-      <span className="field-slot__tag" title={faintedLabel(fainted) ?? undefined}>
+      <span className="field-slot__tag" title={`${name} · ${player.player}`}>
         <span className="field-slot__meta">
-          {slot.label} · <span className="num">{player.maddenOvr}</span>
+          {slot.label} ·{' '}
+          {played ? (
+            <span className="num field-slot__pts">{view.points.toFixed(1)} pts</span>
+          ) : (
+            <span className="num">{player.maddenOvr}</span>
+          )}
           <EffMark multiplier={view.multiplier} />
         </span>
         <span className="field-slot__name">{name}</span>
@@ -56,54 +66,16 @@ function FieldSlot({ slot, view }) {
   )
 }
 
-function SpecialCard({ slot, view }) {
-  return (
-    <div className="special-card">
-      {view ? (
-        <PlayerCircle
-          player={view.player}
-          name={view.name}
-          shiny={view.shiny}
-          fainted={view.fainted}
-          className="field-slot__circle field-slot__circle--small"
-        />
-      ) : (
-        <span className="field-slot__circle field-slot__circle--small field-slot__circle--empty">
-          {slot.label}
-        </span>
-      )}
-      <div className="special-card__text">
-        <span className="special-card__label">
-          {slot.label}
-          {view && <EffMark multiplier={view.multiplier} />}
-        </span>
-        <span className="special-card__name">{view ? view.name : 'Empty'}</span>
-        {view && (
-          <span className="special-card__player">
-            {view.fainted ? faintedLabel(view.fainted) : view.player.player}
-          </span>
-        )}
-      </div>
-      {view && <span className="special-card__ovr num">{view.player.maddenOvr}</span>}
-    </div>
-  )
-}
-
-export default function Field({ lineupViews = {} }) {
+export default function Field({ lineupViews = {}, children }) {
   return (
     <div className="field-wrap">
       <div className="field" aria-label="Starting lineup">
         <div className="field__los" />
-        {OFFENSE_SLOTS.map((slot) => (
+        {FIELD_SLOTS.map((slot) => (
           <FieldSlot key={slot.id} slot={slot} view={lineupViews[slot.id]} />
         ))}
       </div>
-
-      <div className="field__special">
-        {SPECIAL_SLOTS.map((slot) => (
-          <SpecialCard key={slot.id} slot={slot} view={lineupViews[slot.id]} />
-        ))}
-      </div>
+      {children}
     </div>
   )
 }

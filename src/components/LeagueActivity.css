@@ -1,0 +1,57 @@
+.activity {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.activity__row {
+  display: flex;
+  gap: 10px;
+  padding: 8px 0;
+  border-top: 1px solid var(--color-divider);
+  font-size: 13px;
+}
+
+.activity__week {
+  flex: none;
+  width: 40px;
+  color: var(--color-muted);
+}
+
+.activity__text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.activity__team {
+  font-weight: 700;
+}
+
+.activity__team.is-user {
+  color: var(--color-accent);
+}
+
+.activity__add {
+  color: #69f0ae;
+}
+
+.activity__drop {
+  color: #ff8a80;
+}
+
+.activity__empty {
+  font-size: 13px;
+}
+
+.activity {
+  max-height: 360px;
+  overflow-y: auto;
+  padding-right: 6px;
+}
+
+@media (max-width: 700px) {
+  .activity {
+    max-height: none;
+  }
+}

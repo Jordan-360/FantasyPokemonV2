@@ -1,6 +1,15 @@
+import WeekPicker from './WeekPicker'
 import './Header.css'
 
-export default function Header({ leagueName, teamName, record, week, onLogoClick, onNewLeague }) {
+export default function Header({
+  leagueName,
+  teamName,
+  record,
+  week,
+  weekNav,
+  onLogoClick,
+  onNewLeague,
+}) {
   return (
     <header className="header">
       <a
@@ -29,7 +38,11 @@ export default function Header({ leagueName, teamName, record, week, onLogoClick
             )}
           </span>
         )}
-        {week && <span className="header__week">{week}</span>}
+        {weekNav ? (
+          <WeekPicker {...weekNav} />
+        ) : (
+          week && <span className="header__week">{week}</span>
+        )}
         {onNewLeague && (
           <button className="header__new" onClick={onNewLeague} title="Start a new league">
             New league

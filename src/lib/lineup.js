@@ -1,16 +1,17 @@
-export const OFFENSE_SLOTS = [
-  { id: 'QB', label: 'QB', desktop: [48, 50], phone: [50, 56] },
-  { id: 'RB1', label: 'RB', desktop: [24, 28], phone: [30, 78] },
-  { id: 'RB2', label: 'RB', desktop: [24, 72], phone: [70, 78] },
-  { id: 'WR1', label: 'WR', desktop: [68, 14], phone: [13, 36] },
-  { id: 'FLEX', label: 'FLEX', desktop: [57, 38], phone: [37, 36] },
-  { id: 'TE', label: 'TE', desktop: [68, 62], phone: [63, 36] },
-  { id: 'WR2', label: 'WR', desktop: [57, 86], phone: [87, 36] },
-]
-
-export const SPECIAL_SLOTS = [
-  { id: 'K', label: 'K' },
-  { id: 'DST', label: 'D/ST' },
+// Where each starter stands on the field, as [x%, y%] of the field.
+// Desktop: offense moves left → right (line of scrimmage at x = 76%).
+// Phone: offense faces up (line of scrimmage at y = 28%).
+// anchor: K hugs the left edge and the D/ST the right edge (desktop only).
+export const FIELD_SLOTS = [
+  { id: 'QB', label: 'QB', desktop: [44, 50], phone: [50, 56] },
+  { id: 'RB1', label: 'RB', desktop: [21, 28], phone: [30, 76] },
+  { id: 'RB2', label: 'RB', desktop: [21, 72], phone: [70, 76] },
+  { id: 'WR1', label: 'WR', desktop: [66, 12], phone: [13, 37] },
+  { id: 'FLEX', label: 'FLEX', desktop: [66, 37.5], phone: [37, 37] },
+  { id: 'TE', label: 'TE', desktop: [66, 62.5], phone: [63, 37] },
+  { id: 'WR2', label: 'WR', desktop: [66, 88], phone: [87, 37] },
+  { id: 'K', label: 'K', desktop: [1, 50], phone: [50, 91], anchor: 'left' },
+  { id: 'DST', label: 'D/ST', desktop: [99, 50], phone: [50, 11], anchor: 'right' },
 ]
 
 export const STARTER_SLOTS = [

@@ -4,6 +4,14 @@ import dstUnits from '../data/dst_units.json'
 import projections from '../data/projections.json'
 import weekly from '../data/weekly_points.json'
 import evolutions from '../data/evolutions.json'
+import statLines from '../data/stat_lines.json'
 import { createGameContext } from './players.js'
 
-export const ctx = createGameContext({ pairs, dstUnits, projections, weekly, evolutions })
+export const ctx = createGameContext({
+  pairs,
+  dstUnits,
+  projections,
+  weekly,
+  evolutions,
+  statLines,
+})
