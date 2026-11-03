@@ -9,8 +9,6 @@
 
 import { replacementLevels } from './draft.js'
 
-export const POSITIONS = ['QB', 'RB', 'WR', 'TE', 'K', 'DST']
-
 export const POSITION_FILTERS = [
   { id: 'ALL', label: 'All' },
   { id: 'QB', label: 'QB' },
@@ -54,6 +52,20 @@ export function buildPlayerPool(pairs, dstUnits, projections = {}) {
   return [...offense, ...defenses].sort((a, b) => b.maddenOvr - a.maddenOvr)
 }
 
+// An evolved form can match a Pokémon another player already is (Duosion → Reuniclus
+// while someone else is Reuniclus). Those forms get the original in brackets,
+// "Reuniclus (Duosion)", so two players never share a name.
+function disambiguateEvolutions(evolutions, pool) {
+  const taken = new Set(pool.map((p) => p.pokemon))
+  const byId = new Map(pool.map((p) => [p.id, p]))
+  const out = {}
+  for (const [id, chain] of Object.entries(evolutions)) {
+    const original = byId.get(id)?.pokemon
+    out[id] = chain.map((name) => (taken.has(name) && original ? `${name} (${original})` : name))
+  }
+  return out
+}
+
 // Everything the game engine needs to look players and stats up.
 export function createGameContext({
   pairs,
@@ -65,11 +77,11 @@ export function createGameContext({
 }) {
   const pool = buildPlayerPool(pairs, dstUnits, projections)
   return {
+    evolutions: disambiguateEvolutions(evolutions, pool),
     pool,
     byId: new Map(pool.map((p) => [p.id, p])),
     levels: replacementLevels(pool), // preseason replacement PPG per position
     weekly,
-    evolutions,
     statLines,
   }
 }

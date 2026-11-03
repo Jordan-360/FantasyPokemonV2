@@ -59,7 +59,9 @@ A flat list of 704 pairs: each NFL team's 22 starters from the 2026-10-28 depth 
 - **`stat_lines.json`:** a short box-score line per player / D/ST per week ("7 rec, 112 yds, 1 TD"), shown in top plays and the top-player cards.
 - **`evolutions.json`:** the next one or two evolution stages for each paired Pokémon (Gen 1–6 only, first branch for split evolutions), from PokeAPI.
 
-`npm run simulate` drafts and plays a whole league from the command line and checks the rules (`--fill-future` fakes the unplayed weeks to exercise the playoffs).
+A GitHub Actions workflow (`.github/workflows/update-stats.yml`) runs this every Tuesday, Wednesday and Friday during the season and commits new data to `main`, which Vercel deploys.
+
+`npm test` checks the rules and `npm run simulate` drafts and plays a whole league from the command line and checks the rules (`--fill-future` fakes the unplayed weeks to exercise the playoffs).
 
 ---
 

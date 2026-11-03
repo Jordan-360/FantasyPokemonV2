@@ -1,5 +1,9 @@
 # Fantasy Pokémon V2
 
+[![CI](https://github.com/Jordan-360/FantasyPokemonV2/actions/workflows/ci.yml/badge.svg)](https://github.com/Jordan-360/FantasyPokemonV2/actions/workflows/ci.yml)
+
+**Play it: [fantasy-pokemon-v2.vercel.app](https://fantasy-pokemon-v2.vercel.app/)**
+
 An ESPN-style fantasy football league where every player is a Pokémon paired with a real NFL starter. Draft against 9 CPU teams, set your lineup, work the waiver wire, and chase a championship.
 
 Scoring uses real NFL stats with a Pokémon twist: type matchups, evolutions, and shinies.
@@ -23,13 +27,14 @@ Your roster lives on a football field: your Pokémon line up in formation, with 
 
 ## Plays anywhere
 
-Built mobile-first: draft, set your lineup, and manage your team from your phone or your computer.
+Built mobile-first: draft, set your lineup, and manage your team from your phone or your computer. The live site is at [fantasy-pokemon-v2.vercel.app](https://fantasy-pokemon-v2.vercel.app/) and redeploys from `main` on Vercel.
 
 ## Tech
 
 - React + Vite
 - Plain JavaScript
 - Saved in your browser (localStorage), no account needed
+- Hosted on Vercel; GitHub Actions for checks and weekly stats
 
 ## Run it locally
 
@@ -42,7 +47,11 @@ Then open the link shown in the terminal (usually http://localhost:5173).
 
 ## Update the NFL stats
 
-Fantasy weeks unlock as real NFL weeks are played. To pull the latest stats from nflverse:
+Fantasy weeks unlock as real NFL weeks are played.
+
+**Automatic:** the [Update NFL stats](.github/workflows/update-stats.yml) workflow runs every Tuesday, Wednesday and Friday morning during the season (September–January). When nflverse has new stats it tests them, commits them to `main`, and Vercel redeploys, so the next week unlocks on the live site by itself. You can also start it any time from the repo's **Actions** tab → **Update NFL stats** → **Run workflow**.
+
+**By hand:**
 
 ```bash
 npm run build-data
@@ -50,26 +59,36 @@ npm run build-data
 
 This rewrites `src/data/weekly_points.json`, `stat_lines.json`, `projections.json` and `evolutions.json`. Your saved league keeps going, and the next week becomes playable.
 
-## Check the game logic
+## Checks
+
+```bash
+npm test
+```
+
+Unit tests for the scoring rules, plus whole-league tests: draft sanity, waiver limits, and full seasons with random lineup moves and claims, checking every rule after every week.
 
 ```bash
 npm run simulate -- --fill-future
 ```
 
-Drafts and plays a full league in the terminal and checks the rules: full rosters, one K and one D/ST each, no more than 2 CPU claims a week, and a champion at the end.
+Drafts and plays a full league in the terminal and prints the results.
+
+The [CI workflow](.github/workflows/ci.yml) runs formatting, lint, tests, the simulation and a production build on every pull request and every push to `main`.
 
 ## Project structure
 
 ```
-docs/            Game spec and planning notes
+.github/workflows/  CI and the weekly stats update
+docs/               Game spec and planning notes
+scripts/            build-data (download stats) and simulate (play a league)
 src/
-  data/          Pokémon ↔ NFL pairs and D/ST units (fixed data)
-  pages/         Screens: Home dashboard and Draft Room
-  components/    Reusable UI pieces
-  hooks/         useLeague: league state + saving
-  lib/           Game logic: draft, scoring, waivers, season, saving
-scripts/         build-data (download stats) and simulate (rules check)
-  styles/        Global CSS
+  components/       Reusable UI pieces
+  data/             Pokémon ↔ NFL pairs, D/ST units, and the generated stats
+  hooks/            useLeague: league state + saving
+  lib/              Game logic: draft, scoring, waivers, season, saving
+  pages/            Screens: Home dashboard and Draft Room
+  styles/           Global CSS
+tests/              npm test (Node's built-in test runner)
 ```
 
 ## Data sources

@@ -1,12 +1,14 @@
 {
   "name": "fantasypokemonv2",
   "private": true,
+  "homepage": "https://fantasy-pokemon-v2.vercel.app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "test": "node --test \"tests/**/*.test.js\"",
     "format": "prettier --write .",
     "preview": "vite preview",
     "build-data": "node scripts/build-data.js",

@@ -1,0 +1,44 @@
+# Runs on every pull request and every push to main.
+# Vercel deploys main, so a red check here means "don't merge yet".
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Lint, test, simulate, build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      HUSKY: 0 # no git hooks in CI
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Formatting
+        run: npx prettier --check .
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Unit and league tests
+        run: npm test
+
+      - name: Simulate a full season with playoffs
+        run: npm run simulate -- --fill-future
+
+      - name: Production build
+        run: npm run build

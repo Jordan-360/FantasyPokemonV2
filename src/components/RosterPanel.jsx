@@ -86,6 +86,7 @@ export default function RosterPanel({
   lineupViews = {},
   benchViews = [],
   editable = false,
+  notice = null,
   showProjection = false,
   onStart,
   onBench,
@@ -118,6 +119,8 @@ export default function RosterPanel({
         )
       }
     >
+      {notice && <p className="roster__notice">{notice}</p>}
+
       {editable && (faintedStarters.length > 0 || (hasPlayers && emptySlots.length > 0)) && (
         <div className="roster__warning" role="status">
           {faintedStarters.length > 0 && (
