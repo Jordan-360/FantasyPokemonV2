@@ -205,9 +205,8 @@ The home screen is built around **your roster on a football field**. It starts e
 - **Phone (mockup "Phone · Before the draft"):** header, draft banner, team name + draft position, the field filling the screen (vertical, offense facing up, K and D/ST below), and a bottom tab bar: **Team · Schedule · Standings · Free Agents**. Each tab shows one section.
 
 ### 7.2 Visual style
-
+ 
 - **Theme:** dark, with an electric-yellow accent and a turf-green field.
-
   | Token | Value |
   |---|---|
   | Background | `#0f1419` |
@@ -218,11 +217,10 @@ The home screen is built around **your roster on a football field**. It starts e
   | Muted text | `#9aa7b4` |
   | Accent | `#ffd23f` |
   | Field | `#2e6b3f` / `#2a6439` stripes, white yard lines |
-
 - **Fonts (Google Fonts):** Barlow Condensed for headings and numbers, Barlow for body text.
 - **Players:** each Pokémon is a circle in its **primary type's color** with the first two letters of its name. On the field the circle is larger with a white ring, above a dark name tag (slot · OVR, Pokémon, NFL player).
 - **No official artwork:** the project is public, so no Pokémon sprites, NFL team logos or Pokémon logos. The type-colored circles stand in for sprites.
-- **Logo:** an original mark, a yellow football with a lightning bolt, next to "FANTASY POKÉMON" ("Pokémon" in the accent color).
+- **Logo:** an original mark (`public/logo.svg`): a black line-art football on a yellow rounded square, with zigzag lightning-bolt laces. Used as the browser tab icon and in the header next to "FANTASY POKÉMON" ("Pokémon" in the accent color).
 
 ### 7.3 Standings
 - **Preseason:** ranked by team Madden OVR, the average of the 9 starters' ratings. The D/ST slot counts as the average OVR of its 12 defenders.
