@@ -386,7 +386,12 @@ export default function Home({ league, ctx, actions, onOpenDraft, viewWeek, onVi
           <RosterPanel
             lineupViews={data.lineupViews}
             benchViews={data.benchViews}
-            editable={league?.phase === 'season'}
+            editable={league?.phase === 'season' && !past}
+            notice={
+              past && league.phase === 'season'
+                ? `Viewing ${weekLabel(past.week)}. Go back to ${weekLabel(league.currentWeek)} to edit your lineup.`
+                : null
+            }
             showProjection={hasDrafted}
             onStart={actions.startPlayer}
             onBench={actions.benchPlayer}

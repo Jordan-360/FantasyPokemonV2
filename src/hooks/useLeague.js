@@ -31,7 +31,7 @@ export default function useLeague() {
 
       startPlayer: (playerId, slot) =>
         update((s) => season.startPlayer(s, 'user', playerId, slot, ctx)),
-      benchPlayer: (slot) => update((s) => season.benchPlayer(s, 'user', slot)),
+      benchPlayer: (slot) => update((s) => season.benchPlayer(s, 'user', slot, ctx)),
       optimizeLineup: () => update((s) => season.optimizeLineup(s, 'user', ctx)),
       claimPlayer: (addId, dropId = null) =>
         update((s) => season.claimPlayer(s, addId, dropId, ctx)),

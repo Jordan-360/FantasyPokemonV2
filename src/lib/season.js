@@ -160,8 +160,15 @@ export function autoLineup(playerIds, week, ctx, throughWeek = week - 1) {
   )
 }
 
-function updateRoster(state, teamId, roster) {
-  return { ...state, rosters: { ...state.rosters, [teamId]: roster } }
+// Saves a team's roster and refreshes its team OVR (average of the starters' ratings).
+function updateRoster(state, teamId, roster, ctx) {
+  return {
+    ...state,
+    rosters: { ...state.rosters, [teamId]: roster },
+    teams: state.teams.map((t) =>
+      t.id === teamId ? { ...t, ovr: teamOvr(roster.lineup, ctx.byId) } : t
+    ),
+  }
 }
 
 // Puts a rostered player into a slot. Whoever was there goes to the bench,
@@ -182,22 +189,27 @@ export function startPlayer(state, teamId, playerId, slot, ctx) {
     const d = ctx.byId.get(displaced)
     if (d && SLOT_POSITIONS[fromSlot].includes(d.position)) lineup[fromSlot] = displaced
   }
-  return updateRoster(state, teamId, { ...roster, lineup })
+  return updateRoster(state, teamId, { ...roster, lineup }, ctx)
 }
 
-export function benchPlayer(state, teamId, slot) {
+export function benchPlayer(state, teamId, slot, ctx) {
   const roster = state.rosters[teamId]
   const lineup = { ...roster.lineup }
   delete lineup[slot]
-  return updateRoster(state, teamId, { ...roster, lineup })
+  return updateRoster(state, teamId, { ...roster, lineup }, ctx)
 }
 
 export function optimizeLineup(state, teamId, ctx) {
   const roster = state.rosters[teamId]
-  return updateRoster(state, teamId, {
-    ...roster,
-    lineup: autoLineup(roster.players, state.currentWeek, ctx),
-  })
+  return updateRoster(
+    state,
+    teamId,
+    {
+      ...roster,
+      lineup: autoLineup(roster.players, state.currentWeek, ctx),
+    },
+    ctx
+  )
 }
 
 // CPU managers start their best healthy players every week.
@@ -230,7 +242,8 @@ export function claimPlayer(state, addId, dropId, ctx) {
   const next = updateRoster(
     state,
     'user',
-    applyClaim(roster, addId, needsDrop ? dropId : null, ctx)
+    applyClaim(roster, addId, needsDrop ? dropId : null, ctx),
+    ctx
   )
   return {
     ...next,

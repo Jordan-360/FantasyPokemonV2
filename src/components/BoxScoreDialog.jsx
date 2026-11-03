@@ -21,7 +21,16 @@ export default function BoxScoreDialog({ week, game, teamA, teamB, nameOf, detai
       ref={ref}
       className="claim-dialog box-dialog"
       onCancel={onClose}
-      onClick={(e) => e.target === ref.current && onClose()}
+      onClick={(e) => {
+        // Close only on the backdrop: clicks inside the dialog's box (padding included) stay open
+        const box = ref.current.getBoundingClientRect()
+        const inside =
+          e.clientX >= box.left &&
+          e.clientX <= box.right &&
+          e.clientY >= box.top &&
+          e.clientY <= box.bottom
+        if (!inside) onClose()
+      }}
       aria-labelledby="box-title"
     >
       <div className="box-dialog__head">

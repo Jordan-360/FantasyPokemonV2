@@ -324,7 +324,6 @@ async function main() {
 
   writeJson('weekly_points.json', {
     season: SEASON,
-    updated: new Date().toISOString().slice(0, 10),
     weeksAvailable,
     byes,
     points,

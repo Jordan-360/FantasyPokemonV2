@@ -80,11 +80,3 @@ export function typeModFor(multiplier) {
   if (multiplier < 1) return -0.05
   return 0
 }
-
-export function effectivenessLabel(multiplier) {
-  if (multiplier === null || multiplier === undefined) return null
-  if (multiplier >= 2) return "It's super effective!"
-  if (multiplier === 0) return 'It had no effect…'
-  if (multiplier < 1) return "It's not very effective…"
-  return null
-}
