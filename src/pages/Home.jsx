@@ -9,9 +9,18 @@ import MatchupStrip from '../components/MatchupStrip'
 import WeekResult from '../components/WeekResult'
 import Toasts from '../components/Toasts'
 import LeagueActivity from '../components/LeagueActivity'
+import TopPlayers from '../components/TopPlayers'
 import { createTeams, generateSchedule, weekLabel, FINAL_WEEK } from '../lib/league'
 import { ROSTER_SIZE, STARTER_SLOTS, benchOf, slotLabel } from '../lib/lineup'
-import { canClaim, canPlayWeek, freeAgents, projectedTotal, userGame } from '../lib/season'
+import {
+  canClaim,
+  canPlayWeek,
+  freeAgents,
+  projectedTotal,
+  userGame,
+  userResult,
+} from '../lib/season'
+import { statLine } from '../lib/projections'
 import { playerView } from '../lib/views'
 import { positionLabel } from '../lib/players'
 import { displayName } from '../lib/scoring'
@@ -80,6 +89,80 @@ function useHomeData(league, ctx) {
       lastWeek,
     }
   }, [league, ctx])
+}
+
+// Best starter by `value` among lineup views → a TopPlayers entry
+function topOf(views, value, line) {
+  const list = Object.values(views).filter(Boolean)
+  if (!list.length) return null
+  const best = list.reduce((a, b) => (value(b) > value(a) ? b : a))
+  return { view: best, value: value(best), line: line(best) }
+}
+
+// A played week, rebuilt from the stored result: both lineups with real points.
+function usePastWeek(league, ctx, week) {
+  return useMemo(() => {
+    if (!league || !week) return null
+    const result = userResult(league, week)
+    if (!result) return null
+
+    const userIsA = result.a === 'user'
+    const toViews = (lines) =>
+      Object.fromEntries(
+        lines.map((l) => [
+          l.slot,
+          {
+            ...playerView(ctx.byId.get(l.id), { ctx, week, statuses: league.statuses }),
+            multiplier: l.multiplier,
+            fainted: l.fainted,
+            points: l.points,
+          },
+        ])
+      )
+    const mine = toViews(userIsA ? result.lineA : result.lineB)
+    const theirs = toViews(userIsA ? result.lineB : result.lineA)
+    const points = (v) => (v.fainted ? -Infinity : v.points)
+    const line = (v) => statLine(v.player, week, ctx)
+
+    return {
+      week,
+      result,
+      opponentId: userIsA ? result.b : result.a,
+      userScore: userIsA ? result.scoreA : result.scoreB,
+      oppScore: userIsA ? result.scoreB : result.scoreA,
+      lineupViews: mine,
+      opponentViews: theirs,
+      topYou: topOf(mine, points, line),
+      topOpp: topOf(theirs, points, line),
+    }
+  }, [league, ctx, week])
+}
+
+function PastMatchup({ league, past, onBack }) {
+  const user = league.teams.find((t) => t.isUser)
+  const opponent = league.teams.find((t) => t.id === past.opponentId)
+  const won = past.result.winner === 'user'
+  const margin = Math.abs(past.userScore - past.oppScore).toFixed(1)
+  const backLabel =
+    league.phase === 'season' ? `Back to ${weekLabel(league.currentWeek)}` : 'Back to season'
+
+  return (
+    <MatchupStrip
+      title={`${weekLabel(past.week)} · Final`}
+      userName={user.name}
+      opponent={opponent}
+      opponentDst={past.opponentViews.DST?.player}
+      userProj={past.userScore}
+      oppProj={past.oppScore}
+      unit="pts"
+      note={won ? `You won by ${margin}.` : `${opponent.name} won by ${margin}.`}
+      action={
+        <button className="btn" onClick={onBack}>
+          {backLabel}
+        </button>
+      }
+    />
+  )
 }
 
 function Matchup({ league, ctx, data, onPlay }) {
@@ -164,7 +247,7 @@ function TopBanner({ league, onOpenDraft }) {
   return null
 }
 
-export default function Home({ league, ctx, actions, onOpenDraft }) {
+export default function Home({ league, ctx, actions, onOpenDraft, viewWeek, onViewWeek }) {
   const data = useHomeData(league, ctx)
   const hasDrafted = Boolean(league && league.phase !== 'draft')
 
@@ -214,6 +297,7 @@ export default function Home({ league, ctx, actions, onOpenDraft }) {
   }
 
   function handlePlay() {
+    onViewWeek(null)
     setPendingWeek(league.currentWeek)
     actions.playWeek()
   }
@@ -253,8 +337,45 @@ export default function Home({ league, ctx, actions, onOpenDraft }) {
     return toast
   }
 
-  const lastResult =
-    data.lastWeek && league.results[data.lastWeek].find((r) => r.a === 'user' || r.b === 'user')
+  // ---------- Week being shown: a played week, or the current one ----------
+  const past = usePastWeek(league, ctx, viewWeek)
+  const summaryWeek = past ? past.week : data.lastWeek
+  const summaryResult = summaryWeek ? userResult(league, summaryWeek) : null
+
+  let fieldViews = data.lineupViews
+  let topPlayers = null
+  if (past) {
+    fieldViews = past.lineupViews
+    topPlayers = {
+      you: past.topYou,
+      opponent: past.topOpp,
+      opponentName: league.teams.find((t) => t.id === past.opponentId)?.name,
+      final: true,
+    }
+  } else if (data.matchup) {
+    const lastWeek = data.week - 1
+    const proj = (v) => v.projection
+    const line = (v) => {
+      const l = lastWeek >= 1 ? statLine(v.player, lastWeek, ctx) : null
+      return l ? `Last week: ${l}` : null
+    }
+    const oppViews = {}
+    for (const [slot, id] of Object.entries(data.opponentLineup)) {
+      oppViews[slot] = playerView(ctx.byId.get(id), {
+        ctx,
+        week: data.week,
+        statuses: league.statuses,
+        slot,
+        opponentLineup: league.rosters.user.lineup,
+      })
+    }
+    topPlayers = {
+      you: topOf(data.lineupViews, proj, line),
+      opponent: topOf(oppViews, proj, line),
+      opponentName: league.teams.find((t) => t.id === data.matchup.opponentId)?.name,
+      final: false,
+    }
+  }
 
   return (
     <main className="home">
@@ -288,17 +409,22 @@ export default function Home({ league, ctx, actions, onOpenDraft }) {
         </div>
 
         <div className="home__field" data-mobile-active={showOnMobile.team}>
-          <Matchup league={league} ctx={ctx} data={data} onPlay={handlePlay} />
-          <Field lineupViews={data.lineupViews} />
-          {lastResult && (
+          {past ? (
+            <PastMatchup league={league} past={past} onBack={() => onViewWeek(null)} />
+          ) : (
+            <Matchup league={league} ctx={ctx} data={data} onPlay={handlePlay} />
+          )}
+          <Field lineupViews={fieldViews}>{topPlayers && <TopPlayers {...topPlayers} />}</Field>
+          {summaryResult && (
             <WeekResult
-              key={data.lastWeek}
-              week={data.lastWeek}
-              result={lastResult}
+              key={summaryWeek}
+              week={summaryWeek}
+              result={summaryResult}
               teams={league.teams}
-              events={league.events[data.lastWeek] ?? []}
-              rosterIds={league.rosters.user.players}
+              events={league.events[summaryWeek] ?? []}
+              statuses={league.statuses}
               nameOf={nameOf}
+              ctx={ctx}
             />
           )}
         </div>

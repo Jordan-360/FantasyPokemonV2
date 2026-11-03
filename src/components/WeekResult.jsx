@@ -1,10 +1,14 @@
 import { useState } from 'react'
 import Panel from './Panel'
+import PlayerCircle from './PlayerCircle'
 import { weekLabel } from '../lib/league'
 import { slotLabel } from '../lib/lineup'
-import { effectivenessLabel } from '../lib/typeChart'
+import { positionLabel } from '../lib/players'
+import { statLine } from '../lib/projections'
+import { effectivenessMark } from '../lib/views'
 import './WeekResult.css'
 
+const TOP_PLAYS = 5
 const pct = (n) => `${n > 0 ? '+' : ''}${Math.round(n * 100)}%`
 
 function BoxScore({ title, lines, nameOf }) {
@@ -35,57 +39,80 @@ function BoxScore({ title, lines, nameOf }) {
   )
 }
 
-// The result of your most recent game, with the Pokémon-layer highlights.
-export default function WeekResult({ week, result, teams, events, rosterIds, nameOf }) {
+function TopPlay({ rank, play, ctx, week, nameOf, statuses, teamLabel, isUser, eventsFor }) {
+  const player = ctx.byId.get(play.id)
+  const eff = effectivenessMark(play.multiplier)
+  const moments = eventsFor(play.id)
+
+  return (
+    <li className={`play ${isUser ? 'play--user' : ''}`}>
+      <span className="play__rank num">{rank}</span>
+      <PlayerCircle
+        player={player}
+        name={nameOf(play.id)}
+        shiny={statuses[play.id]?.shiny}
+        className="play__circle"
+      />
+      <span className="play__text">
+        <span className="play__name">
+          {nameOf(play.id)}{' '}
+          <span className="play__who">
+            {player.player} · {positionLabel(player.position)} · {teamLabel}
+          </span>
+        </span>
+        <span className="play__line">{statLine(player, week, ctx) ?? '—'}</span>
+        {(eff || moments.length > 0) && (
+          <span className="play__chips">
+            {eff && <span className={`chip ${eff.className}`}>{eff.text}</span>}
+            {moments.map((m) => (
+              <span
+                key={m.type}
+                className={`chip ${m.type === 'shiny' ? 'chip--shiny' : 'chip--evolved'}`}
+              >
+                {m.type === 'shiny'
+                  ? 'Turned shiny!'
+                  : m.type === 'evolve'
+                    ? `Evolved into ${m.to}`
+                    : 'Powered up!'}
+              </span>
+            ))}
+          </span>
+        )}
+      </span>
+      <span className="play__pts num">{play.points.toFixed(1)}</span>
+    </li>
+  )
+}
+
+// Game summary for one week: final score, the top plays from both teams, and a box score.
+export default function WeekResult({ week, result, teams, events, statuses, nameOf, ctx }) {
   const [showBox, setShowBox] = useState(false)
   if (!result) return null
 
   const userIsA = result.a === 'user'
+  const oppId = userIsA ? result.b : result.a
   const you = {
     score: userIsA ? result.scoreA : result.scoreB,
     lines: userIsA ? result.lineA : result.lineB,
   }
-  const oppId = userIsA ? result.b : result.a
   const opp = {
     score: userIsA ? result.scoreB : result.scoreA,
     lines: userIsA ? result.lineB : result.lineA,
   }
   const won = result.winner === 'user'
   const oppName = teams.find((t) => t.id === oppId)?.name
+  const margin = Math.abs(you.score - opp.score).toFixed(1)
 
-  const mine = new Set(rosterIds)
-  const highlights = []
-  for (const l of you.lines) {
-    const label = effectivenessLabel(l.multiplier)
-    if (label && !l.fainted)
-      highlights.push({
-        key: `eff-${l.id}`,
-        text: `${nameOf(l.id)}: ${label}`,
-        kind: l.typeMod > 0 ? 'good' : 'bad',
-      })
-    if (l.fainted)
-      highlights.push({
-        key: `fnt-${l.id}`,
-        text: `${nameOf(l.id)} fainted (${l.fainted === 'bye' ? 'bye week' : "didn't play"})`,
-        kind: 'bad',
-      })
-  }
-  for (const e of events.filter((e) => mine.has(e.id))) {
-    if (e.type === 'evolve')
-      highlights.push({
-        key: `evo-${e.id}`,
-        text: `What? ${e.from} evolved into ${e.to}!`,
-        kind: 'evo',
-      })
-    if (e.type === 'powerup')
-      highlights.push({ key: `pow-${e.id}`, text: `${e.to} powered up!`, kind: 'evo' })
-    if (e.type === 'shiny')
-      highlights.push({
-        key: `shy-${e.id}`,
-        text: `${nameOf(e.id)} turned shiny with ${e.points} points!`,
-        kind: 'shiny',
-      })
-  }
+  const plays = [
+    ...you.lines.map((l) => ({ ...l, isUser: true })),
+    ...opp.lines.map((l) => ({ ...l, isUser: false })),
+  ]
+    .filter((l) => !l.fainted)
+    .sort((a, b) => b.points - a.points)
+    .slice(0, TOP_PLAYS)
+
+  const eventsFor = (id) => events.filter((e) => e.id === id)
+  const fainted = you.lines.filter((l) => l.fainted).map((l) => nameOf(l.id))
 
   return (
     <Panel className="week-result">
@@ -107,15 +134,32 @@ export default function WeekResult({ week, result, teams, events, rosterIds, nam
           <span className="week-result__name">{oppName}</span>
         </span>
       </div>
+      <p className="week-result__margin muted">
+        {won ? `You won by ${margin}` : `${oppName} won by ${margin}`}
+      </p>
 
-      {highlights.length > 0 && (
-        <ul className="week-result__highlights">
-          {highlights.map((h) => (
-            <li key={h.key} className={`hl hl--${h.kind}`}>
-              {h.text}
-            </li>
-          ))}
-        </ul>
+      <h3 className="roster__group">Top plays</h3>
+      <ol className="plays">
+        {plays.map((play, i) => (
+          <TopPlay
+            key={`${play.isUser}-${play.slot}`}
+            rank={i + 1}
+            play={play}
+            ctx={ctx}
+            week={week}
+            nameOf={nameOf}
+            statuses={statuses}
+            teamLabel={play.isUser ? 'You' : oppName}
+            isUser={play.isUser}
+            eventsFor={eventsFor}
+          />
+        ))}
+      </ol>
+
+      {fainted.length > 0 && (
+        <p className="week-result__fainted">
+          <strong>Fainted:</strong> {fainted.join(', ')} scored 0 for you.
+        </p>
       )}
 
       <button

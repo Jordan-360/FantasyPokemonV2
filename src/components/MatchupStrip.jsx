@@ -12,6 +12,7 @@ export default function MatchupStrip({
   oppProj,
   note,
   action,
+  unit = 'proj',
 }) {
   return (
     <section className="matchup" aria-label="This week's matchup">
@@ -33,7 +34,7 @@ export default function MatchupStrip({
             <span className="matchup__name">{userName}</span>
             {userProj !== undefined && (
               <span className="matchup__proj">
-                <span className="num">{userProj.toFixed(1)}</span> proj
+                <span className="num">{userProj.toFixed(1)}</span> {unit}
               </span>
             )}
           </div>
@@ -47,7 +48,7 @@ export default function MatchupStrip({
             </span>
             {oppProj !== undefined && (
               <span className="matchup__proj">
-                <span className="num">{oppProj.toFixed(1)}</span> proj
+                <span className="num">{oppProj.toFixed(1)}</span> {unit}
               </span>
             )}
           </div>

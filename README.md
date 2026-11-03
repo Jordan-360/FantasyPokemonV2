@@ -48,7 +48,7 @@ Fantasy weeks unlock as real NFL weeks are played. To pull the latest stats from
 npm run build-data
 ```
 
-This rewrites `src/data/weekly_points.json`, `projections.json` and `evolutions.json`. Your saved league keeps going, and the next week becomes playable.
+This rewrites `src/data/weekly_points.json`, `stat_lines.json`, `projections.json` and `evolutions.json`. Your saved league keeps going, and the next week becomes playable.
 
 ## Check the game logic
 

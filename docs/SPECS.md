@@ -49,13 +49,14 @@ A flat list of 704 pairs: each NFL team's 22 starters from the 2026-10-28 depth 
 
 ### Generated data (`npm run build-data`)
 
-`scripts/build-data.js` downloads public data and writes three files. Re-run it after each NFL week to unlock the next fantasy week.
+`scripts/build-data.js` downloads public data and writes four files. Re-run it after each NFL week to unlock the next fantasy week.
 
 - **`weekly_points.json`:** real fantasy points per 2026 week for every offensive pair (keyed by `playerId`) and every D/ST (keyed `DST-<team>`). `null` means the player didn't play (fainted). Also lists `weeksAvailable` (weeks whose games are all final) and each NFL team's `byes`.
   - Offense: nflverse `fantasy_points_ppr` (ESPN standard PPR).
   - K: FG 0–39 = 3, 40–49 = 4, 50+ = 5, PAT = 1, missed FG or PAT = −1.
   - D/ST: sack 1, INT 2, fumble recovery 2, safety 2, blocked kick 2, defensive/return TD 6, plus ESPN points-allowed and yards-allowed tiers.
 - **`projections.json`:** preseason projected PPG per pair: 2025 per-game points regressed toward a Madden OVR baseline fitted per position (4 games of prior weight). D/ST: 60% 2025 D/ST PPG, 40% OVR baseline. In season the app blends this with 2026 results so far (the preseason number counts as 3 games).
+- **`stat_lines.json`:** a short box-score line per player / D/ST per week ("7 rec, 112 yds, 1 TD"), shown in top plays and the top-player cards.
 - **`evolutions.json`:** the next one or two evolution stages for each paired Pokémon (Gen 1–6 only, first branch for split evolutions), from PokeAPI.
 
 `npm run simulate` drafts and plays a whole league from the command line and checks the rules (`--fill-future` fakes the unplayed weeks to exercise the playoffs).

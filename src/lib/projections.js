@@ -11,6 +11,11 @@ export function realPoints(player, week, ctx) {
   return value === undefined ? null : value
 }
 
+// Short box-score line for a played week, e.g. "7 rec, 112 yds, 1 TD"
+export function statLine(player, week, ctx) {
+  return ctx.statLines?.[player.key]?.[week - 1] ?? null
+}
+
 // Why a player can't play this week, or null if they're good to go.
 // For weeks whose stats are out we know who played; for future weeks only byes are known.
 export function faintedReason(player, week, ctx) {

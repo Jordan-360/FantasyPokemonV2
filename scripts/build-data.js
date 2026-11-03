@@ -3,6 +3,7 @@
 //   weekly_points.json  real fantasy points per player / D/ST per 2026 week (nflverse)
 //   projections.json    preseason projected points per game (2025 stats + Madden OVR)
 //   evolutions.json     the next evolution stages for each paired Pokémon (PokeAPI)
+//   stat_lines.json     a short box-score line per player / D/ST per week ("7 rec, 112 yds, 1 TD")
 //
 // Run it again whenever new NFL weeks have been played:
 //   npm run build-data
@@ -151,8 +152,69 @@ function dstPoints(team, opp, pointsAllowed) {
   )
 }
 
+// ---------- Stat lines ("24/35, 312 yds, 3 TD") ----------
+
+const plural = (n, word) => `${n} ${word}`
+
+function playerStatLine(r, position) {
+  const parts = []
+  const v = (k) => num(r[k])
+
+  if (position === 'K') {
+    parts.push(`FG ${v('fg_made')}/${v('fg_att')}${v('fg_made') ? ` (long ${v('fg_long')})` : ''}`)
+    parts.push(`XP ${v('pat_made')}/${v('pat_att')}`)
+    return parts.join(' · ')
+  }
+
+  const pass = () => {
+    let s = `${v('completions')}/${v('attempts')}, ${v('passing_yards')} pass yds`
+    if (v('passing_tds')) s += `, ${v('passing_tds')} TD`
+    if (v('passing_interceptions')) s += `, ${v('passing_interceptions')} INT`
+    return s
+  }
+  const rush = () => {
+    let s = `${plural(v('carries'), 'car')}, ${v('rushing_yards')} rush yds`
+    if (v('rushing_tds')) s += `, ${v('rushing_tds')} TD`
+    return s
+  }
+  const rec = () => {
+    let s = `${plural(v('receptions'), 'rec')}, ${v('receiving_yards')} yds`
+    if (v('receiving_tds')) s += `, ${v('receiving_tds')} TD`
+    return s
+  }
+
+  if (position === 'QB') {
+    if (v('attempts')) parts.push(pass())
+    if (v('rushing_yards') >= 10 || v('rushing_tds')) parts.push(rush())
+  } else if (position === 'RB') {
+    if (v('carries')) parts.push(rush())
+    if (v('receptions')) parts.push(rec())
+  } else {
+    if (v('targets') || v('receptions')) parts.push(rec())
+    if (v('rushing_yards') >= 10 || v('rushing_tds')) parts.push(rush())
+  }
+  if (v('special_teams_tds')) parts.push(`${v('special_teams_tds')} return TD`)
+  const fumbles = v('rushing_fumbles_lost') + v('receiving_fumbles_lost') + v('sack_fumbles_lost')
+  if (fumbles) parts.push(`${fumbles} fum lost`)
+  return parts.join(' · ') || 'No stats'
+}
+
+function dstStatLine(team, opp, pointsAllowed) {
+  const v = (k) => num(team[k])
+  const parts = []
+  if (v('def_sacks')) parts.push(`${v('def_sacks')} sack${v('def_sacks') === 1 ? '' : 's'}`)
+  if (v('def_interceptions')) parts.push(`${v('def_interceptions')} INT`)
+  if (v('fumble_recovery_opp')) parts.push(`${v('fumble_recovery_opp')} FR`)
+  const tds = v('def_tds') + v('special_teams_tds')
+  if (tds) parts.push(`${tds} TD`)
+  if (v('def_safeties')) parts.push(`${v('def_safeties')} safety`)
+  const yards = num(opp.passing_yards) - num(opp.sack_yards_lost) + num(opp.rushing_yards)
+  parts.push(`${pointsAllowed} pts allowed`, `${yards} yds allowed`)
+  return parts.join(' · ')
+}
+
 // D/ST points per team per week: { [team]: { [week]: points } }
-function buildDstWeeks(teamRows, games, season) {
+function buildDstWeeks(teamRows, games, season, lines = null) {
   const scores = new Map()
   for (const g of games) {
     if (Number(g.season) !== season || g.away_score === '') continue
@@ -175,6 +237,10 @@ function buildDstWeeks(teamRows, games, season) {
       if (!opp) continue
       out[team] ??= {}
       out[team][Number(row.week)] = dstPoints(row, opp, allowed[team])
+      if (lines) {
+        lines[team] ??= {}
+        lines[team][Number(row.week)] = dstStatLine(row, opp, allowed[team])
+      }
     }
   }
   return out
@@ -229,18 +295,32 @@ async function main() {
   const points = {}
   for (const p of offense) points[p.playerId] = Array(lastWeek).fill(null)
 
+  const statLines = {}
+  for (const p of offense) statLines[p.playerId] = Array(lastWeek).fill(null)
+
   for (const r of players) {
     const w = Number(r.week)
     if (r.season_type !== 'REG' || w > lastWeek || !posById.has(r.player_id)) continue
-    points[r.player_id][w - 1] = round1(playerPoints(r, posById.get(r.player_id)))
+    const position = posById.get(r.player_id)
+    points[r.player_id][w - 1] = round1(playerPoints(r, position))
+    statLines[r.player_id][w - 1] = playerStatLine(r, position)
   }
 
-  const dstWeeks = buildDstWeeks(teams, games, SEASON)
+  const dstLines = {}
+  const dstWeeks = buildDstWeeks(teams, games, SEASON, dstLines)
   for (const unit of dstUnits) {
     points[`DST-${unit.team}`] = Array.from({ length: lastWeek }, (_, i) =>
       dstWeeks[unit.team]?.[i + 1] !== undefined ? round1(dstWeeks[unit.team][i + 1]) : null
     )
   }
+
+  for (const unit of dstUnits) {
+    statLines[`DST-${unit.team}`] = Array.from(
+      { length: lastWeek },
+      (_, i) => dstLines[unit.team]?.[i + 1] ?? null
+    )
+  }
+  writeJson('stat_lines.json', statLines)
 
   writeJson('weekly_points.json', {
     season: SEASON,

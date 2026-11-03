@@ -1,0 +1,43 @@
+.week-picker {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: var(--color-panel);
+  white-space: nowrap;
+}
+
+.week-picker__step {
+  width: 30px;
+  height: 30px;
+  background: none;
+  border: none;
+  border-radius: 50%;
+  font-size: 20px;
+  line-height: 1;
+  color: var(--color-text);
+}
+
+.week-picker__step:disabled {
+  color: var(--color-border);
+  cursor: default;
+}
+
+.week-picker__step:not(:disabled):hover {
+  color: var(--color-accent);
+}
+
+.week-picker__select {
+  max-width: 170px;
+  padding: 4px 2px;
+  background: none;
+  border: none;
+  color: var(--color-text);
+  font-weight: 600;
+  text-align: center;
+  cursor: pointer;
+}
+
+.week-picker__select option {
+  background: var(--color-panel);
+}
