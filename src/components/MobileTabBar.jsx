@@ -1,6 +1,6 @@
 import './MobileTabBar.css'
 
-const TABS = [
+const HOME_TABS = [
   {
     id: 'team',
     label: 'Team',
@@ -49,10 +49,10 @@ const TABS = [
 ]
 
 // Only visible on phone-sized screens (see MobileTabBar.css)
-export default function MobileTabBar({ active, onChange }) {
+export default function MobileTabBar({ tabs = HOME_TABS, active, onChange, label = 'Sections' }) {
   return (
-    <nav className="tab-bar" aria-label="Sections">
-      {TABS.map((tab) => (
+    <nav className="tab-bar" aria-label={label}>
+      {tabs.map((tab) => (
         <button
           key={tab.id}
           className="tab-bar__item"

@@ -106,3 +106,24 @@
     max-height: none;
   }
 }
+
+.schedule__result {
+  white-space: nowrap;
+}
+
+.schedule__result.is-win {
+  color: #69f0ae;
+}
+
+.schedule__result.is-loss {
+  color: #ff8a80;
+}
+
+.standings__tag {
+  font-size: 12px;
+  color: var(--color-accent);
+}
+
+.standings th {
+  white-space: nowrap;
+}
