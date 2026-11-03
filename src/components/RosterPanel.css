@@ -99,3 +99,57 @@
   border-radius: var(--radius-sm);
   font-size: 12px;
 }
+
+.roster__edit[aria-pressed='true'] {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.roster-row__stats {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  line-height: 1.1;
+}
+
+.roster-row__proj {
+  font-size: 11px;
+  color: var(--color-muted);
+  white-space: nowrap;
+}
+
+.roster-row__text .chip {
+  align-self: flex-start;
+  margin-top: 2px;
+}
+
+.roster__warning {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 10px 12px;
+  border: 1px solid rgba(239, 83, 80, 0.4);
+  border-radius: var(--radius-md);
+  background: rgba(239, 83, 80, 0.08);
+  font-size: 13px;
+}
+
+.slot-picker {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 8px 0 10px 50px;
+}
+
+.slot-picker__label {
+  font-size: 12px;
+  color: var(--color-muted);
+}
+
+.slot-picker__options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}

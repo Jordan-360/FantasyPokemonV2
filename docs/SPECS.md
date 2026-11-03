@@ -47,10 +47,18 @@ A flat list of 704 pairs: each NFL team's 22 starters from the 2026-10-28 depth 
 
 `dominantType` is the most common type among the unit's 12 Pokémon. It drives the type-matchup twist.
 
-### Still to build
+### Generated data (`npm run build-data`)
 
-- **Weekly points:** `weekly_points.json` with each player's real fantasy points per week (from nflverse weekly stats), keyed by `playerId`, plus team D/ST points.
-- **Projections:** a projected points-per-game number per pair, used to rank the draft board and drive CPU picks.
+`scripts/build-data.js` downloads public data and writes three files. Re-run it after each NFL week to unlock the next fantasy week.
+
+- **`weekly_points.json`:** real fantasy points per 2026 week for every offensive pair (keyed by `playerId`) and every D/ST (keyed `DST-<team>`). `null` means the player didn't play (fainted). Also lists `weeksAvailable` (weeks whose games are all final) and each NFL team's `byes`.
+  - Offense: nflverse `fantasy_points_ppr` (ESPN standard PPR).
+  - K: FG 0–39 = 3, 40–49 = 4, 50+ = 5, PAT = 1, missed FG or PAT = −1.
+  - D/ST: sack 1, INT 2, fumble recovery 2, safety 2, blocked kick 2, defensive/return TD 6, plus ESPN points-allowed and yards-allowed tiers.
+- **`projections.json`:** preseason projected PPG per pair: 2025 per-game points regressed toward a Madden OVR baseline fitted per position (4 games of prior weight). D/ST: 60% 2025 D/ST PPG, 40% OVR baseline. In season the app blends this with 2026 results so far (the preseason number counts as 3 games).
+- **`evolutions.json`:** the next one or two evolution stages for each paired Pokémon (Gen 1–6 only, first branch for split evolutions), from PokeAPI.
+
+`npm run simulate` drafts and plays a whole league from the command line and checks the rules (`--fill-future` fakes the unplayed weeks to exercise the playoffs).
 
 ---
 
@@ -256,7 +264,10 @@ The home screen is built around **your roster on a football field**. It starts e
 
 ---
 
-## 9. Open questions
+## 9. Decisions on earlier open questions
 
-- **League setup:** how the user names their league and team before the first draft (a first-launch form, or part of the Draft Room).
-- **Standings record ties:** playoff seeding tiebreaker when two teams have the same record (e.g., total points scored).
+- **League setup:** a first-launch form in the Draft Room (league name + team name), then the draft starts with a random order. "New league" in the header starts over.
+- **Standings record ties:** total points scored, then team OVR. The same order seeds the playoffs.
+- **Matchup ties after every starter is compared:** the first-listed team (higher seed in the playoffs) wins.
+- **Waivers:** CPU claims run right after each week resolves, in priority order. Your claims are instant any time during the season and send you to the back of the priority line.
+- **Evolution and shiny progress** is tracked for every Pokémon in the pool, whoever rosters it, so free agents keep their progress.

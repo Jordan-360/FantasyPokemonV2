@@ -1,20 +1,40 @@
 import './Header.css'
 
-export default function Header({ leagueName, teamName, record, week }) {
+export default function Header({ leagueName, teamName, record, week, onLogoClick, onNewLeague }) {
   return (
     <header className="header">
-      <div className="header__brand">
-        <img src="/logo.svg" alt="Fantasy Pokemon Logo" width={40} height={40} />
+      <a
+        className="header__brand"
+        href="#"
+        onClick={(e) => {
+          e.preventDefault()
+          onLogoClick?.()
+        }}
+      >
+        <img src="/logo.svg" alt="" width={40} height={40} />
         <span className="header__title">
-          Fantasy <span className="header__title-accent">Pokemon</span>
+          Fantasy <span className="header__title-accent">Pokémon</span>
         </span>
-      </div>
+      </a>
       <div className="header__info">
-        <span className="header__league">{leagueName}</span>
-        <span className="header__team">
-          {teamName} · <span className="num">{record}</span>
-        </span>
-        <span className="header__week">{week}</span>
+        {leagueName && <span className="header__league">{leagueName}</span>}
+        {teamName && (
+          <span className="header__team">
+            {teamName}
+            {record && (
+              <>
+                {' '}
+                · <span className="num">{record}</span>
+              </>
+            )}
+          </span>
+        )}
+        {week && <span className="header__week">{week}</span>}
+        {onNewLeague && (
+          <button className="header__new" onClick={onNewLeague} title="Start a new league">
+            New league
+          </button>
+        )}
       </div>
     </header>
   )

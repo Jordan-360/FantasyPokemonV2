@@ -40,6 +40,24 @@ npm run dev
 
 Then open the link shown in the terminal (usually http://localhost:5173).
 
+## Update the NFL stats
+
+Fantasy weeks unlock as real NFL weeks are played. To pull the latest stats from nflverse:
+
+```bash
+npm run build-data
+```
+
+This rewrites `src/data/weekly_points.json`, `projections.json` and `evolutions.json`. Your saved league keeps going, and the next week becomes playable.
+
+## Check the game logic
+
+```bash
+npm run simulate -- --fill-future
+```
+
+Drafts and plays a full league in the terminal and checks the rules: full rosters, one K and one D/ST each, no more than 2 CPU claims a week, and a champion at the end.
+
 ## Project structure
 
 ```
@@ -48,7 +66,9 @@ src/
   data/          Pokémon ↔ NFL pairs and D/ST units (fixed data)
   pages/         Screens: Home dashboard and Draft Room
   components/    Reusable UI pieces
-  lib/           Game logic: draft, scoring, standings, saving
+  hooks/         useLeague: league state + saving
+  lib/           Game logic: draft, scoring, waivers, season, saving
+scripts/         build-data (download stats) and simulate (rules check)
   styles/        Global CSS
 ```
 

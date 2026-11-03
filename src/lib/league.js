@@ -12,17 +12,18 @@ export const CPU_TEAM_NAMES = [
 
 export const REGULAR_SEASON_WEEKS = 14
 export const PLAYOFF_TEAMS = 4
+export const SEMIFINAL_WEEK = 15
+export const FINAL_WEEK = 16
 
 // You + 9 CPU teams
 export function createTeams(userTeamName) {
-  const you = { id: 'user', name: userTeamName, isUser: true, wins: 0, losses: 0, ovr: null }
+  const blank = { wins: 0, losses: 0, pointsFor: 0, pointsAgainst: 0, ovr: null }
+  const you = { id: 'user', name: userTeamName, isUser: true, ...blank }
   const cpus = CPU_TEAM_NAMES.map((name, i) => ({
     id: `cpu${i + 1}`,
     name,
     isUser: false,
-    wins: 0,
-    losses: 0,
-    ovr: null, // team Madden OVR, filled in after the draft
+    ...blank,
   }))
   return [you, ...cpus]
 }
@@ -49,9 +50,19 @@ export function generateSchedule(teamIds, weeks = REGULAR_SEASON_WEEKS) {
   }))
 }
 
-// Most wins first, then fewest losses, then team OVR (the preseason ranking)
+// Most wins first, then fewest losses, then points scored, then team OVR (the preseason ranking)
 export function sortStandings(teams) {
   return [...teams].sort(
-    (a, b) => b.wins - a.wins || a.losses - b.losses || (b.ovr ?? 0) - (a.ovr ?? 0)
+    (a, b) =>
+      b.wins - a.wins ||
+      a.losses - b.losses ||
+      (b.pointsFor ?? 0) - (a.pointsFor ?? 0) ||
+      (b.ovr ?? 0) - (a.ovr ?? 0)
   )
+}
+
+export function weekLabel(week) {
+  if (week === SEMIFINAL_WEEK) return 'Semifinals'
+  if (week === FINAL_WEEK) return 'Championship'
+  return `Week ${week}`
 }

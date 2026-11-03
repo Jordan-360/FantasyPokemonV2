@@ -1,0 +1,138 @@
+.week-result {
+  margin-top: 14px;
+}
+
+.week-result__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.week-result__title {
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.week-result__badge {
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.week-result__badge.is-win {
+  background: rgba(105, 240, 174, 0.15);
+  color: #69f0ae;
+}
+
+.week-result__badge.is-loss {
+  background: rgba(255, 138, 128, 0.15);
+  color: #ff8a80;
+}
+
+.week-result__score {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: 12px;
+}
+
+.week-result__side {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  min-width: 0;
+}
+
+.week-result__side--right {
+  justify-content: flex-end;
+}
+
+.week-result__name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+.week-result__pts {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.week-result__highlights {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 13px;
+}
+
+.hl::before {
+  content: '•';
+  margin-right: 6px;
+}
+.hl--good {
+  color: #69f0ae;
+}
+.hl--bad {
+  color: #ff8a80;
+}
+.hl--evo {
+  color: #b39dff;
+}
+.hl--shiny {
+  color: var(--color-accent);
+}
+
+.week-result > .btn {
+  align-self: flex-start;
+}
+
+.week-result__box {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 14px;
+}
+
+.box-score {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.box-score caption {
+  text-align: left;
+  font-weight: 700;
+  padding-bottom: 4px;
+}
+
+.box-score th {
+  text-align: left;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--color-muted);
+  padding: 4px 6px 4px 0;
+}
+
+.box-score td {
+  padding: 4px 6px 4px 0;
+  border-top: 1px solid var(--color-divider);
+  white-space: nowrap;
+}
+
+.box-score td:nth-child(2) {
+  max-width: 110px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.box-score__fainted {
+  color: var(--color-muted);
+}

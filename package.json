@@ -9,6 +9,8 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "preview": "vite preview",
+    "build-data": "node scripts/build-data.js",
+    "simulate": "node scripts/simulate.js",
     "prepare": "husky"
   },
   "lint-staged": {
