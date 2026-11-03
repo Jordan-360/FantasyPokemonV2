@@ -284,6 +284,37 @@ export function projectedTotal(lineup, week, ctx) {
   return Math.round(total * 10) / 10
 }
 
+// Every game in a week for the scoreboard. Played weeks use the stored results;
+// the current week shows projected totals and lineups.
+export function weekScoreboard(state, week, ctx) {
+  if (state.results[week]) {
+    return state.results[week].map((r) => ({ ...r, final: true }))
+  }
+  if (week !== state.currentWeek || state.phase !== 'season') return []
+
+  const projectedLines = (lineup) =>
+    STARTER_SLOTS.filter(({ id }) => lineup[id]).map(({ id: slot }) => {
+      const p = ctx.byId.get(lineup[slot])
+      return {
+        slot,
+        id: p.id,
+        fainted: faintedReason(p, week, ctx),
+        projection: weekProjection(p, week, ctx),
+      }
+    })
+
+  return gamesForWeek(state, week).map(([a, b]) => ({
+    a,
+    b,
+    scoreA: projectedTotal(state.rosters[a].lineup, week, ctx),
+    scoreB: projectedTotal(state.rosters[b].lineup, week, ctx),
+    lineA: projectedLines(state.rosters[a].lineup),
+    lineB: projectedLines(state.rosters[b].lineup),
+    winner: null,
+    final: false,
+  }))
+}
+
 // Plays the current week: scores every game, updates records, evolutions and shinies,
 // advances the playoff bracket, then runs CPU waivers and lineups for the next week.
 export function playWeek(state, ctx) {
