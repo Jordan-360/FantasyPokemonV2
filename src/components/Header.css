@@ -1,0 +1,59 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px max(16px, 3vw);
+  background: var(--color-header);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.header__brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.header__title {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 26px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.header__title-accent {
+  color: var(--color-accent);
+}
+
+.header__info {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-size: 14px;
+  color: var(--color-muted);
+}
+
+.header__team {
+  color: var(--color-text);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.header__week {
+  padding: 5px 10px;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .header__title {
+    font-size: 21px;
+  }
+  .header__league,
+  .header__team {
+    display: none;
+  }
+}

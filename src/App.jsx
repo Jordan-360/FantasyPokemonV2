@@ -1,11 +1,16 @@
+import Header from './components/Header'
+import DraftBanner from './components/DraftBanner'
+
 export default function App() {
+  const roster = []
   return (
-    <main style={{ padding: 24 }}>
-      <h1>
-        Fantasy <span style={{ color: 'var(--color-accent)' }}>Pokemon</span> V2
-      </h1>
-      <p style={{ color: 'var(--color-muted)' }}>Global styles loaded</p>
-      <span className="num">99</span>
-    </main>
+    <>
+      <Header leagueName="Premier League" teamName="Team Rocket" record="12-4" week="Week 12" />
+      <main style={{ padding: 24 }}>
+        {roster.length === 0 && (
+          <DraftBanner onDraftClick={() => console.log('Draft Room coming soon...')} />
+        )}
+      </main>
+    </>
   )
 }
