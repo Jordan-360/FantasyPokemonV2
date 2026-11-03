@@ -1,0 +1,68 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap);
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 24px max(16px, 3vw) 48px;
+}
+
+/* Desktop: roster + schedule | field | free agents */
+.home__grid {
+  display: grid;
+  grid-template-columns: minmax(260px, 320px) minmax(0, 1fr) minmax(260px, 340px);
+  grid-template-areas:
+    'roster   field fa'
+    'schedule field fa';
+  gap: var(--gap);
+  align-items: start;
+}
+
+.home__roster {
+  grid-area: roster;
+}
+.home__schedule {
+  grid-area: schedule;
+}
+.home__field {
+  grid-area: field;
+}
+.home__free-agents {
+  grid-area: fa;
+}
+
+/* Tablet: field across the top, then two columns */
+@media (max-width: 1100px) {
+  .home__grid {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-areas:
+      'field    field'
+      'roster   fa'
+      'schedule fa';
+  }
+}
+
+/* Phone: one column (the tab bar comes in step 9) */
+@media (max-width: 700px) {
+  .home__grid {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      'field'
+      'roster'
+      'schedule'
+      'fa';
+  }
+}
+
+/* Temporary: shows each empty box until real content goes in */
+.placeholder {
+  color: var(--color-muted);
+  padding: 40px 0;
+  text-align: center;
+  border: 1px dashed var(--color-border);
+  border-radius: var(--radius-md);
+}
+
+.home__field .placeholder {
+  padding: 160px 0;
+}
